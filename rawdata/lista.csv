@@ -1,0 +1,416 @@
+@href,@onclick,#text,@title
+http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/allegati/Tabella_incidenza3010.pdf,window.open(this.href); return false;,Tabella incidenza 19 - 25 ottobre,
+http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/allegati/Grafico_RT3010.pdf,window.open(this.href); return false;,Grafico Rt,
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Abruzzo_20201027.pdf,window.open(this.href); return false;,Abruzzo,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Basilicata_20201027.pdf,window.open(this.href); return false;,Basilicata,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Calabria_20201027.pdf,window.open(this.href); return false;,Calabria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Campania_20201027.pdf,window.open(this.href); return false;,Campania,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Emilia-Romagna_20201027.pdf,window.open(this.href); return false;,Emilia Romagna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Friuli-Venezia_Giulia_20201027.pdf,window.open(this.href); return false;,Friuli Venezia Giulia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lazio_20201027.pdf,window.open(this.href); return false;,Lazio,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Liguria_20201027.pdf,window.open(this.href); return false;,Liguria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lombardia_20201027.pdf,window.open(this.href); return false;,Lombardia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Marche_20201027.pdf,window.open(this.href); return false;,Marche,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Molise_20201027.pdf,window.open(this.href); return false;,Molise,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Bolzano_20201027.pdf,window.open(this.href); return false;,PA Bolzano,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Trento_20201027.pdf,window.open(this.href); return false;,PA Trento,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Piemonte_20201027.pdf,window.open(this.href); return false;,Piemonte,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Puglia_20201027.pdf,window.open(this.href); return false;,Puglia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sardegna_20201027.pdf,window.open(this.href); return false;,Sardegna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sicilia_20201027.pdf,window.open(this.href); return false;,Sicilia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Toscana_20201027.pdf,window.open(this.href); return false;,Toscana,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Umbria_20201027.pdf,window.open(this.href); return false;,Umbria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_ValledAosta_20201027.pdf,window.open(this.href); return false;,Valle D'Aosta,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Veneto_20201027.pdf,window.open(this.href); return false;,Veneto,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Abruzzo_20201020.pdf,window.open(this.href); return false;,Abruzzo,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Basilicata_20201020.pdf,window.open(this.href); return false;,Basilicata,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Calabria_20201020.pdf,window.open(this.href); return false;,Calabria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Campania_20201020.pdf,window.open(this.href); return false;,Campania,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Emilia-Romagna_20201020.pdf,window.open(this.href); return false;,Emilia Romagna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Friuli-Venezia_Giulia_20201020.pdf,window.open(this.href); return false;,Friuli Venezia Giulia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lazio_20201020.pdf,window.open(this.href); return false;,Lazio,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Liguria_20201020.pdf,window.open(this.href); return false;,Liguria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lombardia_20201020.pdf,window.open(this.href); return false;,Lombardia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Marche_20201020.pdf,window.open(this.href); return false;,Marche,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Molise_20201020.pdf,window.open(this.href); return false;,Molise,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Bolzano_20201020.pdf,window.open(this.href); return false;,PA Bolzano,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Trento_20201020.pdf,window.open(this.href); return false;,PA Trento,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Piemonte_20201020.pdf,window.open(this.href); return false;,Piemonte,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Puglia_20201020.pdf,window.open(this.href); return false;,Puglia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sardegna_20201020.pdf,window.open(this.href); return false;,Sardegna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sicilia_20201020.pdf,window.open(this.href); return false;,Sicilia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Toscana_20201020.pdf,window.open(this.href); return false;,Toscana,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Umbria_20201020.pdf,window.open(this.href); return false;,Umbria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_ValledAosta_20201020.pdf,window.open(this.href); return false;,Valle D'Aosta,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Veneto_20201020.pdf,window.open(this.href); return false;,Veneto,Apre documento pdf
+http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/allegati/tabella_incidenza_05_11_ott_2020.pdf,window.open(this.href); return false;,Tabella incidenza 5 - 11 ottobre,
+http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/allegati/grafico_rt_05_11_ott.pdf,,Grafico Rt,
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Abruzzo_20201013.pdf,window.open(this.href); return false;,Abruzzo,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Basilicata_20201013.pdf,window.open(this.href); return false;,Basilicata,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Calabria_20201013.pdf,window.open(this.href); return false;,Calabria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Campania_20201013.pdf,window.open(this.href); return false;,Campania,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Emilia-Romagna_20201013.pdf,window.open(this.href); return false;,Emilia Romagna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Friuli-Venezia-Giulia_20201013.pdf,window.open(this.href); return false;,Friuli Venezia Giulia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lazio_20201013.pdf,window.open(this.href); return false;,Lazio,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Liguria_20201013.pdf,window.open(this.href); return false;,Liguria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lombardia_20201013.pdf,window.open(this.href); return false;,Lombardia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Marche_20201013.pdf,window.open(this.href); return false;,Marche,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Molise_20201013.pdf,window.open(this.href); return false;,Molise,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Bolzano_20201013.pdf,window.open(this.href); return false;,PA Bolzano,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Trento_20201013.pdf,window.open(this.href); return false;,PA Trento,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Piemonte_20201013.pdf,window.open(this.href); return false;,Piemonte,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Puglia_20201013.pdf,window.open(this.href); return false;,Puglia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sardegna_20201013.pdf,window.open(this.href); return false;,Sardegna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sicilia_20201013.pdf,window.open(this.href); return false;,Sicilia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Toscana_20201013.pdf,window.open(this.href); return false;,Toscana,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Umbria_20201013.pdf,window.open(this.href); return false;,Umbria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_ValledAosta_20201013.pdf,window.open(this.href); return false;,Valle D'Aosta,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Veneto_20201013.pdf,window.open(this.href); return false;,Veneto,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/allegati/Punti_chiave_e_tabella_incidenza_13_19_luglio_2020.pdf,window.open(this.href); return false;,Punti chiave e tabella incidenza 13 - 19 luglio 2020,
+/portale/news/documenti/Epi_aggiornamenti/Abruzzo_20200721.pdf,window.open(this.href); return false;,Abruzzo,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Basilicata_20200721.pdf,window.open(this.href); return false;,Basilicata,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Calabria_20200721.pdf,window.open(this.href); return false;,Calabria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Campania_20200721.pdf,window.open(this.href); return false;,Campania,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Emilia-Romagna_20200721.pdf,window.open(this.href); return false;,Emilia Romagna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Friuli-Venezia_Giulia_20200721.pdf,window.open(this.href); return false;,Friuli Venezia Giulia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lazio_20200721.pdf,window.open(this.href); return false;,Lazio,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Liguria_20200721.pdf,window.open(this.href); return false;,Liguria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lombardia_20200721.pdf,window.open(this.href); return false;,Lombardia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Marche_20200721.pdf,window.open(this.href); return false;,Marche,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Molise_20200721.pdf,window.open(this.href); return false;,Molise,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Bolzano_20200721.pdf,window.open(this.href); return false;,PA Bolzano,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Trento_20200721.pdf,window.open(this.href); return false;,PA Trento,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Piemonte_20200721.pdf,window.open(this.href); return false;,Piemonte,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Puglia_20200721.pdf,window.open(this.href); return false;,Puglia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sardegna_20200721.pdf,window.open(this.href); return false;,Sardegna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sicilia_20200721.pdf,window.open(this.href); return false;,Sicilia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Toscana_20200721.pdf,window.open(this.href); return false;,Toscana,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Umbria_20200721.pdf,window.open(this.href); return false;,Umbria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/ValledAosta_20200721.pdf,window.open(this.href); return false;,Valle D'Aosta,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Veneto_20200721.pdf,window.open(this.href); return false;,Veneto,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/allegati/Punti_chiave_e_tabella_incidenza_21_27_sett_2020.pdf,window.open(this.href); return false;,Tabella incidenza 21 - 27 settembre 2020,
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Abruzzo_20200929.pdf,window.open(this.href); return false;,Abruzzo,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Basilicata_20200929.pdf,window.open(this.href); return false;,Basilicata,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Calabria_20200929.pdf,window.open(this.href); return false;,Calabria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Campania_20200929.pdf,window.open(this.href); return false;,Campania,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Emilia-Romagna_20200929.pdf,window.open(this.href); return false;,Emilia Romagna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Friuli-Venezia_Giulia_20200929.pdf,window.open(this.href); return false;,Friuli Venezia Giulia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lazio_20200929.pdf,window.open(this.href); return false;,Lazio,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Liguria_20200929.pdf,window.open(this.href); return false;,Liguria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lombardia_20200929.pdf,window.open(this.href); return false;,Lombardia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Marche_20200929.pdf,window.open(this.href); return false;,Marche,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Molise_20200929.pdf,window.open(this.href); return false;,Molise,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Bolzano_20200929.pdf,window.open(this.href); return false;,PA Bolzano,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Trento_20200929.pdf,window.open(this.href); return false;,PA Trento,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Piemonte_20200929.pdf,window.open(this.href); return false;,Piemonte,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Puglia_20200929.pdf,window.open(this.href); return false;,Puglia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sardegna_20200929.pdf,window.open(this.href); return false;,Sardegna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sicilia_20200929.pdf,window.open(this.href); return false;,Sicilia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Toscana_20200929.pdf,window.open(this.href); return false;,Toscana,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Umbria_20200929.pdf,window.open(this.href); return false;,Umbria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_ValledAosta_20200929.pdf,window.open(this.href); return false;,Valle D'Aosta,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Veneto_20200929.pdf,window.open(this.href); return false;,Veneto,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/allegati/Punti_chiave_e_tabella_incidenza_24_30_agosto_2020.pdf,,Punti chiave e tabella incidenza 24 - 30 agosto 2020,
+/portale/news/documenti/Epi_aggiornamenti/allegati/Rt_20200901.pdf,window.open(this.href); return false;,Grafico Rt,Apre documento pdf Grafico Rt
+/portale/news/documenti/Epi_aggiornamenti/Abruzzo_20200901.pdf,window.open(this.href); return false;,Abruzzo,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Basilicata_20200901.pdf,window.open(this.href); return false;,Basilicata,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Calabria_20200901.pdf,window.open(this.href); return false;,Calabria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Campania_20200901.pdf,window.open(this.href); return false;,Campania,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Emilia-Romagna_20200901.pdf,window.open(this.href); return false;,Emilia Romagna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Friuli-Venezia_Giulia_20200901.pdf,window.open(this.href); return false;,Friuli Venezia Giulia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lazio_20200901.pdf,window.open(this.href); return false;,Lazio,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Liguria_20200901.pdf,window.open(this.href); return false;,Liguria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lombardia_20200901.pdf,window.open(this.href); return false;,Lombardia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Marche_20200901.pdf,window.open(this.href); return false;,Marche,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Molise_20200901.pdf,window.open(this.href); return false;,Molise,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Bolzano_20200901.pdf,window.open(this.href); return false;,PA Bolzano,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Trento_20200901.pdf,window.open(this.href); return false;,PA Trento,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Piemonte_20200901.pdf,window.open(this.href); return false;,Piemonte,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Puglia_20200901.pdf,window.open(this.href); return false;,Puglia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sardegna_20200901.pdf,window.open(this.href); return false;,Sardegna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sicilia_20200901.pdf,window.open(this.href); return false;,Sicilia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Toscana_20200901.pdf,window.open(this.href); return false;,Toscana,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Umbria_20200901.pdf,window.open(this.href); return false;,Umbria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/ValledAosta_20200901.pdf,window.open(this.href); return false;,Valle D'Aosta,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Veneto_20200901.pdf,window.open(this.href); return false;,Veneto,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Abruzzo_20200818.pdf,window.open(this.href); return false;,Abruzzo,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Basilicata_20200818.pdf,window.open(this.href); return false;,Basilicata,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Calabria_20200818.pdf,window.open(this.href); return false;,Calabria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Campania_20200818.pdf,window.open(this.href); return false;,Campania,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Emilia-Romagna_20200818.pdf,window.open(this.href); return false;,Emilia Romagna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Friuli-Venezia_Giulia_20200818.pdf,window.open(this.href); return false;,Friuli Venezia Giulia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lazio_20200818.pdf,window.open(this.href); return false;,Lazio,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Liguria_20200818.pdf,window.open(this.href); return false;,Liguria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lombardia_20200818.pdf,window.open(this.href); return false;,Lombardia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Marche_20200818.pdf,window.open(this.href); return false;,Marche,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Molise_20200818.pdf,window.open(this.href); return false;,Molise,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Bolzano_20200818.pdf,window.open(this.href); return false;,PA Bolzano,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Trento_20200818.pdf,window.open(this.href); return false;,PA Trento,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Piemonte_20200818.pdf,window.open(this.href); return false;,Piemonte,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Puglia_20200818.pdf,window.open(this.href); return false;,Puglia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sardegna_20200818.pdf,window.open(this.href); return false;,Sardegna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sicilia_20200818.pdf,window.open(this.href); return false;,Sicilia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Toscana_20200818.pdf,window.open(this.href); return false;,Toscana,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Umbria_20200818.pdf,window.open(this.href); return false;,Umbria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/ValledAosta_20200818.pdf,window.open(this.href); return false;,Valle D'Aosta,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Veneto_20200818.pdf,window.open(this.href); return false;,Veneto,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Abruzzo_20200811.pdf,window.open(this.href); return false;,Abruzzo,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Basilicata_20200811.pdf,window.open(this.href); return false;,Basilicata,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Calabria_20200811.pdf,window.open(this.href); return false;,Calabria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Campania_20200811.pdf,window.open(this.href); return false;,Campania,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Emilia-Romagna_20200811.pdf,window.open(this.href); return false;,Emilia Romagna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Friuli-Venezia_Giulia_20200811.pdf,window.open(this.href); return false;,Friuli Venezia Giulia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lazio_20200811.pdf,window.open(this.href); return false;,Lazio,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Liguria_20200811.pdf,window.open(this.href); return false;,Liguria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lombardia_20200811.pdf,window.open(this.href); return false;,Lombardia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Marche_20200811.pdf,window.open(this.href); return false;,Marche,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Molise_20200811.pdf,window.open(this.href); return false;,Molise,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Bolzano_20200811.pdf,window.open(this.href); return false;,PA Bolzano,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Trento_20200811.pdf,window.open(this.href); return false;,PA Trento,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Piemonte_20200811.pdf,window.open(this.href); return false;,Piemonte,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Puglia_20200811.pdf,window.open(this.href); return false;,Puglia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sardegna_20200811.pdf,window.open(this.href); return false;,Sardegna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sicilia_20200811.pdf,window.open(this.href); return false;,Sicilia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Toscana_20200811.pdf,window.open(this.href); return false;,Toscana,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Umbria_20200811.pdf,window.open(this.href); return false;,Umbria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/ValledAosta_20200811.pdf,window.open(this.href); return false;,Valle D'Aosta,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Veneto_20200811.pdf,window.open(this.href); return false;,Veneto,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/allegati/Rt_20200915.pdf,window.open(this.href); return false;,Grafico Rt,Apre documento pdf Grafico Rt
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Abruzzo_20200915.pdf,window.open(this.href); return false;,Abruzzo,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Basilicata_20200915.pdf,window.open(this.href); return false;,Basilicata,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Calabria_20200915.pdf,window.open(this.href); return false;,Calabria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Campania_20200915.pdf,window.open(this.href); return false;,Campania,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Emilia-Romagna_20200915.pdf,window.open(this.href); return false;,Emilia Romagna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Friuli-Venezia_Giulia_20200915.pdf,window.open(this.href); return false;,Friuli Venezia Giulia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lazio_20200915.pdf,window.open(this.href); return false;,Lazio,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Liguria_20200915.pdf,window.open(this.href); return false;,Liguria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lombardia_20200915.pdf,window.open(this.href); return false;,Lombardia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Marche_20200915.pdf,window.open(this.href); return false;,Marche,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Molise_20200915.pdf,window.open(this.href); return false;,Molise,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Bolzano_20200915.pdf,window.open(this.href); return false;,PA Bolzano,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Trento_20200915.pdf,window.open(this.href); return false;,PA Trento,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Piemonte_20200915.pdf,window.open(this.href); return false;,Piemonte,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Puglia_20200915.pdf,window.open(this.href); return false;,Puglia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sardegna_20200915.pdf,window.open(this.href); return false;,Sardegna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sicilia_20200915.pdf,window.open(this.href); return false;,Sicilia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Toscana_20200915.pdf,window.open(this.href); return false;,Toscana,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Umbria_20200915.pdf,window.open(this.href); return false;,Umbria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_ValledAosta_20200915.pdf,window.open(this.href); return false;,Valle D'Aosta,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Veneto_20200915.pdf,window.open(this.href); return false;,Veneto,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/allegati/Punti_chiave_e_tabella_incidenza_14_20_sett_2020.pdf,window.open(this.href); return false;,Punti chiave e tabella incidenza 14 - 20 settembre 2020,
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Abruzzo_20200922.pdf,window.open(this.href); return false;,Abruzzo,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Basilicata_20200922.pdf,window.open(this.href); return false;,Basilicata,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Calabria_20200922.pdf,window.open(this.href); return false;,Calabria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Campania_20200922.pdf,window.open(this.href); return false;,Campania,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Emilia-Romagna_20200922.pdf,window.open(this.href); return false;,Emilia Romagna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Friuli-Venezia_Giulia_20200922.pdf,window.open(this.href); return false;,Friuli Venezia Giulia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lazio_20200922.pdf,window.open(this.href); return false;,Lazio,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Liguria_20200922.pdf,window.open(this.href); return false;,Liguria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lombardia_20200922.pdf,window.open(this.href); return false;,Lombardia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Marche_20200922.pdf,window.open(this.href); return false;,Marche,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Molise_20200922.pdf,window.open(this.href); return false;,Molise,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Bolzano_20200922.pdf,window.open(this.href); return false;,PA Bolzano,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Trento_20200922.pdf,window.open(this.href); return false;,PA Trento,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Piemonte_20200922.pdf,window.open(this.href); return false;,Piemonte,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Puglia_20200922.pdf,window.open(this.href); return false;,Puglia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sardegna_20200922.pdf,window.open(this.href); return false;,Sardegna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sicilia_20200922.pdf,window.open(this.href); return false;,Sicilia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Toscana_20200922.pdf,window.open(this.href); return false;,Toscana,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Umbria_20200922.pdf,window.open(this.href); return false;,Umbria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_ValledAosta_20200922.pdf,window.open(this.href); return false;,Valle D'Aosta,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Veneto_20200922.pdf,window.open(this.href); return false;,Veneto,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/allegati/Punti_chiave_e_tabella_incidenza_14_20_sett_2020.pdf,window.open(this.href); return false;,Punti chiave e tabella incidenza 14 - 20 settembre 2020,
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Abruzzo_20200922.pdf,window.open(this.href); return false;,Abruzzo,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Basilicata_20200922.pdf,window.open(this.href); return false;,Basilicata,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Calabria_20200922.pdf,window.open(this.href); return false;,Calabria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Campania_20200922.pdf,window.open(this.href); return false;,Campania,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Emilia-Romagna_20200922.pdf,window.open(this.href); return false;,Emilia Romagna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Friuli-Venezia_Giulia_20200922.pdf,window.open(this.href); return false;,Friuli Venezia Giulia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lazio_20200922.pdf,window.open(this.href); return false;,Lazio,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Liguria_20200922.pdf,window.open(this.href); return false;,Liguria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lombardia_20200922.pdf,window.open(this.href); return false;,Lombardia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Marche_20200922.pdf,window.open(this.href); return false;,Marche,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Molise_20200922.pdf,window.open(this.href); return false;,Molise,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Bolzano_20200922.pdf,window.open(this.href); return false;,PA Bolzano,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Trento_20200922.pdf,window.open(this.href); return false;,PA Trento,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Piemonte_20200922.pdf,window.open(this.href); return false;,Piemonte,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Puglia_20200922.pdf,window.open(this.href); return false;,Puglia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sardegna_20200922.pdf,window.open(this.href); return false;,Sardegna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sicilia_20200922.pdf,window.open(this.href); return false;,Sicilia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Toscana_20200922.pdf,window.open(this.href); return false;,Toscana,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Umbria_20200922.pdf,window.open(this.href); return false;,Umbria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_ValledAosta_20200922.pdf,window.open(this.href); return false;,Valle D'Aosta,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Veneto_20200922.pdf,window.open(this.href); return false;,Veneto,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Abruzzo_20200804.pdf,window.open(this.href); return false;,Abruzzo,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Basilicata_20200804.pdf,window.open(this.href); return false;,Basilicata,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Calabria_20200804.pdf,window.open(this.href); return false;,Calabria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Campania_20200804.pdf,window.open(this.href); return false;,Campania,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Emilia-Romagna_20200804.pdf,window.open(this.href); return false;,Emilia Romagna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Friuli-Venezia_Giulia_20200804.pdf,window.open(this.href); return false;,Friuli Venezia Giulia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lazio_20200804.pdf,window.open(this.href); return false;,Lazio,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Liguria_20200804.pdf,window.open(this.href); return false;,Liguria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lombardia_20200804.pdf,window.open(this.href); return false;,Lombardia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Marche_20200804.pdf,window.open(this.href); return false;,Marche,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Molise_20200804.pdf,window.open(this.href); return false;,Molise,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Bolzano_20200804.pdf,window.open(this.href); return false;,PA Bolzano,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Trento_20200804.pdf,window.open(this.href); return false;,PA Trento,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Piemonte_20200804.pdf,window.open(this.href); return false;,Piemonte,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Puglia_20200804.pdf,window.open(this.href); return false;,Puglia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sardegna_20200804.pdf,window.open(this.href); return false;,Sardegna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sicilia_20200804.pdf,window.open(this.href); return false;,Sicilia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Toscana_20200804.pdf,window.open(this.href); return false;,Toscana,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Umbria_20200804.pdf,window.open(this.href); return false;,Umbria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/ValledAosta_20200804.pdf,window.open(this.href); return false;,Valle D'Aosta,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Veneto_20200804.pdf,window.open(this.href); return false;,Veneto,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/allegati/Punti_chiave_e_tabella_incidenza_06_10_ott_2020.pdf,window.open(this.href); return false;,Tabella incidenza 28 settembre - 04 ottobre 2020,
+/portale/news/documenti/Epi_aggiornamenti/allegati/GRAFICO_RT20201006.pdf,window.open(this.href); return false;,Grafico Rt,
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Abruzzo_20201006.pdf,window.open(this.href); return false;,Abruzzo,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Basilicata_20201006.pdf,window.open(this.href); return false;,Basilicata,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Calabria_20201006.pdf,window.open(this.href); return false;,Calabria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Campania_20201006.pdf,window.open(this.href); return false;,Campania,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Emilia-Romagna_20201006.pdf,window.open(this.href); return false;,Emilia Romagna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Friuli-Venezia Giulia_20201006.pdf,window.open(this.href); return false;,Friuli Venezia Giulia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lazio_20201006.pdf,window.open(this.href); return false;,Lazio,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Liguria_20201006.pdf,window.open(this.href); return false;,Liguria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lombardia_20201006.pdf,window.open(this.href); return false;,Lombardia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Marche_20201006.pdf,window.open(this.href); return false;,Marche,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Molise_20201006.pdf,window.open(this.href); return false;,Molise,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Bolzano_20201006.pdf,window.open(this.href); return false;,PA Bolzano,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Trento_20201006.pdf,window.open(this.href); return false;,PA Trento,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Piemonte_20201006.pdf,window.open(this.href); return false;,Piemonte,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Puglia_20201006.pdf,window.open(this.href); return false;,Puglia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sardegna_20201006.pdf,window.open(this.href); return false;,Sardegna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sicilia_20201006.pdf,window.open(this.href); return false;,Sicilia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Toscana_20201006.pdf,window.open(this.href); return false;,Toscana,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Umbria_20201006.pdf,window.open(this.href); return false;,Umbria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_ValledAosta_20201006.pdf,window.open(this.href); return false;,Valle D'Aosta,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Veneto_20201006.pdf,window.open(this.href); return false;,Veneto,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/allegati/Punti_chiave_e_tabella_incidenza_31_ago_06_sett_2020.pdf,window.open(this.href); return false;,Punti chiave e tabella incidenza 31 agosto - 6 settembre 2020,
+/portale/news/documenti/Epi_aggiornamenti/allegati/Rt_20200908.pdf,window.open(this.href); return false;,Grafico Rt,Apre documento pdf Grafico Rt
+/portale/news/documenti/Epi_aggiornamenti/Abruzzo_20200908.pdf,window.open(this.href); return false;,Abruzzo,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Basilicata_20200908.pdf,window.open(this.href); return false;,Basilicata,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Calabria_20200908.pdf,window.open(this.href); return false;,Calabria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Campania_20200908.pdf,window.open(this.href); return false;,Campania,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Emilia-Romagna_20200908.pdf,window.open(this.href); return false;,Emilia Romagna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Friuli-Venezia_Giulia_20200908.pdf,window.open(this.href); return false;,Friuli Venezia Giulia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lazio_20200908.pdf,window.open(this.href); return false;,Lazio,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Liguria_20200908.pdf,window.open(this.href); return false;,Liguria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lombardia_20200908.pdf,window.open(this.href); return false;,Lombardia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Marche_20200908.pdf,window.open(this.href); return false;,Marche,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Molise_20200908.pdf,window.open(this.href); return false;,Molise,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Bolzano_20200908.pdf,window.open(this.href); return false;,PA Bolzano,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Trento_20200908.pdf,window.open(this.href); return false;,PA Trento,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Piemonte_20200908.pdf,window.open(this.href); return false;,Piemonte,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Puglia_20200908.pdf,window.open(this.href); return false;,Puglia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sardegna_20200908.pdf,window.open(this.href); return false;,Sardegna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sicilia_20200908.pdf,window.open(this.href); return false;,Sicilia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Toscana_20200908.pdf,window.open(this.href); return false;,Toscana,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Umbria_20200908.pdf,window.open(this.href); return false;,Umbria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/ValledAosta_20200908.pdf,window.open(this.href); return false;,Valle D'Aosta,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Veneto_20200908.pdf,window.open(this.href); return false;,Veneto,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Abruzzo_20200623.pdf,window.open(this.href); return false;,Abruzzo,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Basilicata_20200623.pdf,window.open(this.href); return false;,Basilicata,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Calabria_20200623.pdf,window.open(this.href); return false;,Calabria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Campania_20200623.pdf,window.open(this.href); return false;,Campania,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Emilia-Romagna_20200623.pdf,window.open(this.href); return false;,Emilia Romagna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Friuli-Venezia_Giulia_20200623.pdf,window.open(this.href); return false;,Friuli Venezia Giulia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lazio_20200623.pdf,window.open(this.href); return false;,Lazio,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Liguria_20200623.pdf,window.open(this.href); return false;,Liguria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lombardia_20200623.pdf,window.open(this.href); return false;,Lombardia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Marche_20200623.pdf,window.open(this.href); return false;,Marche,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Molise_20200623.pdf,window.open(this.href); return false;,Molise,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Bolzano_20200623.pdf,window.open(this.href); return false;,PA Bolzano,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Trento_20200623.pdf,window.open(this.href); return false;,PA Trento,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Piemonte_20200623.pdf,window.open(this.href); return false;,Piemonte,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Puglia_20200623.pdf,window.open(this.href); return false;,Puglia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sardegna_20200623.pdf,window.open(this.href); return false;,Sardegna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sicilia_20200623.pdf,window.open(this.href); return false;,Sicilia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Toscana_20200623.pdf,window.open(this.href); return false;,Toscana,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Umbria_20200623.pdf,window.open(this.href); return false;,Umbria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/ValledAosta_20200623.pdf,window.open(this.href); return false;,Valle D'Aosta,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Veneto_20200623.pdf,window.open(this.href); return false;,Veneto,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Abruzzo_20200526.pdf,window.open(this.href); return false;,Abruzzo,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Basilicata_20200526.pdf,window.open(this.href); return false;,Basilicata,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Calabria_20200526.pdf,window.open(this.href); return false;,Calabria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Campania_20200526.pdf,window.open(this.href); return false;,Campania,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Emilia-Romagna_20200526.pdf,window.open(this.href); return false;,Emilia Romagna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Friuli-Venezia Giulia_20200526.pdf,window.open(this.href); return false;,Friuli Venezia Giulia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lazio_20200526.pdf,window.open(this.href); return false;,Lazio,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Liguria_20200526.pdf,window.open(this.href); return false;,Liguria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lombardia_20200526.pdf,window.open(this.href); return false;,Lombardia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Marche_20200526.pdf,window.open(this.href); return false;,Marche,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Molise_20200526.pdf,window.open(this.href); return false;,Molise,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Bolzano_20200526.pdf,window.open(this.href); return false;,PA Bolzano,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Trento_20200526.pdf,window.open(this.href); return false;,PA Trento,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Piemonte_20200526.pdf,window.open(this.href); return false;,Piemonte,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Puglia_20200526.pdf,window.open(this.href); return false;,Puglia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sardegna_20200526.pdf,window.open(this.href); return false;,Sardegna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sicilia_20200526.pdf,window.open(this.href); return false;,Sicilia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Toscana_20200526.pdf,window.open(this.href); return false;,Toscana,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Umbria_20200526.pdf,window.open(this.href); return false;,Umbria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/ValledAosta_20200526.pdf,window.open(this.href); return false;,Valle D'Aosta,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Veneto_20200526.pdf,window.open(this.href); return false;,Veneto,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/allegati/Punti_chiave_e_tabella_incidenza_20_26_luglio_2020.pdf,,Punti chiave e tabella incidenza 20 - 26 luglio 2020,
+/portale/news/documenti/Epi_aggiornamenti/Abruzzo_20200728.pdf,window.open(this.href); return false;,Abruzzo,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Basilicata_20200728.pdf,window.open(this.href); return false;,Basilicata,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Calabria_20200728.pdf,window.open(this.href); return false;,Calabria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Campania_20200728.pdf,window.open(this.href); return false;,Campania,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Emilia-Romagna_20200728.pdf,window.open(this.href); return false;,Emilia Romagna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Friuli-Venezia_Giulia_20200728.pdf,window.open(this.href); return false;,Friuli Venezia Giulia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lazio_20200728.pdf,window.open(this.href); return false;,Lazio,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Liguria_20200728.pdf,window.open(this.href); return false;,Liguria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lombardia_20200728.pdf,window.open(this.href); return false;,Lombardia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Marche_20200728.pdf,window.open(this.href); return false;,Marche,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Molise_20200728.pdf,window.open(this.href); return false;,Molise,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Bolzano_20200728.pdf,window.open(this.href); return false;,PA Bolzano,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Trento_20200728.pdf,window.open(this.href); return false;,PA Trento,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Piemonte_20200728.pdf,window.open(this.href); return false;,Piemonte,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Puglia_20200728.pdf,window.open(this.href); return false;,Puglia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sardegna_20200728.pdf,window.open(this.href); return false;,Sardegna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sicilia_20200728.pdf,window.open(this.href); return false;,Sicilia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Toscana_20200728.pdf,window.open(this.href); return false;,Toscana,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Umbria_20200728.pdf,window.open(this.href); return false;,Umbria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/ValledAosta_20200728.pdf,window.open(this.href); return false;,Valle D'Aosta,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Veneto_20200728.pdf,window.open(this.href); return false;,Veneto,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Abruzzo_20200714.pdf,window.open(this.href); return false;,Abruzzo,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Basilicata_20200714.pdf,window.open(this.href); return false;,Basilicata,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Calabria_20200714.pdf,window.open(this.href); return false;,Calabria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Campania_20200714.pdf,window.open(this.href); return false;,Campania,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Emilia-Romagna_20200714.pdf,window.open(this.href); return false;,Emilia Romagna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Friuli-Venezia_Giulia_20200714.pdf,window.open(this.href); return false;,Friuli Venezia Giulia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lazio_20200714.pdf,window.open(this.href); return false;,Lazio,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Liguria_20200714.pdf,window.open(this.href); return false;,Liguria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lombardia_20200714.pdf,window.open(this.href); return false;,Lombardia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Marche_20200714.pdf,window.open(this.href); return false;,Marche,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Molise_20200714.pdf,window.open(this.href); return false;,Molise,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Bolzano_20200714.pdf,window.open(this.href); return false;,PA Bolzano,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Trento_20200714.pdf,window.open(this.href); return false;,PA Trento,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Piemonte_20200714.pdf,window.open(this.href); return false;,Piemonte,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Puglia_20200714.pdf,window.open(this.href); return false;,Puglia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sardegna_20200714.pdf,window.open(this.href); return false;,Sardegna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sicilia_20200714.pdf,window.open(this.href); return false;,Sicilia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Toscana_20200714.pdf,window.open(this.href); return false;,Toscana,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Umbria_20200714.pdf,window.open(this.href); return false;,Umbria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/ValledAosta_20200714.pdf,window.open(this.href); return false;,Valle D'Aosta,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Veneto_20200714.pdf,window.open(this.href); return false;,Veneto,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Abruzzo_20200707.pdf,window.open(this.href); return false;,Abruzzo,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Basilicata_20200707.pdf,window.open(this.href); return false;,Basilicata,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Calabria_20200707.pdf,window.open(this.href); return false;,Calabria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Campania_20200707.pdf,window.open(this.href); return false;,Campania,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Emilia-Romagna_20200707.pdf,window.open(this.href); return false;,Emilia Romagna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Friuli-Venezia_Giulia_20200707.pdf,window.open(this.href); return false;,Friuli Venezia Giulia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lazio_20200707.pdf,window.open(this.href); return false;,Lazio,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Liguria_20200707.pdf,window.open(this.href); return false;,Liguria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Lombardia_20200707.pdf,window.open(this.href); return false;,Lombardia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Marche_20200707.pdf,window.open(this.href); return false;,Marche,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Molise_20200707.pdf,window.open(this.href); return false;,Molise,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Bolzano_20200707.pdf,window.open(this.href); return false;,PA Bolzano,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/PA_Trento_20200707.pdf,window.open(this.href); return false;,PA Trento,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Piemonte_20200707.pdf,window.open(this.href); return false;,Piemonte,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Puglia_20200707.pdf,window.open(this.href); return false;,Puglia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sardegna_20200707.pdf,window.open(this.href); return false;,Sardegna,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Sicilia_20200707.pdf,window.open(this.href); return false;,Sicilia,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Toscana_20200707.pdf,window.open(this.href); return false;,Toscana,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Umbria_20200707.pdf,window.open(this.href); return false;,Umbria,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/ValledAosta_20200707.pdf,window.open(this.href); return false;,Valle D'Aosta,Apre documento pdf
+/portale/news/documenti/Epi_aggiornamenti/Veneto_20200707.pdf,window.open(this.href); return false;,Veneto,Apre documento pdf
