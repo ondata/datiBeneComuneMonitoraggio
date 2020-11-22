@@ -3,6 +3,7 @@
 ### requisiti ###
 # Miller https://github.com/johnkerl/miller
 # scrape-cli https://github.com/aborruso/scrape-cli
+# xq https://kislyuk.github.io/yq/
 ### requisiti ###
 
 set -x
