@@ -70,7 +70,7 @@ Il file è [`script/processing/listaURLReport`](script/processing/listaURLReport
 
 ## File jsonlines con dati grezzi per produrre i vari output
 
-I dati grezzi per produrre la gran parte dei file di output è questo file in formato jsonline: [`script/processing/listaURLReport`](script/processing/listaFileReport.jsonl).
+I dati grezzi per produrre la gran parte dei file di output è questo file in formato jsonlines: [`script/processing/listaURLReport`](script/processing/listaFileReport.jsonl).
 
 # Script
 
