@@ -1,1 +1,4 @@
 listaPDF.csv
+tmp*
+rawdata/
+catalogo/monitoraggioSettimanale/script/old_monitoraggioSettimanale.sh
