@@ -64,7 +64,7 @@ Sotto un'anteprima
 
 ## Lista URL pagine che web del sito del ministero di possibile interesse
 
-È stato creata (e verrà aggiornato giornalmente) la lista degli URL delle pagine che rispondono alla *query* [`monitoraggio settimanale covid-19`](http://cerca.ministerosalute.it/search?ulang=it&proxystylesheet=notiziePORT_front-end&access=p&sort=date%3AD%3AS%3Ad1&wc=200&ud=1&entqr=3&output=xml_no_dtd&filter=p&q=monitoraggio%20settimanale%20covid-19&site=notiziePORT_collection&wc_mc=1&oe=UTF-8&tlen=2048&getfields=*&client=notiziePORT_front-end&ie=UTF-8&entqrm=0&start=0) nella sezione news sul sito del ministero.
+È stata creata (e verrà aggiornata giornalmente) la lista degli URL delle pagine che rispondono alla *query* [`monitoraggio settimanale covid-19`](http://cerca.ministerosalute.it/search?ulang=it&proxystylesheet=notiziePORT_front-end&access=p&sort=date%3AD%3AS%3Ad1&wc=200&ud=1&entqr=3&output=xml_no_dtd&filter=p&q=monitoraggio%20settimanale%20covid-19&site=notiziePORT_collection&wc_mc=1&oe=UTF-8&tlen=2048&getfields=*&client=notiziePORT_front-end&ie=UTF-8&entqrm=0&start=0) nella sezione news sul sito del ministero.
 
 Il file è [`script/processing/listaURLReport`](script/processing/listaURLReport).
 
