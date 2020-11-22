@@ -39,7 +39,7 @@ if [ $code -eq 200 ]; then
   # scarica in loop elenco URL pagine risultato della query
   START=0
   while [[ "$START" -lt "$numeroRisultati" ]]; do
-    curl "http://cerca.ministerosalute.it/search?ulang=it&proxystylesheet=notiziePORT_front-end&access=p&btnG=Cerca&sort=date%3AD%3AS%3Ad1&wc=200&ud=1&entqr=3&output=xml_no_dtd&filter=p&q=$stringaQuery&wc_mc=1&site=notiziePORT_collection&oe=UTF-8&tlen=2048&getfields=*&client=notiziePORT_front-end&ie=UTF-8&entqrm=0&start=$START" | scrape -be '.results a' | xq -r '.html.body.a[]."@href"' >>"$folder"/rawdata/listaURL
+    curl -kL "http://cerca.ministerosalute.it/search?ulang=it&proxystylesheet=notiziePORT_front-end&access=p&btnG=Cerca&sort=date%3AD%3AS%3Ad1&wc=200&ud=1&entqr=3&output=xml_no_dtd&filter=p&q=$stringaQuery&wc_mc=1&site=notiziePORT_collection&oe=UTF-8&tlen=2048&getfields=*&client=notiziePORT_front-end&ie=UTF-8&entqrm=0&start=$START" | scrape -be '.results a' | xq -r '.html.body.a[]."@href"' >>"$folder"/rawdata/listaURL
     let START=START+10
   done
 
@@ -60,6 +60,6 @@ if [ $code -eq 200 ]; then
   # crea file markdown con lista report regionali Epicento
   mlr --c2m put '$titoloFile="[".$titoloFile."](".$hrefFile.")"' then cut -f titoloFile,dataReport then sort -f titoloFile,dataReport "$folder"/../output/"$nome".csv >"$folder"/../output/"$nome".md
 
-  mv "$folder"/rawdata/lista.jsonl "$folder"/processing/lista.jsonl
-  mv "$folder"/rawdata/listaURL "$folder"/processing/listaURL
+  mv "$folder"/rawdata/lista.jsonl "$folder"/processing/listaFileReport.jsonl
+  mv "$folder"/rawdata/listaURL "$folder"/processing/listaURLReport
 fi
