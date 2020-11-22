@@ -1,4 +1,4 @@
-name: scarica dati positivi Provincia Palermo
+name: estrai lista monitoraggio Settimanale Epicentro
 
 on:
   push:
