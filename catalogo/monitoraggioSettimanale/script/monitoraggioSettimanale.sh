@@ -49,12 +49,18 @@ if [ $code -eq 200 ]; then
   rm "$folder"/rawdata/anagraficaPagine.dpkv
   while read p; do
     curl -kL "$p" >"$folder"/rawdata/pagina.html
+    # estrai titolo pagina
     titoloPagina=$(scrape <"$folder"/rawdata/pagina.html -e '//title/text()' | tr '(\n|\r|\t)' ' ' | sed -r 's/ +/ /g')
+    # se il titolo contiene report
     if [[ "$titoloPagina" =~ "report" ]]; then
+      # crea file anagrafica pagine, con url e titolo pagina
       echo -e "titolo=$titoloPagina\turl=$p" | mlr --fs "\t" clean-whitespace >>"$folder"/rawdata/anagraficaPagine.dpkv
+      # estrai lista dei tag <a> che hanno come href un file PDF
       scrape <"$folder"/rawdata/pagina.html -be '//div[@class="portlet tab-content"]//a[@href[contains(.,"pdf")]]' | xq -c '.html.body.a[] | .|= .+ {url:"'"$p"'"}' >>"$folder"/rawdata/lista.jsonl
     fi
   done <"$folder"/rawdata/listaURL
+
+  mlr --ocsv --ifs "\t" cat "$folder"/rawdata/anagraficaPagine.dpkv >"$folder"/processing/anagraficaPagine.csv
 
   # estrai CSV dei report regionali Epicentro PDF
   mlr --j2c unsparsify then rename -r '(@|#)','' then filter -S 'tolower($href)=~"epi.+[0-9]{6}"' then put -S '$dataReport=regextract_or_else($href,"[0-9]{8}","")' then cut -x -f onclick then put -S 'if($href=~"^/"){$hrefFile="http://www.salute.gov.it".$href}else{$hrefFile=$href}' then filter -x -S '(tolower($href)=~"grafico") || (tolower($title)=~"grafico")' then cut -x -f title,href then rename text,titoloFile then reorder -e -f url "$folder"/rawdata/lista.jsonl >"$folder"/../output/"$nome".csv
@@ -63,4 +69,8 @@ if [ $code -eq 200 ]; then
 
   mv "$folder"/rawdata/lista.jsonl "$folder"/processing/listaFileReport.jsonl
   mv "$folder"/rawdata/listaURL "$folder"/processing/listaURLReport
+
+  # aggiungi a elenco file PDF report, il titolo della pagina da cui sono estratti
+  mlr --csv join --ul -j url -f "$folder"/../output/"$nome".csv then unsparsify then sort -f dataReport then reorder -e -f url then rename titolo,titoloPagina "$folder"/processing/anagraficaPagine.csv >"$folder"/rawdata/tmp.csv
+  mv "$folder"/rawdata/tmp.csv "$folder"/../output/"$nome".csv
 fi
