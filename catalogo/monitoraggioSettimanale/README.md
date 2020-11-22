@@ -82,7 +82,7 @@ Due i file chiave:
 # Problematicità
 
 - la licenza del sito del Ministero della Salute è [NC-ND](http://www.salute.gov.it/portale/p5_0.jsp?lingua=italiano&id=50), quindi non è possibile derivare nulla, nemmeno questa lista;
-- il [file del Friuli Venezia Giulia](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Friuli-Venezia_Giulia_20200915.pdf) del "[report 7-13 settembre](http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5061)" non è disponibile all'URL indicato nella pagia;
+- il [file del Friuli Venezia Giulia](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Friuli-Venezia_Giulia_20200915.pdf) del "[report 7-13 settembre](http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5061)" non è disponibile all'URL indicato nella pagina;
 
 # Da fare
 
