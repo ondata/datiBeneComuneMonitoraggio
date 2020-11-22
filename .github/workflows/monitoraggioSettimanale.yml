@@ -18,10 +18,9 @@ jobs:
       run: |-
         mkdir -p ~/bin
         cp bin/mlr ~/bin
-        cd ~/bin
-        chmod +x mlr
         cp bin/scrape ~/bin
         cd ~/bin
+        chmod +x mlr
         chmod +x scrape
     - name: scarica i dati
       run: |-
