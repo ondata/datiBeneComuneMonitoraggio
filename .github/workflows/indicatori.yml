@@ -1,7 +1,7 @@
 name: estrai lista monitoraggio Settimanale Epicentro Fase 2
 
 on:
-  push:
+#  push:
   repository_dispatch:
   schedule:
     - cron:  '10 2 */1 * *'
