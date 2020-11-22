@@ -60,10 +60,21 @@ if [ $code -eq 200 ]; then
     fi
   done <"$folder"/rawdata/listaURL
 
+  # crea CSV dell'anagrafica delle pagine
   mlr --ocsv --ifs "\t" cat "$folder"/rawdata/anagraficaPagine.dpkv >"$folder"/processing/anagraficaPagine.csv
 
   # estrai CSV dei report regionali Epicentro PDF
-  mlr --j2c unsparsify then rename -r '(@|#)','' then filter -S 'tolower($href)=~"epi.+[0-9]{6}"' then put -S '$dataReport=regextract_or_else($href,"[0-9]{8}","")' then cut -x -f onclick then put -S 'if($href=~"^/"){$hrefFile="http://www.salute.gov.it".$href}else{$hrefFile=$href}' then filter -x -S '(tolower($href)=~"grafico") || (tolower($title)=~"grafico")' then cut -x -f title,href then rename text,titoloFile then reorder -e -f url "$folder"/rawdata/lista.jsonl >"$folder"/../output/"$nome".csv
+  mlr --j2c unsparsify \
+    then rename -r '(@|#)','' \
+    then filter -S 'tolower($href)=~"epi.+[0-9]{6}"' \
+    then put -S '$dataReport=regextract_or_else($href,"[0-9]{8}","")' \
+    then cut -x -f onclick \
+    then put -S 'if($href=~"^/"){$hrefFile="http://www.salute.gov.it".$href}else{$hrefFile=$href}' \
+    then filter -x -S '(tolower($href)=~"grafico") || (tolower($title)=~"grafico")' \
+    then cut -x -f title,href \
+    then rename text,titoloFile \
+    then reorder -e -f url "$folder"/rawdata/lista.jsonl >"$folder"/../output/"$nome".csv
+
   # crea file markdown con lista report regionali Epicento
   mlr --c2m put '$titoloFile="[".$titoloFile."](".gsub($hrefFile," ","%20").")"' then cut -f titoloFile,dataReport then sort -f dataReport "$folder"/../output/"$nome".csv >"$folder"/../output/"$nome".md
 
