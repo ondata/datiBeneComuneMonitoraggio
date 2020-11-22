@@ -1,7 +1,7 @@
 name: estrai lista file PDF 21 indicatori regionali
 
 on:
-  push:
+#  push:
   repository_dispatch:
   schedule:
     - cron:  '10 2 */1 * *'
