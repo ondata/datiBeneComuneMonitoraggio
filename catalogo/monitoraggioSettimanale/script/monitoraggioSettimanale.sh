@@ -82,6 +82,10 @@ if [ $code -eq 200 ]; then
   mv "$folder"/rawdata/listaURL "$folder"/processing/listaURLReport
 
   # aggiungi a elenco file PDF, il titolo della pagina da cui sono estratti
-  mlr --csv join --ul -j url -f "$folder"/../output/"$nome".csv then unsparsify then sort -f dataReport then reorder -e -f url then rename titolo,titoloPagina "$folder"/processing/anagraficaPagine.csv >"$folder"/rawdata/tmp.csv
+  mlr --csv join --ul -j url -f "$folder"/../output/"$nome".csv \
+    then unsparsify \
+    then sort -f dataReport \
+    then reorder -e -f url \
+    then rename titolo,titoloPagina "$folder"/processing/anagraficaPagine.csv >"$folder"/rawdata/tmp.csv
   mv "$folder"/rawdata/tmp.csv "$folder"/../output/"$nome".csv
 fi
