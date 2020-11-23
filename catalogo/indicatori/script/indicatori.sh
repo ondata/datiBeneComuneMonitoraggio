@@ -24,7 +24,7 @@ URL="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCo
 code=$(curl -s -L -o /dev/null -w "%{http_code}" ''"$URL"'')
 
 # se il sito è raggiungibile scarica  i dati
-if [ $code -eq 200 ]; then
+if [ "$code" -eq 200 ]; then
 
   # crea lista URL delle pagine di interesse
   curl "http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto" | scrape -be '//div[@class="container-fluid"]//a[contains(text(),"MONIT") or strong[contains(text(),"MONIT")]]' | xq -c '.html.body.a[]' | mlr --json rename -r '^(@|#)', then rename strong,text >>"$folder"/rawdata/listaURL.json
@@ -37,7 +37,7 @@ if [ $code -eq 200 ]; then
   mlr -I --csv -N uniq -a "$folder"/processing/listaURL
 
   # per ogni URL estrai info sui PDF con i dati sugli indicatori
-  while read p; do
+  while read -r p; do
     curl -kL "http://www.salute.gov.it$p" >"$folder"/rawdata/tmp_pagina.html
     titoloPagina=$(scrape <"$folder"/rawdata/tmp_pagina.html -e '//title/text()' | tr '(\n|\r|\t)' ' ' | sed -r 's/ +/ /g')
     scrape <"$folder"/rawdata/tmp_pagina.html -be '//a[contains(text(),"indica")]' | xq -c '.html.body.a| .|= .+ {url:"'"$p"'"}| .|= .+ {titoloPagina:"'"$titoloPagina"'"}' >>"$folder"/rawdata/listaFileRport.jsonl
@@ -56,8 +56,9 @@ if [ $code -eq 200 ]; then
   mlr --j2c unsparsify \
     then put '$href="http://www.salute.gov.it".$href;$url="http://www.salute.gov.it".$url' \
     then cut -x -f onclick,title \
-    then rename href,hrefFile,text,titoloFile "$folder"/processing/listaFileRport.jsonl >"$folder"/../output/indicatori.csv
+    then rename href,hrefFile,text,titoloFile "$folder"/processing/listaFileRport.jsonl >"$folder"/../output/"$nome".csv
 
-  mlr --c2m put '$titoloFile="[".$titoloFile."](".$hrefFile.")"' then cut -f titoloFile,titoloPagina "$folder"/../output/indicatori.csv >"$folder"/../output/indicatori.md
+  # crea file markdown anagrafica lista PDF indicatori
+  mlr --c2m put '$titoloFile="[".$titoloFile."](".$hrefFile.")"' then cut -f titoloFile,titoloPagina "$folder"/../output/"$nome".csv >"$folder"/../output/"$nome".md
 
 fi
