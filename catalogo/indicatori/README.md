@@ -23,7 +23,7 @@ Alcuni punti:
 - non c'è una pagina dove "guardarli" tutti insieme in lista;
 - non c'è una file di testo strutturato con questo elenco.
 
-Un "indice" di questi documenti consente di fare diverse cose: una di queste è crearne una copia di archivio. La prima è stata fatta oggi (22/11/2020) su *web archive* (vedi [qui](https://i.imgur.com/K9Mkroe.png)).
+Un "indice" di questi documenti consente di fare diverse cose: una di queste è crearne una copia di archivio. La prima è stata fatta oggi (22/11/2020) su *web archive* (vedi [qui](https://web.archive.org/web/*/https://github.com/ondata/datiBeneComuneMonitoraggio/blob/main/catalogo/indicatori/output/indicatori.md)).
 
 # Fonte dati
 
