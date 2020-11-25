@@ -78,8 +78,8 @@ if [ $code -eq 200 ]; then
   # crea file markdown con lista report regionali Epicento
   mlr --c2m put '$titoloFile="[".$titoloFile."](".gsub($hrefFile," ","%20").")"' then cut -f titoloFile,dataReport then sort -f dataReport "$folder"/../output/"$nome".csv >"$folder"/../output/"$nome".md
 
-  mv "$folder"/rawdata/lista.jsonl "$folder"/processing/listaFileReport.jsonl
-  mv "$folder"/rawdata/listaURL "$folder"/processing/listaURLReport
+  <"$folder"/rawdata/lista.jsonl mlr --json sort -r url -f "#text" >"$folder"/processing/listaFileReport.jsonl
+  <"$folder"/rawdata/listaURL sort -r >"$folder"/processing/listaURLReport
 
   # aggiungi a elenco file PDF, il titolo della pagina da cui sono estratti
   mlr --csv join --ul -j url -f "$folder"/../output/"$nome".csv \
