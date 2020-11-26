@@ -40,9 +40,9 @@
 | [Bolletino-sorveglianza-integrata-COVID-19_8-settembre-2020_appendix.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bolletino-sorveglianza-integrata-COVID-19_8-settembre-2020_appendix.pdf) | 8-settembre-2020 | appendice |
 | [Bolletino-sorveglianza-integrata-COVID-19_9-aprile-2020_appendix.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bolletino-sorveglianza-integrata-COVID-19_9-aprile-2020_appendix.pdf) | 9-aprile-2020 | appendice |
 | [Bolletino-sorveglianza-integrata-COVID-19_9-giugno-2020_appendix.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bolletino-sorveglianza-integrata-COVID-19_9-giugno-2020_appendix.pdf) | 9-giugno-2020 | appendice |
-| [Bollettino%20sorveglianza%20integrata%20COVID-19_16%20marzo%202020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino%20sorveglianza%20integrata%20COVID-19_16%20marzo%202020.pdf) | 16%20marzo%202020 |  |
-| [Bollettino%20sorveglianza%20integrata%20COVID-19_19-marzo%202020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino%20sorveglianza%20integrata%20COVID-19_19-marzo%202020.pdf) | 19-marzo%202020 |  |
-| [Bollettino%20sorveglianza%20integrata%20COVID-19_19-marzo%202020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino%20sorveglianza%20integrata%20COVID-19_19-marzo%202020.pdf) | 19-marzo%202020 |  |
+| [Bollettino%20sorveglianza%20integrata%20COVID-19_16%20marzo%202020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino%20sorveglianza%20integrata%20COVID-19_16%20marzo%202020.pdf) | 16-marzo-2020 |  |
+| [Bollettino%20sorveglianza%20integrata%20COVID-19_19-marzo%202020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino%20sorveglianza%20integrata%20COVID-19_19-marzo%202020.pdf) | 19-marzo-2020 |  |
+| [Bollettino%20sorveglianza%20integrata%20COVID-19_19-marzo%202020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino%20sorveglianza%20integrata%20COVID-19_19-marzo%202020.pdf) | 19-marzo-2020 |  |
 | [Bollettino-sorveglianza-integrata-COVID-19_09-marzo-2020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_09-marzo-2020.pdf) | 09-marzo-2020 |  |
 | [Bollettino-sorveglianza-integrata-COVID-19_1-settembre-2020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_1-settembre-2020.pdf) | 1-settembre-2020 |  |
 | [Bollettino-sorveglianza-integrata-COVID-19_11-agosto-2020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_11-agosto-2020.pdf) | 11-agosto-2020 |  |
@@ -68,10 +68,10 @@
 | [Bollettino-sorveglianza-integrata-COVID-19_22-settembre-2020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_22-settembre-2020.pdf) | 22-settembre-2020 |  |
 | [Bollettino-sorveglianza-integrata-COVID-19_23-aprile-2020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_23-aprile-2020.pdf) | 23-aprile-2020 |  |
 | [Bollettino-sorveglianza-integrata-COVID-19_23-giugno-2020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_23-giugno-2020.pdf) | 23-giugno-2020 |  |
-| [Bollettino-sorveglianza-integrata-COVID-19_23-marzo%202020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_23-marzo%202020.pdf) | 23-marzo%202020 |  |
+| [Bollettino-sorveglianza-integrata-COVID-19_23-marzo%202020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_23-marzo%202020.pdf) | 23-marzo-2020 |  |
 | [Bollettino-sorveglianza-integrata-COVID-19_25-agosto-2020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_25-agosto-2020.pdf) | 25-agosto-2020 |  |
 | [Bollettino-sorveglianza-integrata-COVID-19_26-maggio-2020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_26-maggio-2020.pdf) | 26-maggio-2020 |  |
-| [Bollettino-sorveglianza-integrata-COVID-19_26-marzo%202020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_26-marzo%202020.pdf) | 26-marzo%202020 |  |
+| [Bollettino-sorveglianza-integrata-COVID-19_26-marzo%202020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_26-marzo%202020.pdf) | 26-marzo-2020 |  |
 | [Bollettino-sorveglianza-integrata-COVID-19_27-ottobre-2020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_27-ottobre-2020.pdf) | 27-ottobre-2020 |  |
 | [Bollettino-sorveglianza-integrata-COVID-19_28-aprile-2020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_28-aprile-2020.pdf) | 28-aprile-2020 |  |
 | [Bollettino-sorveglianza-integrata-COVID-19_28-luglio-2020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_28-luglio-2020.pdf) | 28-luglio-2020 |  |

@@ -35,7 +35,8 @@ if [ "$code" -eq 200 ]; then
   then put 'if (tolower($url)=~"appendix"){$tipo="appendice"}else{$tipo=""}' \
   then put '$nomefile=sub($url,"^(.+/)(.+)$","\2")' \
   then put '$data=sub($url,"^(.+COVID-19_)(.+2020)(.+)$","\2")' \
-  then cut -o -f nomefile,data,tipo,url "$folder"/processing/lista.csv >"$folder"/../output/"$nome".csv
+  then cut -o -f nomefile,data,tipo,url \
+  then put '$data=gsub($data,"%20","-")' "$folder"/processing/lista.csv >"$folder"/../output/"$nome".csv
 
   # crea la versione markdown
   mlr --c2m put '$nomefile="[".$nomefile."](".$url.")"' then cut -x -f url "$folder"/../output/"$nome".csv >"$folder"/../output/"$nome".md
