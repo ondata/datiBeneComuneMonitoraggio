@@ -29,7 +29,7 @@ if [ "$code" -eq 200 ]; then
   # normalizza CSV
   mlr -I --csv cat "$folder"/processing/lista.csv
 
-  # estrai dal CSV url, tipo documento, nome file e data
+  # filtra soltanto i PDF dei bollittini di sorveglianza ed estrai dal CSV url, tipo documento, nome file e data
   mlr --csv filter '$mimetype=~"pdf" && tolower($original)=~"integrat"' \
   then put '$url=sub($original,"^(.+)[?](.+)$","\1")' \
   then put 'if (tolower($url)=~"appendix"){$tipo="appendice"}else{$tipo=""}' \
