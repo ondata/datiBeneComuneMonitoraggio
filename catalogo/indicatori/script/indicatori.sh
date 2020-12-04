@@ -40,7 +40,7 @@ if [ "$code" -eq 200 ]; then
   while read -r p; do
     curl -kL "http://www.salute.gov.it$p" >"$folder"/rawdata/tmp_pagina.html
     titoloPagina=$(scrape <"$folder"/rawdata/tmp_pagina.html -e '//title/text()' | tr '(\n|\r|\t)' ' ' | sed -r 's/ +/ /g')
-    scrape <"$folder"/rawdata/tmp_pagina.html -be '//a[contains(text(),"indica")]' | xq -c '.html.body.a| .|= .+ {url:"'"$p"'"}| .|= .+ {titoloPagina:"'"$titoloPagina"'"}' >>"$folder"/rawdata/listaFileRport.jsonl
+    scrape <"$folder"/rawdata/tmp_pagina.html -be '//a[contains(text(),"indicat")]' | xq -c '.html.body.a| .|= .+ {url:"'"$p"'"}| .|= .+ {titoloPagina:"'"$titoloPagina"'"}' >>"$folder"/rawdata/listaFileRport.jsonl
   done <"$folder"/processing/listaURL
 
   # rimuovi righe che hanno restituito null
