@@ -38,6 +38,8 @@ if [ "$code" -eq 200 ]; then
   then cut -o -f nomefile,data,tipo,url \
   then put '$data=gsub($data,"%20","-")' "$folder"/processing/lista.csv >"$folder"/../output/"$nome".csv
 
+  mlr -I --csv uniq -a "$folder"/../output/"$nome".csv
+
   # crea la versione markdown
   mlr --c2m put '$nomefile="[".$nomefile."](".$url.")"' then cut -x -f url "$folder"/../output/"$nome".csv >"$folder"/../output/"$nome".md
 
