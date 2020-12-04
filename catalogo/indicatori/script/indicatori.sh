@@ -40,7 +40,7 @@ if [ "$code" -eq 200 ]; then
   while read -r p; do
     curl -kL "http://www.salute.gov.it$p" >"$folder"/rawdata/tmp_pagina.html
     titoloPagina=$(scrape <"$folder"/rawdata/tmp_pagina.html -e '//title/text()' | tr '(\n|\r|\t)' ' ' | sed -r 's/ +/ /g')
-    scrape <"$folder"/rawdata/tmp_pagina.html -be '//a[contains(text(),"indicat")]' | xq -c '.html.body.a| .|= .+ {url:"'"$p"'"}| .|= .+ {titoloPagina:"'"$titoloPagina"'"}' >>"$folder"/rawdata/listaFileRport.jsonl
+    scrape <"$folder"/rawdata/tmp_pagina.html -be '//div[@class="col-md-8"]//a[contains(text(),"indicat")]' | xq -c '.html.body.a| .|= .+ {url:"'"$p"'"}| .|= .+ {titoloPagina:"'"$titoloPagina"'"}' >>"$folder"/rawdata/listaFileRport.jsonl
   done <"$folder"/processing/listaURL
 
   # rimuovi righe che hanno restituito null
@@ -57,6 +57,8 @@ if [ "$code" -eq 200 ]; then
     then put '$href="http://www.salute.gov.it".$href;$url="http://www.salute.gov.it".$url' \
     then cut -x -f onclick,title \
     then rename href,hrefFile,text,titoloFile "$folder"/processing/listaFileRport.jsonl >"$folder"/../output/"$nome".csv
+
+  mlr -I --csv filter  '$hrefFile=~"\.pdf"'  "$folder"/../output/"$nome".csv
 
   # crea file markdown anagrafica lista PDF indicatori
   mlr --c2m put '$titoloFile="[".$titoloFile."](".$hrefFile.")"' then cut -f titoloFile,titoloPagina "$folder"/../output/"$nome".csv >"$folder"/../output/"$nome".md
