@@ -1,8 +1,8 @@
-# datiBeneComune | un repository a supporto del monitoraggio COVID-19
+## Un repository a supporto del monitoraggio COVID-19
 
 Questo spazio esiste a supporto delle azioni di **monitoraggio**, che sono state e saranno sviluppate per la campagna [**datiBeneComune**](https://datibenecomune.it/), in cui più **150 organizzazioni** e circa **40.000 firmatari** chiedono al Governo **dati aperti** e ***machine readable*** sull’emergenza COVID-19.
 
-## Indici di documenti e loro archiviazione
+### Indici di documenti e loro archiviazione
 
 Molte delle informazioni pubbliche più interssanti e di valore sulla **COVID-19** in Italia risiedono in ricchi **PDF** a pubblicazione periodica, per lo più presenti sul sito del Ministero della Salute e/o su quello dell'Istituto Superiore di Sanità.
 
