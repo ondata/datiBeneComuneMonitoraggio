@@ -1,0 +1,3 @@
+https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori
+https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale
+https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata
