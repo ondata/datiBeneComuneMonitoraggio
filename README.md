@@ -18,7 +18,7 @@ Al momento (8 dicembre 2020) abbiamo creato questi elenchi di documenti:
 - i [**Bolletini sorveglianza integrata**](https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata) ([qui](https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata.csv) l'elenco in `CSV`);
 - i [**Report settimanali regionali**](https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale) ([qui](https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale.csv) l'elenco in `CSV`).
 
-Di ognuno dei file in questi elenchi viene fatta automaticamente **copia** su [**Internet Archive**](https://archive.org/) (il più famoso archivio digitale dei contenuti web), tramite questo [*script*](script/webarchive.sh).<br>
+Di ognuno dei file in questi elenchi viene fatta automaticamente **copia** su [**Internet Archive**](https://archive.org/) (il più famoso archivio digitale dei contenuti web), tramite questo [*script*](https://github.com/ondata/datiBeneComuneMonitoraggio/blob/main/script/webarchive.sh).<br>
 Quindi ad esempio se il file <http://www.salute.gov.it/imgs/C_17_notizie_5196_1_file.pdf> dovesse non essere più presente sul sito del Ministero della Salute, sarà accessibile nella sua versione su IA:<br>
 <https://web.archive.org/web/*/http://www.salute.gov.it/imgs/C_17_notizie_5196_1_file.pdf>
 
