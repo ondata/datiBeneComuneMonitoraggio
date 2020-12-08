@@ -1,0 +1,18 @@
+- titolo: "Indicatori Monitoraggio Fase 2"
+  fonte: "Ministero della Salute"
+  URL: "https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori"
+  nome: indicatori
+  dataInserimento: 2020-12-08
+  if_not_archived_within: 23h
+- titolo: "Monitoraggio Fase 2 Report settimanale"
+  fonte: "Ministero della Salute"
+  URL: "https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale"
+  nome: monitoraggioSettimanale
+  dataInserimento: 2020-12-08
+  if_not_archived_within: 23h
+- titolo: "Bolletini sorveglianza integrata"
+  fonte: "Istituto Superiore di Sanità"
+  URL: "https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"
+  nome: sorveglianzaIntegrata
+  dataInserimento: 2020-12-08
+  if_not_archived_within: 23h
