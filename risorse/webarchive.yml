@@ -19,6 +19,6 @@
 - titolo: "COVID-19 Verbali Comitato Tecnico Scientifico (CTS)"
   fonte: "Repository dedicato del Dipartimento Protezione Civile"
   URL: "https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md"
-  nome: sorveglianzaIntegrata
+  nome: verbaliCTS
   dataInserimento: 2020-12-08
   if_not_archived_within: 23h
