@@ -1,0 +1,9 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+remote_theme: "pages-themes/primer"
+title: "#datiBeneComune | monitoraggio"
+description: "un repository a supporto del monitoraggio COVID-19, per la campagna #datiBeneComune"
+lang: it-IT
