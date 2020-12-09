@@ -22,3 +22,9 @@
   nome: verbaliCTS
   dataInserimento: 2020-12-08
   if_not_archived_within: 23h
+- titolo: "Dashboard ISS - Dati della Sorveglianza integrata COVID-19 in Italia"
+  fonte: "Sito ISS"
+  URL: "https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard"
+  nome: dashboardISS
+  dataInserimento: 2020-12-09
+  if_not_archived_within: 23h
