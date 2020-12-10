@@ -2,3 +2,4 @@ https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/i
 https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale
 https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata
 https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md
+https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard

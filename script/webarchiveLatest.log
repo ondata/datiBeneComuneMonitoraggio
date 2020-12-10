@@ -1,4 +1,5 @@
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori/","job_id":"93be24b5-42da-4f23-b56c-e1520cd09b88"}
-{"job_id":"1a2eef86-e502-4425-b647-8009aea8a088","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale/"}
-{"job_id":"4c8eca2d-0956-45d1-b4b3-5a8c72201061","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata/"}
-{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md/","job_id":"dce29531-3802-462c-b97e-105017d8fadc"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori/","job_id":"a84ea38d-9235-48c4-8c1e-7ad7e355e2f9"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale/","job_id":"3bd61180-1965-462e-983d-2ca2c655719c"}
+{"job_id":"13ad40b7-3f0b-4e4b-9247-3195ef8dc918","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata/"}
+{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md/","job_id":"512e2342-c233-4473-a9aa-a6c4b39b6c8d"}
+{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard/","job_id":"35d1a5c7-5540-493e-b69c-28e8608a6e64","message":"The same snapshot had been made 429 minutes and 16 seconds ago. We only allow new captures of the same URL every 1380 minutes."}
