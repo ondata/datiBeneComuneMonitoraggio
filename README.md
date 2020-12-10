@@ -10,7 +10,7 @@ Questo spazio esiste per superare delle criticità correlate.
 
 Spesso infatti non esistono delle **pagine "indice"**, con raccolti tutti i documenti di un certo tipo. Per volerli esaminare in modo organico si è costretti a fare ricerche *web* (tramite motori di ricerca o servizi di ricerca presenti nei siti). Qui abbiamo iniziato a farlo.
 
-Abbiamo attivano anche un **meccanisno automatico** per la **creazione di una copia di archivo** di questi documenti, perché sono di valore. Se le pagine in cui sono pubblicati venissero spente/cancellate, non sarebbe più possibile accedervi.
+Abbiamo attivato anche un **meccanismo automatico** per la **creazione di una copia di archivo** di questi documenti, perché sono di valore. Se le pagine in cui sono pubblicati venissero spente/cancellate, non sarebbe più possibile accedervi.
 
 Al momento (8 dicembre 2020) abbiamo creato questi elenchi di documenti:
 
