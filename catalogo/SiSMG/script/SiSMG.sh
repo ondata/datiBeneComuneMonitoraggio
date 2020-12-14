@@ -43,7 +43,7 @@ if [ $code -eq 200 ]; then
   # scarica in loop elenco URL pagine risultato della query
   START=0
   while [[ "$START" -lt "$numeroRisultati" ]]; do
-    curl -kL "http://cerca.ministerosalute.it/search?ulang=it&proxystylesheet=notiziePORT_front-end&access=p&btnG=Cerca&sort=date%3AD%3AS%3Ad1&wc=200&ud=1&entqr=3&output=xml_no_dtd&filter=p&q=$stringaQuery&wc_mc=1&site=notiziePORT_collection&oe=UTF-8&tlen=2048&getfields=*&client=notiziePORT_front-end&ie=UTF-8&entqrm=0&start=$START" | scrape -be '.results a' | xq -r '.html.body.a[]."@href"' >>"$folder"/rawdata/listaURL
+    curl -kL "http://cerca.ministerosalute.it/search?ulang=it&proxystylesheet=documentiPORT_front-end&access=p&wc=200&ud=1&entqr=3&output=xml_no_dtd&filter=p&q=$stringaQuery&site=pubblicazioniPORT_collection&wc_mc=1&oe=UTF-8&tlen=2048&getfields=*&client=documentiPORT_front-end&ie=UTF-8&entqrm=0&sort=date%3AD%3AS%3Ad1&start=$START" | scrape -be '.results a' | xq -r '.html.body.a[]."@href"' >>"$folder"/rawdata/listaURL
     let START=START+10
   done
 
@@ -55,11 +55,11 @@ if [ $code -eq 200 ]; then
     # estrai titolo pagina
     titoloPagina=$(scrape <"$folder"/rawdata/pagina.html -e '//title/text()' | tr '(\n|\r|\t)' ' ' | sed -r 's/ +/ /g')
     # se il titolo contiene report
-    if [[ "$titoloPagina" =~ "report" ]]; then
+    if [[ "$titoloPagina" =~ "mortalità" ]]; then
       # crea file anagrafica pagine, con url e titolo pagina
       echo -e "titolo=$titoloPagina\turl=$p" | mlr --fs "\t" clean-whitespace >>"$folder"/rawdata/anagraficaPagine.dpkv
       # estrai lista dei tag <a> che hanno come href un file PDF
-      scrape <"$folder"/rawdata/pagina.html -be '//div[@class="portlet tab-content"]//a[@href[contains(.,"pdf")]]' | xq -c '.html.body.a[] | .|= .+ {url:"'"$p"'"}' >>"$folder"/rawdata/lista.jsonl
+      scrape <"$folder"/rawdata/pagina.html -be '//div[@class="portlet tab-content"]//a[@href[contains(.,"pdf")]]' | xq -c '.html.body.a | .|= .+ {url:"'"$p"'"}' >>"$folder"/rawdata/lista.jsonl
     fi
   done <"$folder"/rawdata/listaURL
 
@@ -69,12 +69,8 @@ if [ $code -eq 200 ]; then
   # estrai CSV dei report regionali Epicentro PDF
   mlr --j2c unsparsify \
     then rename -r '(@|#)','' \
-    then filter -S 'tolower($href)=~"epi.+[0-9]{6}"' \
-    then put -S '$dataReport=regextract_or_else($href,"[0-9]{8}","")' \
-    then cut -x -f onclick \
     then put -S 'if($href=~"^/"){$hrefFile="http://www.salute.gov.it".$href}else{$hrefFile=$href}' \
-    then filter -x -S '(tolower($href)=~"grafico") || (tolower($title)=~"grafico")' \
-    then cut -x -f title,href \
+    then cut -x -f title,href,tabindex \
     then rename text,titoloFile \
     then reorder -e -f url "$folder"/rawdata/lista.jsonl >"$folder"/../output/"$nome".csv
 
