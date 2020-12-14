@@ -16,7 +16,8 @@ Al momento (8 dicembre 2020) abbiamo creato questi elenchi di documenti:
 
 - gli [Indicatori Monitoraggio della Fase 2](https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori) ([qui](https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori.csv) l'elenco in CSV);
 - i [Bollettini sorveglianza integrata](https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata) ([qui](https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata.csv) l'elenco in CSV);
-- i [Report settimanali regionali](https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale) ([qui](https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale.csv) l'elenco in CSV).
+- i [Report settimanali regionali](https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale) ([qui](https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale.csv) l'elenco in CSV);
+- i report sull'andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all'epidemia di Covid-19
 
 Di ognuno dei file in questi elenchi viene fatta automaticamente copia su [Internet Archive](https://archive.org/) (il più importante archivio digitale dei contenuti web), tramite questo [*script*](https://github.com/ondata/datiBeneComuneMonitoraggio/blob/main/script/webarchive.sh).
 

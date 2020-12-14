@@ -1,7 +1,7 @@
 name: estrai lista dati SiSMG
 
 on:
-  push:
+#  push:
   repository_dispatch:
   schedule:
     - cron:  '15 2 */1 * *'
