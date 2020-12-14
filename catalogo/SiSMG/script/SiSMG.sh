@@ -72,6 +72,7 @@ if [ $code -eq 200 ]; then
     then put -S 'if($href=~"^/"){$hrefFile="http://www.salute.gov.it".$href}else{$hrefFile=$href}' \
     then cut -x -f title,href,tabindex \
     then rename text,titoloFile \
+    then filter -S 'tolower($titoloFile)=~"sismg"' \
     then reorder -e -f url "$folder"/rawdata/lista.jsonl >"$folder"/../output/"$nome".csv
 
   # crea file markdown con lista report regionali Epicento
