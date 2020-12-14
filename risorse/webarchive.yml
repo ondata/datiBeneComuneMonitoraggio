@@ -28,3 +28,9 @@
   nome: dashboardISS
   dataInserimento: 2020-12-09
   if_not_archived_within: 23h
+- titolo: "report sull'andamento della mortalità giornaliera SiSMG"
+  fonte: "Sito Ministero della Salute"
+  URL: "https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG"
+  nome: SiSMG
+  dataInserimento: 2020-12-14
+  if_not_archived_within: 23h
