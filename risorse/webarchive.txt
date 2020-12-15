@@ -3,3 +3,4 @@ https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettima
 https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata
 https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md
 https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
+https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG
