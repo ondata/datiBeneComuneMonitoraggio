@@ -1,6 +1,6 @@
-{"job_id":"242c2b4a-bd20-4707-b577-1c5966ac33a3","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"3f043d42-aaa6-460f-88e9-56b937373859"}
-{"job_id":"dbdcf886-c8c4-4622-b247-ca4898383f64","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"}
-{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"cf7912d8-037c-4e2e-b647-5b2b42c17050"}
-{"job_id":"bac43363-64d8-47bc-a9f5-6825c110e94a","message":"The same snapshot had been made 378 minutes and 53 seconds ago. We only allow new captures of the same URL every 1380 minutes.","url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard"}
-{"message":"The same snapshot had been made 616 minutes and 50 seconds ago. We only allow new captures of the same URL every 1380 minutes.","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG","job_id":"a01ab85f-227d-41aa-b60d-0876b7f99baa"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"1269e673-17bd-4280-a9c3-b7dfbd1d0c08"}
+{"job_id":"d39d14ce-fccc-4d01-b535-0d0a38570dbc","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale"}
+{"job_id":"8edc9951-f567-474a-a380-bcc3d616564d","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"}
+{"job_id":"ced6e0a1-fc5d-4251-9762-93427b9850ab","url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md"}
+{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","message":"The same snapshot had been made 686 minutes and 39 seconds ago. We only allow new captures of the same URL every 1380 minutes.","job_id":"spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb"}
+{"status":"error","status_ext":"error:user-session-limit","message":"You have already reached the limit of active sessions."}
