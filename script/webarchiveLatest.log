@@ -1,6 +1,6 @@
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"1269e673-17bd-4280-a9c3-b7dfbd1d0c08"}
-{"job_id":"d39d14ce-fccc-4d01-b535-0d0a38570dbc","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale"}
-{"job_id":"8edc9951-f567-474a-a380-bcc3d616564d","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"}
-{"job_id":"ced6e0a1-fc5d-4251-9762-93427b9850ab","url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md"}
-{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","message":"The same snapshot had been made 686 minutes and 39 seconds ago. We only allow new captures of the same URL every 1380 minutes.","job_id":"spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb"}
-{"status":"error","status_ext":"error:user-session-limit","message":"You have already reached the limit of active sessions."}
+{"job_id":"7b6cf4de-083c-44f5-a11c-fdacb5194345","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori"}
+{"job_id":"8751b046-b875-49c3-b2d8-7f7f82998c63","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale"}
+{"job_id":"19bc87c4-7fa0-4f98-ba78-aa6b35222159","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"}
+{"job_id":"7bd5d7e4-b4fe-413b-9225-64f999cbb5fa","url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md"}
+{"message":"The same snapshot had been made 683 minutes and 2 seconds ago. We only allow new captures of the same URL every 1380 minutes.","url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb"}
+{"job_id":"9b69f7d0-bfca-4dec-b40c-e88d5f8ef94c","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG"}
