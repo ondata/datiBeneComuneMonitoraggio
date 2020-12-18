@@ -1,6 +1,6 @@
-{"job_id":"7b6cf4de-083c-44f5-a11c-fdacb5194345","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori"}
-{"job_id":"8751b046-b875-49c3-b2d8-7f7f82998c63","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale"}
-{"job_id":"19bc87c4-7fa0-4f98-ba78-aa6b35222159","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"}
-{"job_id":"7bd5d7e4-b4fe-413b-9225-64f999cbb5fa","url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md"}
-{"message":"The same snapshot had been made 683 minutes and 2 seconds ago. We only allow new captures of the same URL every 1380 minutes.","url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb"}
-{"job_id":"9b69f7d0-bfca-4dec-b40c-e88d5f8ef94c","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG"}
+{"job_id":"d536d081-4c97-46b1-b8ff-1ac9e547550d","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori"}
+{"job_id":"3e3efcf0-988d-4eb9-b005-557eeb6013b0","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale"}
+{"job_id":"f3edad0f-04c1-4a31-9a35-56991c33c138","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"}
+{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"be79bb65-bcbc-4117-a5ba-c219ba00e8cd"}
+{"job_id":"spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb","message":"The same snapshot had been made 694 minutes and 22 seconds ago. We only allow new captures of the same URL every 1380 minutes.","url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard"}
+{"job_id":"94542738-39b1-4aed-b2a8-19e1c5afa822","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG"}
