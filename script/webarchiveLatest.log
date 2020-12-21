@@ -1,6 +1,6 @@
-{"job_id":"871cb22b-dff8-48aa-9809-8cf2f313f762","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"f54fc07c-2946-49ec-95b7-19394d65125f"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"cd175eae-9218-429f-87b0-20ed2425befc"}
-{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"949adcd6-905d-4411-af52-b155f5beaaf6"}
-{"status_ext":"error:user-session-limit","message":"You have already reached the limit of active sessions.","status":"error"}
-{"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
+{"job_id":"c95c04d8-6550-4c03-bf3a-1a392646dc36","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori"}
+{"job_id":"6370cdf3-5ebb-4251-9ba3-ac0b8cdca941","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale"}
+{"job_id":"5faab7f2-3ae6-4322-97ae-989dcf18785b","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"}
+{"job_id":"a0d1dee8-3366-4060-91b5-f822d9bc4f5f","url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md"}
+{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"8739ed8f-391c-49da-b696-6fe22a4a2095","message":"The same snapshot had been made 539 minutes and 11 seconds ago. We only allow new captures of the same URL every 1380 minutes."}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG","job_id":"da7575a2-33d4-43ab-88bc-fd5caa7486c3"}
