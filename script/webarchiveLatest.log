@@ -1,6 +1,6 @@
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"15d9d6d7-07b8-4266-b041-af71618b310b"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"1a80bce3-eece-407e-98d4-e6d02eefe656"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"949ce752-b076-4fab-92f1-0008473256c7"}
-{"job_id":"58d9cfee-ad1d-463a-a7b1-1f5dad945f54","url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md"}
-{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"b97c23b2-66be-4ed0-bbe5-9cf09fa76df4","message":"The same snapshot had been made 606 minutes and 48 seconds ago. We only allow new captures of the same URL every 1380 minutes."}
-{"job_id":"1fae42cc-354b-4516-907f-19ad8a1b4fea","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"72120f34-ec6e-4b89-9837-e8e7385e2746"}
+{"job_id":"72da1dfd-0568-4951-93d8-897b1612177b","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"8e3f07d1-7b0b-4dcf-8564-5405ea446c32"}
+{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"f4b8f506-f46b-489a-83ff-5315dc247831"}
+{"job_id":"spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb","message":"The same snapshot had been made 700 minutes and 49 seconds ago. We only allow new captures of the same URL every 1380 minutes.","url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard"}
+{"job_id":"041cb6d7-75ca-4c50-b93a-c6d04b7be6b2","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG"}
