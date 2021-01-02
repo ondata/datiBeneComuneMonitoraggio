@@ -34,3 +34,9 @@
   nome: SiSMG
   dataInserimento: 2020-12-14
   if_not_archived_within: 23h
+- titolo: "Report Vaccino Anti COVID-19"
+  fonte: "Sito microsoft Powerbi"
+  URL: "https://app.powerbi.com/view?r=eyJrIjoiMzg4YmI5NDQtZDM5ZC00ZTIyLTgxN2MtOTBkMWM4MTUyYTg0IiwidCI6ImFmZDBhNzVjLTg2NzEtNGNjZS05MDYxLTJjYTBkOTJlNDIyZiIsImMiOjh9"
+  nome: dashboardVaccini
+  dataInserimento: 2021-01-02
+  if_not_archived_within: 23h

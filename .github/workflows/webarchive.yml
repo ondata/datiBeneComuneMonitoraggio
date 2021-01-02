@@ -1,7 +1,7 @@
 name: aggiornamento giornaliero su archive
 
 on:
-#  push:
+  push:
   repository_dispatch:
   schedule:
     - cron:  '00 5 */1 * *'
