@@ -3,40 +3,40 @@
   URL: "https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori"
   nome: indicatori
   dataInserimento: 2020-12-08
-  if_not_archived_within: 23h
+  if_not_archived_within: 1390m
 - titolo: "Monitoraggio Fase 2 Report settimanale"
   fonte: "Ministero della Salute"
   URL: "https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale"
   nome: monitoraggioSettimanale
   dataInserimento: 2020-12-08
-  if_not_archived_within: 23h
+  if_not_archived_within: 1390m
 - titolo: "Bolletini sorveglianza integrata"
   fonte: "Istituto Superiore di Sanità"
   URL: "https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"
   nome: sorveglianzaIntegrata
   dataInserimento: 2020-12-08
-  if_not_archived_within: 23h
+  if_not_archived_within: 1390m
 - titolo: "COVID-19 Verbali Comitato Tecnico Scientifico (CTS)"
   fonte: "Repository dedicato del Dipartimento Protezione Civile"
   URL: "https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md"
   nome: verbaliCTS
   dataInserimento: 2020-12-08
-  if_not_archived_within: 23h
+  if_not_archived_within: 1390m
 - titolo: "Dashboard ISS - Dati della Sorveglianza integrata COVID-19 in Italia"
   fonte: "Sito ISS"
   URL: "https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard"
   nome: dashboardISS
   dataInserimento: 2020-12-09
-  if_not_archived_within: 23h
+  if_not_archived_within: 1390m
 - titolo: "report sull'andamento della mortalità giornaliera SiSMG"
   fonte: "Sito Ministero della Salute"
   URL: "https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG"
   nome: SiSMG
   dataInserimento: 2020-12-14
-  if_not_archived_within: 23h
+  if_not_archived_within: 1390m
 - titolo: "Report Vaccino Anti COVID-19"
   fonte: "Sito microsoft Powerbi"
   URL: "https://app.powerbi.com/view?r=eyJrIjoiMzg4YmI5NDQtZDM5ZC00ZTIyLTgxN2MtOTBkMWM4MTUyYTg0IiwidCI6ImFmZDBhNzVjLTg2NzEtNGNjZS05MDYxLTJjYTBkOTJlNDIyZiIsImMiOjh9"
   nome: dashboardVaccini
   dataInserimento: 2021-01-02
-  if_not_archived_within: 23h
+  if_not_archived_within: 1390m
