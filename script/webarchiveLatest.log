@@ -1,7 +1,7 @@
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"b1eede3c-d06f-4b70-913a-147ffa03f3d8"}
-{"job_id":"fbfbfe26-9d44-458a-b7e5-3a18f4a3ee77","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale"}
-{"message":"The same snapshot had been made 690 minutes and 35 seconds ago. We only allow new captures of the same URL every 1390 minutes.","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"492a1a09-a631-4bc7-9cfa-d99b2aca446e"}
-{"message":"The same snapshot had been made 689 minutes and 47 seconds ago. We only allow new captures of the same URL every 1390 minutes.","job_id":"a3d4fc27-0d4d-401d-b89e-ec87bba46f02","url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md"}
-{"job_id":"spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb","url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","message":"The same snapshot had been made 6 minutes and 2 seconds ago. We only allow new captures of the same URL every 1390 minutes."}
-{"job_id":"eea79367-1036-4fcf-a02a-b36c72ad09d1","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG"}
-{"job_id":"4132dd8f-2e48-499b-99ec-9065e904cf3b","url":"https://app.powerbi.com/view?r=eyJrIjoiMzg4YmI5NDQtZDM5ZC00ZTIyLTgxN2MtOTBkMWM4MTUyYTg0IiwidCI6ImFmZDBhNzVjLTg2NzEtNGNjZS05MDYxLTJjYTBkOTJlNDIyZiIsImMiOjh9","message":"The same snapshot had been made 690 minutes and 38 seconds ago. We only allow new captures of the same URL every 1390 minutes."}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"b1eede3c-d06f-4b70-913a-147ffa03f3d8","message":"The same snapshot had been made 763 minutes and 50 seconds ago. We only allow new captures of the same URL every 1390 minutes."}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"115ab9ad-d874-46c5-a530-5b4c0304db09"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"4c0d5d04-3855-48d8-8264-15d76200eb50"}
+{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"160720b3-6e5c-4390-89b2-ee6e12114681"}
+{"message":"The same snapshot had been made 58 minutes and 33 seconds ago. We only allow new captures of the same URL every 1390 minutes.","job_id":"spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb","url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard"}
+{"status_ext":"error:user-session-limit","status":"error","message":"You have already reached the limit of active sessions."}
+{"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
