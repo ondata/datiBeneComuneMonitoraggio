@@ -1,8 +1,8 @@
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"2080e23b-1446-4a8e-9958-72444bcf8882"}
-{"job_id":"426dec6e-aa0a-4bf2-bbfa-ecd580f7f06b","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale"}
-{"job_id":"644f1e19-a8ec-4892-93ec-0bee3b66e4a9","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"}
-{"job_id":"0f48f2aa-4721-4858-95ce-f8a3c5f7a39e","url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md"}
-{"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
-{"job_id":"e0d98474-07a0-4699-b741-7a4395a3501e","message":"The same snapshot had been made 742 minutes and 49 seconds ago. We only allow new captures of the same URL every 1389 minutes.","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG"}
-{"url":"https://www.interno.gov.it/it/coronavirus-i-dati-dei-servizi-controllo","job_id":"cbd4a619-7a5e-4953-a13a-e95c03ff561d","message":"The same snapshot had been made 741 minutes and 59 seconds ago. We only allow new captures of the same URL every 1389 minutes."}
-{"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
+{"message":"The same snapshot had been made 691 minutes and 14 seconds ago. We only allow new captures of the same URL every 1389 minutes.","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"2080e23b-1446-4a8e-9958-72444bcf8882"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"426dec6e-aa0a-4bf2-bbfa-ecd580f7f06b","message":"The same snapshot had been made 691 minutes and 4 seconds ago. We only allow new captures of the same URL every 1389 minutes."}
+{"message":"The same snapshot had been made 691 minutes and 35 seconds ago. We only allow new captures of the same URL every 1389 minutes.","job_id":"644f1e19-a8ec-4892-93ec-0bee3b66e4a9","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"}
+{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","message":"The same snapshot had been made 691 minutes and 31 seconds ago. We only allow new captures of the same URL every 1389 minutes.","job_id":"0f48f2aa-4721-4858-95ce-f8a3c5f7a39e"}
+{"job_id":"d68d472b-ae92-4f33-adf1-05b030a2fb45","url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG","job_id":"e42bba0b-224e-42f0-89d9-814ed2c28974"}
+{"job_id":"a21f1117-4308-4a93-9d5a-c96939090947","url":"https://www.interno.gov.it/it/coronavirus-i-dati-dei-servizi-controllo"}
+{"status_ext":"error:user-session-limit","status":"error","message":"You have already reached the limit of active sessions."}
