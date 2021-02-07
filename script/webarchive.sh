@@ -21,7 +21,7 @@ while IFS=$'\t' read -r url time; do
     -d "capture_screenshot=1" \
     -d "outlinks_availability=1" \
     -d "if_not_archived_within=$time" https://web.archive.org/save >>"$folder"/webarchiveLatest.log
-  sleep 12
+  sleep 20
 done <"$folder"/../risorse/webarchive.tsv
 
 jq <"$folder"/webarchiveLatest.log -c . >"$folder"/tmp.log
