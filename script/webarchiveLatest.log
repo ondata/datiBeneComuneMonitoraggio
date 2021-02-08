@@ -1,8 +1,8 @@
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"cee3acd5-25dc-453e-8f26-390eaa17d75b"}
-{"job_id":"7a748d57-085d-47c3-880d-ced5d30124e9","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"b3caab49-c1dd-4f06-86b6-fc7d22c1ed0f"}
-{"job_id":"49099df9-02a0-4e19-938b-0ffa9c3e6646","url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md"}
-{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"5cbe8a90-9876-4d21-8a55-54f24effe73e","message":"The same snapshot had been made 1272 minutes and 6 seconds ago. We only allow new captures of the same URL every 1389 minutes."}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG","job_id":"6896122b-e711-48db-bbea-99556f011812"}
-{"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
-{"status_ext":"error:user-session-limit","message":"You have already reached the limit of active sessions.","status":"error"}
+{"job_id":"5966e8aa-9d06-4657-9bb3-53fee60b03f7","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori"}
+{"job_id":"f93dfb8c-3846-43c0-b98d-cc4a46ca8c68","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale"}
+{"job_id":"5a1ace62-a39f-433c-8b9a-62bb0030ef79","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"}
+{"job_id":"369bb1b2-a61e-40c5-9271-e6abbb8b0379","url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md"}
+{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"e1c59b04-e0d3-42f5-a0bb-1fd0ce15c3d9","message":"The same snapshot had been made 902 minutes and 50 seconds ago. We only allow new captures of the same URL every 1389 minutes."}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG","job_id":"a82c009b-fb79-43e7-9b54-a86fe8b034ee"}
+{"job_id":"883384ea-1683-4485-ac47-dc0d8f0678ed","url":"https://www.interno.gov.it/it/coronavirus-i-dati-dei-servizi-controllo"}
+{"job_id":"3ebcb02f-7ad9-4aa6-862f-6398221214d0","url":"https://data.humdata.org/dataset/movement-range-maps"}
