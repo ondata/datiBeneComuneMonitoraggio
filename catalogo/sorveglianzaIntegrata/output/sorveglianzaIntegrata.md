@@ -2,6 +2,7 @@
 | --- | --- | --- |
 | [Bolletino-sorveglianza-integrata-COVID-19_09-marzo-2020_appendix.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bolletino-sorveglianza-integrata-COVID-19_09-marzo-2020_appendix.pdf) | 09-marzo-2020 | appendice |
 | [Bolletino-sorveglianza-integrata-COVID-19_1-settembre-2020_appendix.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bolletino-sorveglianza-integrata-COVID-19_1-settembre-2020_appendix.pdf) | 1-settembre-2020 | appendice |
+| [Bolletino-sorveglianza-integrata-COVID-19_10-febbraio-2021_appendix.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bolletino-sorveglianza-integrata-COVID-19_10-febbraio-2021_appendix.pdf) | https://www.epicentro.iss.it/coronavirus/bollettino/Bolletino-sorveglianza-integrata-COVID-19_10-febbraio-2021_appendix.pdf | appendice |
 | [Bolletino-sorveglianza-integrata-COVID-19_11-agosto-2020_appendix.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bolletino-sorveglianza-integrata-COVID-19_11-agosto-2020_appendix.pdf) | 11-agosto-2020 | appendice |
 | [Bolletino-sorveglianza-integrata-COVID-19_11-novembre-2020_appendix.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bolletino-sorveglianza-integrata-COVID-19_11-novembre-2020_appendix.pdf) | 11-novembre-2020 | appendice |
 | [Bolletino-sorveglianza-integrata-COVID-19_12-marzo-2020_appendix.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bolletino-sorveglianza-integrata-COVID-19_12-marzo-2020_appendix.pdf) | 12-marzo-2020 | appendice |
@@ -66,6 +67,7 @@
 | [Bollettino-sorveglianza-integrata-COVID-19_16-aprile-2020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_16-aprile-2020.pdf) | 16-aprile-2020 |  |
 | [Bollettino-sorveglianza-integrata-COVID-19_16-dicembre-2020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_16-dicembre-2020.pdf) | 16-dicembre-2020 |  |
 | [Bollettino-sorveglianza-integrata-COVID-19_16-giugno-2020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_16-giugno-2020.pdf) | 16-giugno-2020 |  |
+| [Bollettino-sorveglianza-integrata-COVID-19_17-febbraio-2021.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_17-febbraio-2021.pdf) | https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_17-febbraio-2021.pdf |  |
 | [Bollettino-sorveglianza-integrata-COVID-19_18-agosto-2020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_18-agosto-2020.pdf) | 18-agosto-2020 |  |
 | [Bollettino-sorveglianza-integrata-COVID-19_18-novembre-2020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_18-novembre-2020.pdf) | 18-novembre-2020 |  |
 | [Bollettino-sorveglianza-integrata-COVID-19_2-aprile-2020.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_2-aprile-2020.pdf) | 2-aprile-2020 |  |
