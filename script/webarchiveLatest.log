@@ -1,8 +1,8 @@
-{"job_id":"0351b276-11ee-4721-99e1-64b7f9737112","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"f782071e-b921-40d0-8b80-3c0bc12d3647"}
-{"job_id":"a0dd7274-00d1-4ca3-aa7b-d1c08aaef526","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"}
-{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"886ba98c-faba-4362-993e-60a346f3001f"}
-{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"0d567400-e2e8-45b2-919a-d8a5300df014","message":"The same snapshot had been made 429 minutes and 13 seconds ago. We only allow new captures of the same URL every 1389 minutes."}
-{"job_id":"8c8d9d2c-81e9-442a-bac2-3e5617a3a205","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG"}
-{"job_id":"6a63ba90-45d4-4650-8d5f-db3546bd81a1","url":"https://www.interno.gov.it/it/coronavirus-i-dati-dei-servizi-controllo"}
-{"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
+{"job_id":"7b063ec1-0d74-44a1-9dd5-53aeb6f4cfcf","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"808b895a-4c41-4381-a39e-5e077833602d"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"4deae236-e561-4d76-9f02-9ef131877f00"}
+{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"b406d1ce-7fcd-4593-a564-ad24ddc79cd3"}
+{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","message":"The same snapshot had been made 559 minutes and 47 seconds ago. We only allow new captures of the same URL every 1389 minutes.","job_id":"e2d765a0-9ad4-421d-a50b-7aca959714bf"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG","job_id":"c68df9eb-d586-4594-860e-33b0b45661a3"}
+{"job_id":"0b3153e7-1d80-481d-98d0-73ca461a5390","url":"https://www.interno.gov.it/it/coronavirus-i-dati-dei-servizi-controllo"}
+{"job_id":"5e3fda7a-6084-439c-aad5-ed4c17da0124","url":"https://data.humdata.org/dataset/movement-range-maps"}
