@@ -1,8 +1,8 @@
-{"job_id":"7b063ec1-0d74-44a1-9dd5-53aeb6f4cfcf","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"808b895a-4c41-4381-a39e-5e077833602d"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"4deae236-e561-4d76-9f02-9ef131877f00"}
-{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"b406d1ce-7fcd-4593-a564-ad24ddc79cd3"}
-{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","message":"The same snapshot had been made 559 minutes and 47 seconds ago. We only allow new captures of the same URL every 1389 minutes.","job_id":"e2d765a0-9ad4-421d-a50b-7aca959714bf"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG","job_id":"c68df9eb-d586-4594-860e-33b0b45661a3"}
-{"job_id":"0b3153e7-1d80-481d-98d0-73ca461a5390","url":"https://www.interno.gov.it/it/coronavirus-i-dati-dei-servizi-controllo"}
-{"job_id":"5e3fda7a-6084-439c-aad5-ed4c17da0124","url":"https://data.humdata.org/dataset/movement-range-maps"}
+{"job_id":"24fc62e1-b7ff-4fbb-8d2c-ad748a026139","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"e42ba53f-94cb-45ba-9cf5-9438515f3a8f"}
+{"job_id":"e640e565-055d-4e0c-8f25-288d9a2ec601","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"}
+{"job_id":"0de21422-a446-4219-a010-f83474e197c0","url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md"}
+{"job_id":"5e437c3e-ce86-4b65-be83-49dbb1cf8230","url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard"}
+{"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
+{"url":"https://www.interno.gov.it/it/coronavirus-i-dati-dei-servizi-controllo","job_id":"920b0bcd-b459-4f4d-80fa-ba7cf7aa6ccf"}
+{"url":"https://data.humdata.org/dataset/movement-range-maps","job_id":"d3900fbd-1c5d-409a-b232-5282da46cb6a"}
