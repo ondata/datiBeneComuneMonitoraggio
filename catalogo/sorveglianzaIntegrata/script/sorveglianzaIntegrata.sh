@@ -6,6 +6,8 @@
 
 set -x
 
+git pull
+
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 mkdir -p "$folder"/rawdata
