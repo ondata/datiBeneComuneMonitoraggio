@@ -1,8 +1,8 @@
-{"job_id":"0df84731-257c-4315-aa3d-81f7de344995","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori"}
-{"job_id":"10db96d8-f804-49d0-907b-1cc8de16c98c","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"e449c9f3-03b6-4f55-ac06-258ff4dd82b3"}
-{"job_id":"a1d50acf-eebf-4fbc-95ca-7f2f4252fa87","url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md"}
-{"message":"The same snapshot had been made 346 minutes and 14 seconds ago. We only allow new captures of the same URL every 1389 minutes.","url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"4ef1e19e-2e0b-4b63-bbd0-6ee896c33662"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG","job_id":"c494f87f-920f-411c-b2f3-e19e849f7683"}
-{"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
-{"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"c84fa4ee-c2f4-4738-9db9-03468bbd9c5c"}
+{"job_id":"4ccab3e2-81a0-45b5-9438-ff7ec1c32b06","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"f70653fd-a8b3-4a01-b7ed-fe945344d439"}
+{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"454d3fdc-a73b-4491-ae48-12876597f9db"}
+{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"b97d19bf-5715-490f-aaea-b8fdefdebbd9","message":"The same snapshot had been made 381 minutes and 56 seconds ago. We only allow new captures of the same URL every 1389 minutes."}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG","job_id":"9eac03a0-e948-4b8b-9642-532f25a1f32c"}
+{"message":"You have already reached the limit of active sessions.","status_ext":"error:user-session-limit","status":"error"}
+{"job_id":"3938ca69-37d0-49ec-99a9-8a8b2ff71a56","url":"https://data.humdata.org/dataset/movement-range-maps"}
