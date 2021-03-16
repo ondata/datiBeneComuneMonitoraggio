@@ -46,3 +46,9 @@
   nome: movementRangeMaps
   dataInserimento: 2021-02-01
   if_not_archived_within: 1389m
+- titolo: "Piano vaccini anti Covid-19"
+  fonte: "Ministero della salute"
+  URL: "Piano vaccini anti Covid-19"
+  nome: pianoVacciniCOVID19
+  dataInserimento: 2021-03-16
+  if_not_archived_within: 1389m
