@@ -6,3 +6,4 @@ https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard
 https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG
 https://www.interno.gov.it/it/coronavirus-i-dati-dei-servizi-controllo
 https://data.humdata.org/dataset/movement-range-maps
+http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5452&area=nuovoCoronavirus&menu=vuoto
