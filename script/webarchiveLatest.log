@@ -1,9 +1,9 @@
-{"job_id":"c46bc2a1-a8db-43b0-ab79-15e78386b53d","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori"}
-{"job_id":"53d8ad14-729c-444a-b405-38ae6a518e47","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale"}
-{"job_id":"317c75f7-5266-42f6-a9d5-bf2a1598f153","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"}
-{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"38e1d118-6782-49bb-a7a4-359d7e9dd7a2"}
-{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"0b5a39c5-9bd5-4615-a86d-0742ab3c56f9","message":"The same snapshot had been made 505 minutes and 57 seconds ago. We only allow new captures of the same URL every 1389 minutes."}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG","job_id":"558ac567-6642-494d-a8b7-dc51b99d653b"}
-{"job_id":"41fd196f-b7c7-498c-8761-7a6c3d3c028a","url":"https://www.interno.gov.it/it/coronavirus-i-dati-dei-servizi-controllo"}
-{"job_id":"2d3861e9-3af3-4db4-b8c8-1fbcb25a373d","url":"https://data.humdata.org/dataset/movement-range-maps"}
-{"url":"http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano","job_id":"25a3f3d0-2514-462b-8b08-39bee18cdd74"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"79f25a89-51d7-418c-8683-56c2ac4a8904"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"55fcbaa6-64cc-46b2-b9c9-b50ce7ab4130"}
+{"job_id":"856c7f73-09f9-449c-8bd2-93dd09ba7ffb","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"}
+{"message":"The same snapshot had been made 1364 minutes and 18 seconds ago. We only allow new captures of the same URL every 1389 minutes.","url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"5d3a156d-57e5-4519-bb90-4ae5b6f39620"}
+{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"3d68a6bc-977e-4bef-97cb-6eee6708e514","message":"The same snapshot had been made 414 minutes and 1 seconds ago. We only allow new captures of the same URL every 1389 minutes."}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG","job_id":"6c875dfa-2378-4942-8288-9b8b5701c0f1"}
+{"job_id":"0bc78c77-29c1-4f48-885e-962135f4c8fb","url":"https://www.interno.gov.it/it/coronavirus-i-dati-dei-servizi-controllo"}
+{"job_id":"46ea462f-fc3f-4cdf-b9a3-dfb011461902","url":"https://data.humdata.org/dataset/movement-range-maps"}
+{"url":"http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano","job_id":"03249f76-1bda-43fd-98ce-212b54d426c7"}
