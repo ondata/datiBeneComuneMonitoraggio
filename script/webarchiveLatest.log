@@ -1,9 +1,9 @@
-{"job_id":"8e4a970f-5a05-4db7-bcb3-58c1e17ca002","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"ba1d2dac-87dd-4bcc-af1e-b48032f7204d"}
-{"job_id":"f1370fca-1ddd-49c1-8e75-91261ffd8a7d","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"}
-{"job_id":"80ac4448-798f-4db4-9e1c-11c77126654c","url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md"}
-{"job_id":"ea24a7c6-4cc2-41ba-884b-a5a0cc7d0da0","url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG","job_id":"ef318eda-137c-4833-9c92-ca68fda909d2"}
-{"url":"https://www.interno.gov.it/it/coronavirus-i-dati-dei-servizi-controllo","job_id":"c69b68d5-afdd-4e7f-9642-ee4813da8b92"}
-{"url":"https://data.humdata.org/dataset/movement-range-maps","job_id":"f13decf6-eb98-4f80-b93a-2ae72a906bfc"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"4f223053-e531-4ea5-b399-b2d40a13b8e4"}
+{"job_id":"0d7c8f54-3826-4797-a3bb-a0867c5af1b7","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale"}
+{"job_id":"f353861b-8382-4bd2-a0d6-654d3eba07fd","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"}
+{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"a77bbff4-f861-4d23-91af-489351619759"}
+{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"85d5eeb9-2288-4254-8a90-62764e61aa57"}
+{"job_id":"a6eac429-09d3-4efe-8a44-818729c09e44","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG"}
+{"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
+{"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
 {"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
