@@ -1,9 +1,9 @@
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"52f8f734-3e40-43fe-896d-9d95ba2f7486"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"c5ccf8da-6a2c-4686-8f19-bce02c48754c"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"b9949140-425a-47f1-bbc7-f26413a3bd2b"}
-{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"7c5033a0-e47c-4c0a-97fb-c34f00baab62"}
-{"job_id":"64eeebfd-394c-4f0b-ac35-b623b9cdfa93","url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG","job_id":"11504ea0-a0b9-4b1d-bc38-617d52664be9"}
-{"message":"You have already reached the limit of active sessions.","status_ext":"error:user-session-limit","status":"error"}
-{"url":"https://data.humdata.org/dataset/movement-range-maps","job_id":"311f6966-989c-42bd-ad4b-f41170417a42"}
-{"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"04dc56c6-6717-486c-b01f-312a6990f1dd"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"63f1cf14-40ac-414f-a8b3-fc39eb4ec746"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"dedf98cb-6684-4fa1-a85e-95eccf005048"}
+{"job_id":"73f7a61a-4b49-4f22-b39b-674b4a53b6c0","url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md"}
+{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"d4088b82-598c-4168-bb36-419283ef29cf"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG","job_id":"bcf9d256-2464-40eb-a93e-e26abfef46c5"}
+{"url":"https://www.interno.gov.it/it/coronavirus-i-dati-dei-servizi-controllo","job_id":"8a150539-9d43-4313-a3df-e454b1a6d229"}
+{"job_id":"6e3bcb71-153f-4237-862d-9e79f285a434","url":"https://data.humdata.org/dataset/movement-range-maps"}
+{"url":"http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano","job_id":"5cfdae03-3405-440c-9831-b18077ad1236"}
