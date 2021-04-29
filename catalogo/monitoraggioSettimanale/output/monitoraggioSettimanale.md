@@ -337,68 +337,68 @@
 | [Valle D'Aosta](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_ValledAosta_20201107.pdf) | 20201107 |
 | [Veneto](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Veneto_20201107.pdf) | 20201107 |
 | [Abruzzo](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Abruzzo_20201111.pdf) | 20201111 |
-| [Basilicata](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Basilicata_20201111.pdf) | 20201111 |
-| [Calabria](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Calabria_20201111.pdf) | 20201111 |
-| [Campania](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Campania_20201111.pdf) | 20201111 |
-| [Emilia Romagna](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Emilia-Romagna_20201111.pdf) | 20201111 |
-| [Friuli Venezia Giulia](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Friuli-Venezia_Giulia_20201111.pdf) | 20201111 |
-| [Lazio](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lazio_20201111.pdf) | 20201111 |
-| [Liguria](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Liguria_20201111.pdf) | 20201111 |
-| [Lombardia](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lombardia_20201111.pdf) | 20201111 |
-| [Marche](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Marche_20201111.pdf) | 20201111 |
-| [Molise](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Molise_20201111.pdf) | 20201111 |
-| [PA Bolzano](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Bolzano_20201111.pdf) | 20201111 |
-| [PA Trento](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Trento_20201111.pdf) | 20201111 |
-| [Piemonte](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Piemonte_20201111.pdf) | 20201111 |
-| [Puglia](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Puglia_20201111.pdf) | 20201111 |
-| [Sardegna](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sardegna_20201111.pdf) | 20201111 |
-| [Sicilia](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sicilia_20201111.pdf) | 20201111 |
-| [Toscana](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Toscana_20201111.pdf) | 20201111 |
-| [Umbria](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Umbria_20201111.pdf) | 20201111 |
-| [Valle D'Aosta](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_ValledAosta_20201111.pdf) | 20201111 |
-| [Veneto](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Veneto_20201111.pdf) | 20201111 |
+| [Basilicata](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Basilicata_20201111.pdf) | 20201111 |
+| [Calabria](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Calabria_20201111.pdf) | 20201111 |
+| [Campania](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Campania_20201111.pdf) | 20201111 |
+| [Emilia Romagna](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Emilia-Romagna_20201111.pdf) | 20201111 |
+| [Friuli Venezia Giulia](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Friuli-Venezia_Giulia_20201111.pdf) | 20201111 |
+| [Lazio](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lazio_20201111.pdf) | 20201111 |
+| [Liguria](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Liguria_20201111.pdf) | 20201111 |
+| [Lombardia](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lombardia_20201111.pdf) | 20201111 |
+| [Marche](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Marche_20201111.pdf) | 20201111 |
+| [Molise](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Molise_20201111.pdf) | 20201111 |
+| [PA Bolzano](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Bolzano_20201111.pdf) | 20201111 |
+| [PA Trento](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Trento_20201111.pdf) | 20201111 |
+| [Piemonte](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Piemonte_20201111.pdf) | 20201111 |
+| [Puglia](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Puglia_20201111.pdf) | 20201111 |
+| [Sardegna](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sardegna_20201111.pdf) | 20201111 |
+| [Sicilia](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sicilia_20201111.pdf) | 20201111 |
+| [Toscana](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Toscana_20201111.pdf) | 20201111 |
+| [Umbria](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Umbria_20201111.pdf) | 20201111 |
+| [Valle D'Aosta](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_ValledAosta_20201111.pdf) | 20201111 |
+| [Veneto](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Veneto_20201111.pdf) | 20201111 |
 | [Abruzzo](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Abruzzo_20201118.pdf) | 20201118 |
-| [Basilicata](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Basilicata_20201118.pdf) | 20201118 |
-| [Calabria](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Calabria_20201118.pdf) | 20201118 |
-| [Campania](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Campania_20201118.pdf) | 20201118 |
-| [Emilia Romagna](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Emilia-Romagna_20201118.pdf) | 20201118 |
-| [Friuli Venezia Giulia](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Friuli-Venezia_Giulia_20201118.pdf) | 20201118 |
-| [Lazio](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lazio_20201118.pdf) | 20201118 |
-| [Liguria](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Liguria_20201118.pdf) | 20201118 |
-| [Lombardia](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lombardia_20201118.pdf) | 20201118 |
-| [Marche](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Marche_20201118.pdf) | 20201118 |
-| [Molise](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Molise_20201118.pdf) | 20201118 |
-| [PA Bolzano](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Bolzano_20201118.pdf) | 20201118 |
-| [PA Trento](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Trento_20201118.pdf) | 20201118 |
-| [Piemonte](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Piemonte_20201118.pdf) | 20201118 |
-| [Puglia](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Puglia_20201118.pdf) | 20201118 |
-| [Sardegna](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sardegna_20201118.pdf) | 20201118 |
-| [Sicilia](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sicilia_20201118.pdf) | 20201118 |
-| [Toscana](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Toscana_20201118.pdf) | 20201118 |
-| [Umbria](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Umbria_20201118.pdf) | 20201118 |
-| [Valle D'Aosta](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_ValledAosta_20201118.pdf) | 20201118 |
-| [Veneto](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Veneto_20201118.pdf) | 20201118 |
+| [Basilicata](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Basilicata_20201118.pdf) | 20201118 |
+| [Calabria](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Calabria_20201118.pdf) | 20201118 |
+| [Campania](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Campania_20201118.pdf) | 20201118 |
+| [Emilia Romagna](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Emilia-Romagna_20201118.pdf) | 20201118 |
+| [Friuli Venezia Giulia](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Friuli-Venezia_Giulia_20201118.pdf) | 20201118 |
+| [Lazio](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lazio_20201118.pdf) | 20201118 |
+| [Liguria](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Liguria_20201118.pdf) | 20201118 |
+| [Lombardia](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lombardia_20201118.pdf) | 20201118 |
+| [Marche](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Marche_20201118.pdf) | 20201118 |
+| [Molise](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Molise_20201118.pdf) | 20201118 |
+| [PA Bolzano](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Bolzano_20201118.pdf) | 20201118 |
+| [PA Trento](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Trento_20201118.pdf) | 20201118 |
+| [Piemonte](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Piemonte_20201118.pdf) | 20201118 |
+| [Puglia](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Puglia_20201118.pdf) | 20201118 |
+| [Sardegna](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sardegna_20201118.pdf) | 20201118 |
+| [Sicilia](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sicilia_20201118.pdf) | 20201118 |
+| [Toscana](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Toscana_20201118.pdf) | 20201118 |
+| [Umbria](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Umbria_20201118.pdf) | 20201118 |
+| [Valle D'Aosta](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_ValledAosta_20201118.pdf) | 20201118 |
+| [Veneto](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Veneto_20201118.pdf) | 20201118 |
 | [Abruzzo](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Abruzzo_20201125.pdf) | 20201125 |
-| [Basilicata](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Basilicata_20201125.pdf) | 20201125 |
-| [Calabria](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Calabria_20201125.pdf) | 20201125 |
-| [Campania](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Campania_20201125.pdf) | 20201125 |
-| [Emilia Romagna](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Emilia-Romagna_20201125.pdf) | 20201125 |
-| [Friuli Venezia Giulia](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Friuli-Venezia_Giulia_20201125.pdf) | 20201125 |
-| [Lazio](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lazio_20201125.pdf) | 20201125 |
-| [Liguria](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Liguria_20201125.pdf) | 20201125 |
-| [Lombardia](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lombardia_20201125.pdf) | 20201125 |
-| [Marche](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Marche_20201125.pdf) | 20201125 |
-| [Molise](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Molise_20201125.pdf) | 20201125 |
-| [PA Bolzano](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Bolzano_20201125.pdf) | 20201125 |
-| [PA Trento](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Trento_20201125.pdf) | 20201125 |
-| [Piemonte](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Piemonte_20201125.pdf) | 20201125 |
-| [Puglia](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Puglia_20201125.pdf) | 20201125 |
-| [Sardegna](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sardegna_20201125.pdf) | 20201125 |
-| [Sicilia](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sicilia_20201125.pdf) | 20201125 |
-| [Toscana](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Toscana_20201125.pdf) | 20201125 |
-| [Umbria](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Umbria_20201125.pdf) | 20201125 |
-| [Valle D'Aosta](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_ValledAosta_20201125.pdf) | 20201125 |
-| [Veneto](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Veneto_20201125.pdf) | 20201125 |
+| [Basilicata](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Basilicata_20201125.pdf) | 20201125 |
+| [Calabria](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Calabria_20201125.pdf) | 20201125 |
+| [Campania](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Campania_20201125.pdf) | 20201125 |
+| [Emilia Romagna](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Emilia-Romagna_20201125.pdf) | 20201125 |
+| [Friuli Venezia Giulia](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Friuli-Venezia_Giulia_20201125.pdf) | 20201125 |
+| [Lazio](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lazio_20201125.pdf) | 20201125 |
+| [Liguria](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Liguria_20201125.pdf) | 20201125 |
+| [Lombardia](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Lombardia_20201125.pdf) | 20201125 |
+| [Marche](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Marche_20201125.pdf) | 20201125 |
+| [Molise](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Molise_20201125.pdf) | 20201125 |
+| [PA Bolzano](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Bolzano_20201125.pdf) | 20201125 |
+| [PA Trento](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_PA_Trento_20201125.pdf) | 20201125 |
+| [Piemonte](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Piemonte_20201125.pdf) | 20201125 |
+| [Puglia](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Puglia_20201125.pdf) | 20201125 |
+| [Sardegna](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sardegna_20201125.pdf) | 20201125 |
+| [Sicilia](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Sicilia_20201125.pdf) | 20201125 |
+| [Toscana](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Toscana_20201125.pdf) | 20201125 |
+| [Umbria](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Umbria_20201125.pdf) | 20201125 |
+| [Valle D'Aosta](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_ValledAosta_20201125.pdf) | 20201125 |
+| [Veneto](https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Veneto_20201125.pdf) | 20201125 |
 | [Abruzzo](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Abruzzo_20201202.pdf) | 20201202 |
 | [Basilicata](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Basilicata_20201202.pdf) | 20201202 |
 | [Calabria](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Epi_aggiornamento_Calabria_20201202.pdf) | 20201202 |
