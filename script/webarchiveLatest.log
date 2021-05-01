@@ -1,9 +1,9 @@
-{"job_id":"2ae5a28a-a630-409e-ab49-f8fbb2fd4346","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"51d44703-7468-4868-91fa-84509b2b1f32"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"21b80f9e-4063-40b8-9f54-5b40172ff8f6"}
-{"job_id":"c1dd4759-d9a6-42aa-9497-10da0985e434","url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md"}
-{"job_id":"d5632643-679a-4c61-8e56-3a08ddd67035","url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG","job_id":"c47027ca-1353-4021-9962-d6bcbdc54ba0"}
-{"status_ext":"error:user-session-limit","message":"You have already reached the limit of active sessions.","status":"error"}
-{"url":"https://data.humdata.org/dataset/movement-range-maps","job_id":"e5ddb989-eeb0-428e-9fa5-5818446381d2"}
-{"status":"error","message":"You have already reached the limit of active sessions.","status_ext":"error:user-session-limit"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"304d9fb4-a63a-45c8-abad-d0832001a983"}
+{"job_id":"0ea421b0-d978-43e0-9e60-962123083dd7","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"d90fda5d-860b-4df7-882c-b43f5735b93d"}
+{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":null,"message":"The same snapshot had been made 1379 minutes and 31 seconds ago. We only allow new captures of the same URL every 1389 minutes."}
+{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"a8a8ed1f-aee9-4520-b3e3-bcf2b5bc3fcb"}
+{"job_id":"a66df081-d6be-4495-b0dd-675aa05c32e5","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG"}
+{"url":"https://www.interno.gov.it/it/coronavirus-i-dati-dei-servizi-controllo","job_id":"4a2e6801-a752-482d-9b74-326329703eff"}
+{"url":"https://data.humdata.org/dataset/movement-range-maps","job_id":"094a82e0-72d1-4e50-9912-c604faaa3a0d"}
+{"status":"error","status_ext":"error:user-session-limit","message":"You have already reached the limit of active sessions."}
