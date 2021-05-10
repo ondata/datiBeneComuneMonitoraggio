@@ -1,9 +1,9 @@
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"b17676a0-2bf1-458e-866f-d1e349f12db6"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"c8e77740-10af-4546-ba89-8b26fe9f0d08"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"3546ec13-c8be-40fc-85ad-88772e9097f1"}
-{"message":"You have already reached the limit of active sessions.","status_ext":"error:user-session-limit","status":"error"}
-{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"4dde581d-b9b9-4bd6-b2bb-9cb698b95c28"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG","job_id":"cf7fde31-ba0b-4f5a-807b-34f852cc79f5"}
-{"url":"https://www.interno.gov.it/it/coronavirus-i-dati-dei-servizi-controllo","job_id":"50171877-c881-4c9c-9ea1-108141331347"}
-{"url":"https://data.humdata.org/dataset/movement-range-maps","job_id":"c86a7301-f102-4ddf-8bee-397c04fc2a85"}
-{"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"af9ade15-d029-48ef-bdb3-e28756d3e67a"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"81f6880d-8943-4d12-88d7-2239ddefc034"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"baaccf15-c63c-43bb-841a-525a4ddf936e"}
+{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"63a753d6-cbad-4fe4-9738-1a79d5d1ef4e"}
+{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"0d4a842b-f347-4840-8bae-6fd83b628d97"}
+{"status":"error","message":"You have already reached the limit of active sessions.","status_ext":"error:user-session-limit"}
+{"status":"error","status_ext":"error:user-session-limit","message":"You have already reached the limit of active sessions."}
+{"url":"https://data.humdata.org/dataset/movement-range-maps","job_id":"8d1f7f17-7411-4b2d-91da-6aa13916e0c5"}
+{"status_ext":"error:user-session-limit","status":"error","message":"You have already reached the limit of active sessions."}
