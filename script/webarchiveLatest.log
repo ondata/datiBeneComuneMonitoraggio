@@ -1,9 +1,9 @@
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"10e9fedd-5be2-41b2-893e-378490e1ac13"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"0126f62a-e0ab-4327-a52b-681ac24eff8b"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"a3b8d812-5da2-416a-b74c-5b4bef20e6a0"}
-{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"cdd50fa6-ca47-4e66-9302-f98bb12eee9b"}
-{"job_id":"6533bf61-5e40-4f9c-a572-b33c5fb4950e","url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"53305157-1b9a-4def-a5ea-a6b9c918c6d4"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"943beea1-9df4-4d7e-aa82-73027f842f54"}
+{"job_id":"46ed8697-bdba-48fb-be48-525135252615","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"}
+{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"ec5a3f68-dad3-47e4-a350-2388515ab190"}
+{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"96e07faf-1c8f-4fe4-b53d-b266aafcc3c1"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG","job_id":"10bec195-88a0-4223-a0e7-c748804f8f53"}
+{"url":"https://www.interno.gov.it/it/coronavirus-i-dati-dei-servizi-controllo","job_id":"8ff0e926-ea3a-4c86-ad63-d2d42507ca07"}
+{"url":"https://data.humdata.org/dataset/movement-range-maps","job_id":"591db735-8754-4dc2-8d19-f5025c96a179"}
 {"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
-{"job_id":"92c65fae-e9a1-47ed-845a-7dcb97c6ab0d","url":"https://www.interno.gov.it/it/coronavirus-i-dati-dei-servizi-controllo"}
-{"url":"https://data.humdata.org/dataset/movement-range-maps","job_id":"59bb1f73-8dfe-46cc-aeef-34b004e0dc31"}
-{"url":"http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano","job_id":null,"message":"The same snapshot had been made 720 minutes and 0 seconds ago. We only allow new captures of the same URL every 1389 minutes."}
