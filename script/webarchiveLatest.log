@@ -1,9 +1,9 @@
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"cf968908-7906-4901-b35b-e71747d3b5ea"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"e233a0fe-585e-440b-9f7c-517b3036f1e9"}
-{"job_id":"1605ec67-1ef1-4410-b7cb-4ac05f471695","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"}
-{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"1962c47a-ebd7-4a9e-bd23-52d33b596cc0"}
-{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"87a12459-a963-4180-b612-cbca46d08218"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG","job_id":"870073ce-2d63-4e8b-bc6a-4e74ef7468d3"}
-{"url":"https://www.interno.gov.it/it/coronavirus-i-dati-dei-servizi-controllo","job_id":"fb99e3c8-cf48-4bf1-ae50-1c5fdacfc25d"}
-{"url":"https://data.humdata.org/dataset/movement-range-maps","job_id":"87e61f16-5237-4cd2-b084-f313e613c0d2"}
+{"job_id":"3cf94ea0-a60d-49bb-8405-3c040dba0d01","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"06f5781e-a72a-491f-b8a5-cf32d41c554c"}
+{"job_id":"f7996a65-e0f1-4bd4-8e2e-e229c14f502a","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"}
+{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"5ced556e-9491-4c60-90f2-d572d5862116"}
+{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"1c01e0ed-ecbc-4160-a5e7-efbb401097be"}
+{"job_id":"cb016bde-8f7d-43c0-8d14-0afb46594aca","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG"}
 {"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
+{"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
+{"url":"http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano","job_id":"8a4796e3-f85f-4cdc-bef4-1c09ca74cc04"}
