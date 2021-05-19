@@ -1,3 +1,9 @@
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"f92be2ce-232c-443a-ade7-34dee07e45eb"}
-{"job_id":"482c1717-4066-4b95-8719-0401223bd6c0","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"a020d568-50d2-492d-852b-63684fdaea83"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"6bfac48d-c7ca-4523-8a14-16779b19cea9"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"39dd5cb4-7c3c-4359-95be-e5e219491a41"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"453f3a88-7c79-4936-91dc-63f701c26c22"}
+{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"99666e95-0d83-40b8-80d4-a6da56b354b5"}
+{"job_id":"7ae242dd-025f-495b-ae1a-6b5669cd4027","url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG","job_id":"81ec5c34-0715-4867-b223-da9f383633c2"}
+{"url":"https://www.interno.gov.it/it/coronavirus-i-dati-dei-servizi-controllo","job_id":"d9840ad9-85f7-4baf-9a4b-815460c83cd0"}
+{"url":"https://data.humdata.org/dataset/movement-range-maps","job_id":"ee2b497c-7527-42d6-b76d-1eb0fc3a4572"}
+{"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
