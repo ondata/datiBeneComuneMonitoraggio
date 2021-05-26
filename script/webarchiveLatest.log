@@ -1,9 +1,9 @@
-{"job_id":"58cef0bf-45b3-4ec2-935d-b27bf34b1afe","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"0bc5ef24-02f6-402c-971b-3490733e2aac"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"663c7c99-c543-48b6-8374-a735e4132eab"}
-{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"55bbf00d-a1dc-488b-91a6-230793eb4fe5"}
-{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"4dbe8da9-b1b6-4418-9f3c-267d236c6a99"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG","job_id":"bfa78a80-dbcc-4c5c-9f8a-76b5bcc79d94"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"cf5fe456-0346-46c0-ae44-cb2acc6c8cd7"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"d6922e79-2f8b-43c3-b05c-b62de1d77225"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"2747f234-f4d6-4535-ae1b-ca266613a884"}
+{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"d937d983-8ed6-4d38-a55b-60e19e87ff00"}
+{"job_id":"9ab0c048-b935-44e3-8eae-aff7790ff714","url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG","job_id":"0945b158-8aa6-4555-abef-48a31c630d85"}
 {"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
 {"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
-{"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
+{"status_ext":"error:user-session-limit","status":"error","message":"You have already reached the limit of active sessions."}
