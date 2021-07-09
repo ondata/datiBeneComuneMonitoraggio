@@ -1,9 +1,9 @@
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"spn2-d3efdbcff29b78c424f296c47cda4e9a6593617e-fd68188a"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"spn2-6758c7414c30cef44e2d406b6d643f2134c15ef0-d27df2ec"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"spn2-128de19ba96879e9b12c7b755b7ab88ce6d86d26-37672c5c"}
-{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"spn2-053880ad259e5fee7668bb414dbff09064160b27-c262e562"}
-{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-2c7551dc"}
+{"job_id":"spn2-d3efdbcff29b78c424f296c47cda4e9a6593617e-6f4d3edf","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori"}
+{"job_id":"spn2-6758c7414c30cef44e2d406b6d643f2134c15ef0-926541bb","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"spn2-128de19ba96879e9b12c7b755b7ab88ce6d86d26-965e30c3"}
+{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"spn2-053880ad259e5fee7668bb414dbff09064160b27-60cbc765"}
+{"url":"https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard","job_id":"spn2-8af1c9bd07fdb26a4d67de7250d259a0000f84fb-58c9a1dd"}
+{"message":"You have already reached the limit of active sessions.","status_ext":"error:user-session-limit","status":"error"}
+{"status_ext":"error:user-session-limit","status":"error","message":"You have already reached the limit of active sessions."}
 {"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
-{"job_id":"spn2-605fdcaea2a278be28160e3a4bb5fe6a81e0535a-a3181e5c","url":"https://www.interno.gov.it/it/coronavirus-i-dati-dei-servizi-controllo"}
-{"job_id":"spn2-6d19d1dbf13ded036d7d0de271ededae8d809bab-fd875a29","url":"https://data.humdata.org/dataset/movement-range-maps"}
-{"url":"http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano","job_id":"spn2-c62199ef77ab23634ab94a9567654b31208144dd-1ba3665b"}
+{"url":"http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano","job_id":"spn2-c62199ef77ab23634ab94a9567654b31208144dd-857612a8"}
