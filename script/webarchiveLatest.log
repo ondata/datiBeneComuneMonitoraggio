@@ -1,9 +1,9 @@
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"spn2-d3efdbcff29b78c424f296c47cda4e9a6593617e-6dc461ba"}
-{"job_id":"spn2-6758c7414c30cef44e2d406b6d643f2134c15ef0-562e21dd","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale"}
-{"job_id":"spn2-128de19ba96879e9b12c7b755b7ab88ce6d86d26-12d7afe5","url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"spn2-d3efdbcff29b78c424f296c47cda4e9a6593617e-4488e934"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"spn2-6758c7414c30cef44e2d406b6d643f2134c15ef0-de9b7ab5"}
+{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"spn2-128de19ba96879e9b12c7b755b7ab88ce6d86d26-c030d3bf"}
 {"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
+{"status":"error","status_ext":"error:user-session-limit","message":"You have already reached the limit of active sessions."}
 {"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
-{"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
-{"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
-{"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
-{"message":"You have already reached the limit of active sessions.","status":"error","status_ext":"error:user-session-limit"}
+{"status":"error","status_ext":"error:user-session-limit","message":"You have already reached the limit of active sessions."}
+{"status_ext":"error:user-session-limit","status":"error","message":"You have already reached the limit of active sessions."}
+{"status_ext":"error:user-session-limit","status":"error","message":"You have already reached the limit of active sessions."}
