@@ -34,3 +34,13 @@ else
   mlr --csv uniq -a then sort -r datetime "$folder"/../output/latest.csv "$folder"/../output/archive.csv >"$folder"/rawdata/tmp.csv
   mv "$folder"/rawdata/tmp.csv "$folder"/../output/archive.csv
 fi
+
+# RSS
+
+title="Italia Domani, Documenti | a cura di #datiBeneComune"
+description="Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani"
+selflinkraw="https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml"
+
+mlr --csv put -S '$pubDate = strftime(strptime($datetime, "%Y-%m-%d"),"%Y-%m-%dT%H:%M:%SZ");$title="#".$type." | ".$title' then rename URL,link then cut -o -f title,link,pubDate "$folder"/../output/latest.csv >"$folder"/../output/rss.csv
+
+ogr2ogr -f geoRSS -dsco TITLE="$title" -dsco LINK="$selflinkraw" -dsco DESCRIPTION="$description" "$folder"/../rss.xml "$folder"/../output/rss.csv -oo AUTODETECT_TYPE=YES
