@@ -3,3 +3,4 @@ tmp*
 rawdata/
 catalogo/monitoraggioSettimanale/script/old_monitoraggioSettimanale.sh
 .config
+catalogo/italiaDomaniDocumenti/script/rawdata/*
