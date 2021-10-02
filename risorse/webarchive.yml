@@ -52,3 +52,15 @@
   nome: pianoVacciniCOVID19
   dataInserimento: 2021-03-16
   if_not_archived_within: 1389m
+- titolo: "Proposta di Piano nazionale di ripresa e resilienza"
+  fonte: "Senato della Repubblica"
+  URL: "http://www.senato.it/leg/18/BGT/Schede/docnonleg/41806.htm"
+  nome: PNRRSenato
+  dataInserimento: 2021-09-21
+  if_not_archived_within: 1389m
+- titolo: "Sezione Documenti Italia Domani"
+  fonte: "Sito Italia Domani"
+  URL: "https://italiadomani.gov.it/it/documenti-pnrr.html"
+  nome: italiaDomaniDocumenti
+  dataInserimento: 2021-10-02
+  if_not_archived_within: 1389m
