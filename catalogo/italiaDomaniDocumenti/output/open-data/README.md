@@ -12,6 +12,7 @@
     - [Assenza controllo presenza di spazi bianchi ridondanti](#assenza-controllo-presenza-di-spazi-bianchi-ridondanti)
     - [Valori nulli espressi in modalità differenti](#valori-nulli-espressi-in-modalità-differenti)
     - [Formato dati non descritto](#formato-dati-non-descritto)
+    - [Assenza di un file/servizio di "catalogo"](#assenza-di-un-fileservizio-di-catalogo)
 
 # Note sugli open-data pubblicati su Italia Domani al 3 ottobre 2021
 
@@ -140,5 +141,8 @@ Il valore `N/A` potrebbe avere un significato diverso da una cella vuota; se è 
 
 Andrebbe associato a ogni file `CSV` un ulteriore file che descriva lo schema dati. Per ogni campo, la descrizione, il formato (utile per i campi con date e numerici). Un esempio è [quanto fatto dalla Protezione Civile per i dati COVID-19](https://github.com/pcm-dpc/COVID-19/blob/master/dati-andamento-covid19-italia.md#dati-per-regione).
 
+### Assenza di un file/servizio di "catalogo"
 
+I dati aperti in generale, a maggior forza quelli legati a un progetto epocale, devono essere **pubblicati in modo da renderne la diffusione ampia e automatica**. Per farlo basta descrivere in modo standard, come ad esempio si può leggere nelle ["Linee guida per i cataloghi dati"](https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/index.html), l'elenco delle risorse pubblicate.
 
+In questo modo i dati aperti di Italia Domani sarebbero **automaticamente** resi **disponibili** sul **portale nazionale ed europeo sui dati aperti** e sui **maggiori motori di ricerca**.
