@@ -7,3 +7,5 @@ https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/SiSMG/output/SiSMG
 https://www.interno.gov.it/it/coronavirus-i-dati-dei-servizi-controllo
 https://data.humdata.org/dataset/movement-range-maps
 http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5452&area=nuovoCoronavirus&menu=vuoto
+http://www.senato.it/leg/18/BGT/Schede/docnonleg/41806.htm
+https://italiadomani.gov.it/it/documenti-pnrr.html
