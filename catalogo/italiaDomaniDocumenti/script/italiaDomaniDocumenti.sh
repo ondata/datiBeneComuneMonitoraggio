@@ -44,3 +44,19 @@ selflinkraw="https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italia
 mlr --csv put -S '$pubDate = strftime(strptime($datetime, "%Y-%m-%d"),"%Y-%m-%dT%H:%M:%SZ");$title="#".$type." | ".$title' then rename URL,link then cut -o -f title,link,pubDate "$folder"/../output/latest.csv >"$folder"/../output/rss.csv
 
 ogr2ogr -f geoRSS -dsco TITLE="$title" -dsco LINK="$selflinkraw" -dsco DESCRIPTION="$description" "$folder"/../rss.xml "$folder"/../output/rss.csv -oo AUTODETECT_TYPE=YES
+
+# open-data
+mkdir -p "$folder"/../output/open-data/rawdata
+cd "$folder"/../output/open-data/rawdata
+mlr --c2n filter -S '$type=="open-data"' then cut -f URL "$folder"/../output/latest.csv | xargs -n 1 -P 8 wget -q
+
+cd "$folder"
+
+# modifica encoding in UTF-8, cambia separatore da ";" a ",", rimuovi spazi bianchi ridondanti, rimuovi righe e colonne vuote
+for i in "$folder"/../output/open-data/rawdata/*.csv; do
+  nome=$(basename "$i")
+  iconv -f Windows-1252 -t UTF-8 "$i" >"$folder"/../output/open-data/"$nome"
+  mlr -I --csv --ifs ";" -N remove-empty-columns then skip-trivial-records "$folder"/../output/open-data/"$nome"
+  mlr -I --csv -N put -S 'for (k in $*) {$[k] = gsub($[k], "^ +", "")};for (k in $*) {$[k] = gsub($[k], " +$", "")};for (k in $*) {$[k] = gsub($[k], "  +", " ")}' "$folder"/../output/open-data/"$nome"
+done
+
