@@ -17,7 +17,7 @@
 
 # Note sugli open-data pubblicati su Italia Domani al 3 ottobre 2021
 
-Nel sito Italia Domani, nella sezione [`Documenti`](https://italiadomani.gov.it/it/documenti-pnrr.html), sono presenti dei file classificati come **open-data** (è uno dei filtri disponbili).
+Nel sito Italia Domani, nella sezione [`Documenti`](https://italiadomani.gov.it/it/documenti-pnrr.html), sono presenti dei file classificati come **open-data** (è uno dei filtri disponibili).
 <br>A seguire delle note su quanto pubblicato.
 
 ## Non sono dati aperti, perché la licenza non consente di farne uso
@@ -114,7 +114,7 @@ NOTE
 
 ### Assenza di verifica congruità di campi con lista di valori noti
 
-Alcuni campi contengono una lista controllata di valori. Come ad esempio il campo `Milestone / Target` che è valorizzato che dovrebbe essere valorizzato con soli 2 valori: `Milestone` o `Target`.
+Alcuni campi contengono una lista controllata di valori. Come ad esempio il campo `Milestone / Target` che dovrebbe essere valorizzato con soli 2 valori: `Milestone` o `Target`.
 <br>In un caso però c'è il valore `target` (la iniziale è minuscola) e non `Target`.
 
 Un altro esempio è quello della colonna con le unità di misura degli indicatori quantitativi: troviamo sia `EUR` che `Euro`, oppure `%` e `Percentuale`.
