@@ -150,4 +150,4 @@ In questo modo i dati aperti di Italia Domani sarebbero **automaticamente** resi
 
 ---
 # Grazie
-L’ispirazione si deve a Marco Cortella (grazie) e a [questo ricco scambio su Twitter](https://twitter.com/Mcx83/status/1443953484672417813) e alla spinta di Ciro Spataro.
+L’ispirazione si deve a Marco Cortella (grazie) e a [questo ricco scambio su Twitter](https://twitter.com/Mcx83/status/1443953484672417813), e alla spinta di Ciro Spataro.
