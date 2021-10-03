@@ -13,6 +13,7 @@
     - [Valori nulli espressi in modalità differenti](#valori-nulli-espressi-in-modalità-differenti)
     - [Formato dati non descritto](#formato-dati-non-descritto)
     - [Assenza di un file/servizio di "catalogo"](#assenza-di-un-fileservizio-di-catalogo)
+- [Grazie](#grazie)
 
 # Note sugli open-data pubblicati su Italia Domani al 3 ottobre 2021
 
@@ -146,3 +147,7 @@ Andrebbe associato a ogni file `CSV` un ulteriore file che descriva lo schema da
 I dati aperti in generale, a maggior forza quelli legati a un progetto epocale, devono essere **pubblicati in modo da renderne la diffusione ampia e automatica**. Per farlo basta descrivere in modo standard, come ad esempio si può leggere nelle ["Linee guida per i cataloghi dati"](https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/index.html), l'elenco delle risorse pubblicate.
 
 In questo modo i dati aperti di Italia Domani sarebbero **automaticamente** resi **disponibili** sul **portale nazionale ed europeo sui dati aperti** e sui **maggiori motori di ricerca**.
+
+---
+# Grazie
+L’ispirazione si deve a Marco Cortella (grazie) e a [questo ricco scambio su Twitter](https://twitter.com/Mcx83/status/1443953484672417813) e alla spinta di Ciro Spataro.
