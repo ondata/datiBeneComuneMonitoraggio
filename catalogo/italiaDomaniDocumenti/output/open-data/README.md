@@ -59,7 +59,7 @@ Questo aggiornamento risolve alcune delle note sottostanti. Anche quelle risolte
 
 ### Righe vuote
 
-Sono presenti delle righe composte soltanto da righe vuote. Ad esempio:
+Sono presenti delle righe totalmente vuote. Ad esempio:
 
 ```
 534         blank-row    Row at position "534" is completely blank
