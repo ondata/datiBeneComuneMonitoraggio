@@ -1,5 +1,6 @@
 - [Note sugli open-data pubblicati su Italia Domani al 3 ottobre 2021](#note-sugli-open-data-pubblicati-su-italia-domani-al-3-ottobre-2021)
   - [Non sono dati aperti, perché la licenza non consente di farne uso](#non-sono-dati-aperti-perché-la-licenza-non-consente-di-farne-uso)
+  - [Non c'è una sezione di "contatto"](#non-cè-una-sezione-di-contatto)
   - [Pochissima cura nella pubblicazione dei dati](#pochissima-cura-nella-pubblicazione-dei-dati)
     - [Righe vuote](#righe-vuote)
     - [Decine di colonne senza valori](#decine-di-colonne-senza-valori)
@@ -20,8 +21,16 @@
 
 # Note sugli open-data pubblicati su Italia Domani al 3 ottobre 2021
 
-Nel sito Italia Domani, nella sezione [`Documenti`](https://italiadomani.gov.it/it/documenti-pnrr.html), sono presenti dei file classificati come **open-data** (è uno dei filtri disponibili).
-<br>A seguire delle note su quanto pubblicato.
+Nel sito Italia Domani, nella sezione [Documenti](https://italiadomani.gov.it/it/documenti-pnrr.html), sono presenti dei file classificati come **open-data** (è uno dei filtri disponibili).<br>
+Purtroppo sono presenti alcune **criticità** che li **rendono** **poco** **utilizzabili**.
+
+Riteniamo inoltre che la stessa attenzione che si è messa nella predisposizione e redazione del piano - per l’approvazione da parte dell'UE - debba essere messa anche nella pubblicazione dei dati in questo sito.<br>
+La loro **conoscenza** è un **diritto**, e la **cura** nella pubblicazione è una forma di **rispetto** e **condivisione**.
+
+Apprezziamo che siano *online*, ma va fatto rispettando le “regole” per un buon uso: non è solo un adempimento formale, ma è la conseguenza della consapevolezza che ci si mette nel **fare un lavoro “per bene”**!
+
+Nell'intento di dare un aiuto, a seguire alcune note su quanto pubblicato.
+
 
 ## Non sono dati aperti, perché la licenza non consente di farne uso
 
@@ -30,6 +39,10 @@ Ai file della sezione **documenti** **non è associata una licenza**, quindi val
 - **Come risolvere**: **associare** ai documenti classificati come "open-data", **una delle licenze** previste **per i dati aperti** elencate nelle "[Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico](https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/licenzecosti.html#licenze)";
 - **Complessità azione risolutiva**: nulla. Si realizza in brevissimo tempo senza che siano necessari approfondimenti. Per eventuali dubbi, contattare l'[Agenzia per l'Italia digitale](https://www.agid.gov.it/).
 
+## Non c'è una sezione di "contatto"
+
+Sul sito non è presente una sezione di "contatto", *email*/*form*/altra modalità, per raggiungere un *helpdesk* del sito e/o chi si occupa di gestirlo.
+Sarebbe utile approntarlo, per **consentire** l'**interazione** con **cittadini**, riutilizzatori di dati, mass-media, ricercatori etc., anche e proprio per **segnalazioni** **collaborative** di possibili errori/problemi, come quelli elencati a seguire.
 
 
 ## Pochissima cura nella pubblicazione dei dati
@@ -112,7 +125,7 @@ Line 997: verificare coerenza colonne V e W";;;;;;;;;;;;;;;;;;;;;
 Line 5406: [...];sul file inviato da Raffaele è indicato come INV.4 anziché INV. 5, quindi è stato corretto il refuso;;;;;;;;;;;;;;;;;;;
 ```
 
-Nota bene: non più presente nel file corrente, ma soltanto in [questa versione](https://italiadomani.gov.it/content/dam/sogei-ng/documenti/20210927_T1_UENaz_codificato_ITA.csv).
+Nota bene: non più presenti nel file corrente, ma soltanto in [questa versione](https://italiadomani.gov.it/content/dam/sogei-ng/documenti/20210927_T1_UENaz_codificato_ITA.csv).
 
 ### Presenza di note/metadati tra i valori delle celle
 
@@ -161,7 +174,7 @@ In questo modo i dati aperti di Italia Domani sarebbero **automaticamente** resi
 
 ---
 # Grazie
-L’ispirazione si deve a Marco Cortella e a [questo ricco scambio su Twitter](https://twitter.com/Mcx83/status/1443953484672417813), e alla spinta di Ciro Spataro.
+L'ispirazione si deve a Marco Cortella e a [questo ricco scambio su Twitter](https://twitter.com/Mcx83/status/1443953484672417813), e alla spinta di Ciro Spataro.
 
 # Log
 
