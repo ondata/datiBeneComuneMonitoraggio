@@ -125,7 +125,7 @@ Line 997: verificare coerenza colonne V e W";;;;;;;;;;;;;;;;;;;;;
 Line 5406: [...];sul file inviato da Raffaele è indicato come INV.4 anziché INV. 5, quindi è stato corretto il refuso;;;;;;;;;;;;;;;;;;;
 ```
 
-Nota bene: non più presenti nel file corrente, ma soltanto in [questa versione](https://italiadomani.gov.it/content/dam/sogei-ng/documenti/20210927_T1_UENaz_codificato_ITA.csv).
+**Nota bene**: non più presenti nel file corrente, ma soltanto in [questa versione](https://italiadomani.gov.it/content/dam/sogei-ng/documenti/20210927_T1_UENaz_codificato_ITA.csv).
 
 ### Presenza di note/metadati tra i valori delle celle
 
