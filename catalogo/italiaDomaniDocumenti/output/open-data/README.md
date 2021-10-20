@@ -55,7 +55,7 @@ A seguire delle note di dettaglio, che faranno riferimento alla risorsa denomina
 - [`20211007_T1_UENaz_codificato_ITA.csv`](https://italiadomani.gov.it/content/dam/sogei-ng/documenti/20211007_T1_UENaz_codificato_ITA.csv), che è la **corrente**, pubblicata il 14 ottobre 2021;
 - [`20210927_T1_UENaz_codificato_ITA.csv`](https://italiadomani.gov.it/content/dam/sogei-ng/documenti/20210927_T1_UENaz_codificato_ITA.csv).
 
-Questo aggiornamento risolve alcune delle note sottostanti. Sono lasciate visibili, ma marcata con un taglio centrale - ~~come questo~~ - per dare conto del fatto di essere stare risolte
+Questo aggiornamento risolve alcune delle note sottostanti. Anche quelle risolte sono lasciate visibili, ma marcate con un taglio centrale - ~~come questo~~ - per dare conto del fatto di essere superate.
 
 ### Righe vuote
 
