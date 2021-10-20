@@ -6,14 +6,17 @@
     - [Intestazioni ridondanti](#intestazioni-ridondanti)
     - [Separatore di campo e codifica caratteri non documentati](#separatore-di-campo-e-codifica-caratteri-non-documentati)
     - [Presenza di celle contenenti valori aggregati](#presenza-di-celle-contenenti-valori-aggregati)
-    - [Note di lavoro non rimosse](#note-di-lavoro-non-rimosse)
+    - [~~Note di lavoro non rimosse~~](#note-di-lavoro-non-rimosse)
     - [Presenza di note/metadati tra i valori delle celle](#presenza-di-notemetadati-tra-i-valori-delle-celle)
-    - [Assenza di verifica congruità di campi con lista di valori noti](#assenza-di-verifica-congruità-di-campi-con-lista-di-valori-noti)
+    - [Assenza di verifica congruità di campi contenenti liste di valori controllati](#assenza-di-verifica-congruità-di-campi-contenenti-liste-di-valori-controllati)
     - [Assenza controllo presenza di spazi bianchi ridondanti](#assenza-controllo-presenza-di-spazi-bianchi-ridondanti)
-    - [Valori nulli espressi in modalità differenti](#valori-nulli-espressi-in-modalità-differenti)
+    - [Uniformare rappresentazione del valore Not Available](#uniformare-rappresentazione-del-valore-not-available)
     - [Formato dati non descritto](#formato-dati-non-descritto)
     - [Assenza di un file/servizio di "catalogo"](#assenza-di-un-fileservizio-di-catalogo)
 - [Grazie](#grazie)
+- [Log](#log)
+  - [2021-10-20](#2021-10-20)
+  - [2021-10-03](#2021-10-03)
 
 # Note sugli open-data pubblicati su Italia Domani al 3 ottobre 2021
 
@@ -27,30 +30,38 @@ Ai file della sezione **documenti** **non è associata una licenza**, quindi val
 - **Come risolvere**: **associare** ai documenti classificati come "open-data", **una delle licenze** previste **per i dati aperti** elencate nelle "[Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico](https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/licenzecosti.html#licenze)";
 - **Complessità azione risolutiva**: nulla. Si realizza in brevissimo tempo senza che siano necessari approfondimenti. Per eventuali dubbi, contattare l'[Agenzia per l'Italia digitale](https://www.agid.gov.it/).
 
+
+
 ## Pochissima cura nella pubblicazione dei dati
 
 I **file open-data** al momento sono tutti **in formato CSV**. Analizzandoli, emergono tanti elementi che fanno pensare che per produrli ci sia limitati ad aprirli nel loro formato nativo - probabilmente dei fogli elettronici - e **ci sia limitati a fare un salva con nome**, **senza porre alcuna cura** nel produrre degli *output* con le **caratteristiche di base dei dati aperti**.
 
-A seguire delle note di dettaglio, che faranno riferimento al file [`20210927_T1_UENaz_codificato_ITA.csv`](https://italiadomani.gov.it/content/dam/sogei-ng/documenti/20210927_T1_UENaz_codificato_ITA.csv), "Traguardi, obiettivi e scadenze per il monitoraggio e l'attuazione degli interventi del PNRR".
+A seguire delle note di dettaglio, che faranno riferimento alla risorsa denominata **`Traguardi, obiettivi e scadenze per il monitoraggio e l'attuazione degli interventi del PNRR`**.<br>
+È associato a un file che è stato aggiornato una volta. Queste le versioni, tutte ancora disponibili sul sito (visibile soltanto l'ultima):
+
+- [`20211007_T1_UENaz_codificato_ITA.csv`](https://italiadomani.gov.it/content/dam/sogei-ng/documenti/20211007_T1_UENaz_codificato_ITA.csv), che è la **corrente**, pubblicata il 14 ottobre 2021;
+- [`20210927_T1_UENaz_codificato_ITA.csv`](https://italiadomani.gov.it/content/dam/sogei-ng/documenti/20210927_T1_UENaz_codificato_ITA.csv).
+
+Questo aggiornamento risolve alcune delle note sottostanti. Sono lasciate visibili, ma marcata con un taglio centrale - ~~come questo~~ - per dare conto del fatto di essere stare risolte
 
 ### Righe vuote
 
 Sono presenti delle righe composte soltanto da righe vuote. Ad esempio:
 
 ```
-Line 6661: ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Line 6662: ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Line 6663: ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Line 6664: ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-Line 6665: ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+534         blank-row    Row at position "534" is completely blank
+535         blank-row    Row at position "535" is completely blank
+536         blank-row    Row at position "536" is completely blank
+537         blank-row    Row at position "537" is completely blank
+......
 ```
 
 ### Decine di colonne senza valori
 
-Dopo l'ultima colonna - `NOTE FINALI` - sono presenti una ventina di colonne senza intestazione e senza alcuna valorizzazione delle celle.
+Dopo l'ultima colonna - `Meccanismo di verifica` - sono presenti una ventina di colonne senza intestazione e senza alcuna valorizzazione delle celle.
 
 ```
-Line 4: [...];NOTE FINALI;;;;;;;;;;;;;;;;;;;
+Meccanismo di verifica;;;;;;;;;;;;;;;;;;
 ```
 
 ### Intestazioni ridondanti
@@ -61,9 +72,9 @@ Il file contiene diverse brutture correlate alle intestazioni di campo. Ad esemp
 2. un valore di cella, che in realtà è il titolo della tabella;
 3. un valore di cella, che è la descrizione generale della tabella;
 4. due righe spesso vuote, che contengono alle volte dei dettagli che andrebbero inseriti o in un file di descrizione che accompagna il file, o unite ai valori di intestazione delle colonne;
-5. due colonne, di cui la prima non ha nome, spesso non valorizzata con delle note e la seconda è del tutto vuota.
+5. ~~due colonne, di cui la prima non ha nome, spesso non valorizzata con delle note e la seconda è del tutto vuota.~~
 
-**Andrebbero rimosse tutte**, e lasciata **una sola prima riga con le sole intestazioni di campo** (i nomi delle colonne).
+Sarebbe opportuno lasciare **una sola prima riga con le sole intestazioni di campo** (i nomi delle colonne).
 
 ![](../../risorse/intestazioni.png)
 
@@ -74,7 +85,7 @@ Due sono gli elementi chiave per fare in modo che un *computer*, possa leggere c
 - il separatore di campi;
 - la codifica dei caratteri.
 
-Il primo è deducibile in modo quasi diretto, ma il secondo no. È essenziale **aggiungere** nel sito una **nota informativa** in cui - ad esempio per questi primi file - documentare che il separatore dei campi è il `;` e la codifica dei caratteri è `Windows-1252`.
+Il primo è deducibile in modo quasi diretto, ma il secondo no. È essenziale **aggiungere** nel sito una **nota informativa** in cui - ad esempio per questi primi file - documentare che il separatore dei campi è il `;` e la codifica dei caratteri è (ad esempio) `Windows-1252`.
 
 ![](../../risorse/encoding.png)
 
@@ -86,9 +97,9 @@ Nel file [`Quadro PNRR e Piano Complementare_(aggiornato al 30.09.2021).csv`](ht
 
 Queste **righe e/o colonne d'aggregazione**, se presenti, **vanno rimosse**.
 
-### Note di lavoro non rimosse
+### ~~Note di lavoro non rimosse~~
 
-Nel file sono presenti dei valori di cella, che sembrano delle note interne e non dei metadati. Se così è, **andrebbero rimosse**.
+~~Nel file `Traguardi, obiettivi e scadenze per il monitoraggio e l'attuazione degli interventi del PNRR` sono presenti dei valori di cella, che sembrano delle note interne e non dei metadati. Se così è, **andrebbero rimosse**.~~
 
 ```
 Line 949: verificare coerenza colonne V e W";;;;;;;;;;;;;;;;;;;;;
@@ -101,23 +112,24 @@ Line 997: verificare coerenza colonne V e W";;;;;;;;;;;;;;;;;;;;;
 Line 5406: [...];sul file inviato da Raffaele è indicato come INV.4 anziché INV. 5, quindi è stato corretto il refuso;;;;;;;;;;;;;;;;;;;
 ```
 
+Nota bene: non più presente nel file corrente, ma soltanto in [questa versione](https://italiadomani.gov.it/content/dam/sogei-ng/documenti/20210927_T1_UENaz_codificato_ITA.csv).
+
 ### Presenza di note/metadati tra i valori delle celle
 
 Il file contiene oltre ai valori dei campi, delle celle con delle note utili; queste però - in un file `CSV` - **non andrebbero inserite tra i dati**, ma in **qualche risorsa esterna che le raccoglie**.
 
-Un esempio è il seguente:
+Un esempio è quello del file [`Quadro PNRR_aggiornato al 30.09.2021.csv`](https://italiadomani.gov.it/content/dam/sogei-ng/documenti/Quadro%20PNRR-Piano%20Complementare_aggiornato%20al%2030.09.2021.csv), in cui è possibile leggere:
 
 ```
-NOTE
-*Nella seduta del CdM del 26/08/2021 la compentenza sull'intervento M2C1 investimento 4. Tecnologie satellitari ed economia spaziale è passata al MITD
+NOTA*Nella seduta del CdM del 26/08/2021 la compentenza sull'intervento M2C1 investimento 4. Tecnologie satellitari ed economia spaziale è passata al MITD
 ```
 
-### Assenza di verifica congruità di campi con lista di valori noti
+### Assenza di verifica congruità di campi contenenti liste di valori controllati
 
-Alcuni campi contengono una lista controllata di valori. Come ad esempio il campo `Milestone / Target` che dovrebbe essere valorizzato con soli 2 valori: `Milestone` o `Target`.
-<br>In un caso però c'è il valore `target` (la iniziale è minuscola) e non `Target`.
+~~Alcuni campi contengono una lista controllata di valori. Come ad esempio il campo `Milestone / Target` che dovrebbe essere valorizzato con soli 2 valori: `Milestone` o `Target`.
+<br>In un caso però c'è il valore `target` (la iniziale è minuscola) e non `Target`.~~
 
-Un altro esempio è quello della colonna con le unità di misura degli indicatori quantitativi: troviamo sia `EUR` che `Euro`, oppure `%` e `Percentuale`.
+Un altro esempio è quello della colonna con le unità di misura degli indicatori quantitativi: troviamo sia `EUR` che `Euro`, oppure `Punti percentuali` e `Percentuale`.
 
 Per queste colonne a valori controllati, **andrebbero inseriti** dei **controlli automatici di congruità**.
 
@@ -125,18 +137,17 @@ Per queste colonne a valori controllati, **andrebbero inseriti** dei **controlli
 
 Per un *computer* il valore ` ␣ Massa Carrara` (` ␣ ` è per rappresentare lo spazio, qui a inizio cella) è diverso da `Massa Carrara`: se dovrà conteggiare tutte le occorrenze di `Massa Carrara` o usare la stringa `Massa Carrara` per correlarla a valori presenti in un'altra tabella, non terrà conto delle celle in cui erroneamente è stato inserito uno spazio iniziale. E lo stesso vale per uno (o più) spazio alla fine (`Massa Carrara ␣ `) o più spazi tra parole (`Massa ␣ ␣ Carrara`).
 
-Ci sono circa 1900 occorrenze di questo tipo.
+Ci sono tantissime occorrenze di spazi bianchi ridondanti e andrebbero rimossi.
 
+### Uniformare rappresentazione del valore Not Available
 
-### Valori nulli espressi in modalità differenti
+Ad esempio nella colonna `Indicatori quantitativi` le di questo tipo sono così rappresentate:
 
-Ad esempio nella colonna `AMMINISTRAZIONE CO- TITOLARE` le celle non valorizzate sono così rappresentate:
+- con `N.A`;
+- con `N/A`;
+- con `NA`.
 
-- totalmente vuote in 824 righe;
-- con il carattere `.` in 97 righe (il punto);
-- con `N/A` in 82 righe.
-
-Il valore `N/A` potrebbe avere un significato diverso da una cella vuota; se è così, è da documentare e rendere noto.
+Qui e in altre colonne sarebbe necessario uniformare la modalità per rappresentare il `Not Available`. Inoltre il valore `N/A` potrebbe avere un significato diverso dalla cella vuota; se è così, sarebbe da documentare e rendere noto, viceversa (se coincidono) ci sarebbe da scegliere se usare `N/A` o cella vuota e documentarne il significato.
 
 ### Formato dati non descritto
 
@@ -151,3 +162,14 @@ In questo modo i dati aperti di Italia Domani sarebbero **automaticamente** resi
 ---
 # Grazie
 L’ispirazione si deve a Marco Cortella e a [questo ricco scambio su Twitter](https://twitter.com/Mcx83/status/1443953484672417813), e alla spinta di Ciro Spataro.
+
+# Log
+
+## 2021-10-20
+
+- inserita nel documento sezione [Log](#log);
+- aggiornato il documento alla pubblicazione di una nuova versione del file `Traguardi, obiettivi e scadenze per il monitoraggio e l'attuazione degli interventi del PNRR`.
+
+## 2021-10-03
+
+Prima versione di questo documento
