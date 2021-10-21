@@ -181,7 +181,8 @@ L'ispirazione si deve a Marco Cortella e a [questo ricco scambio su Twitter](htt
 ## 2021-10-20
 
 - inserita nel documento sezione [Log](#log);
-- aggiornato il documento alla pubblicazione di una nuova versione del file `Traguardi, obiettivi e scadenze per il monitoraggio e l'attuazione degli interventi del PNRR`.
+- aggiornato il documento alla pubblicazione di una nuova versione del file `Traguardi, obiettivi e scadenze per il monitoraggio e l'attuazione degli interventi del PNRR`;
+- aggiunto paragrafo introduttivo iniziale;
 
 ## 2021-10-03
 
