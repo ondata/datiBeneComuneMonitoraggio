@@ -89,7 +89,7 @@ Il file contiene diverse brutture correlate alle intestazioni di campo. Ad esemp
 
 Sarebbe opportuno lasciare **una sola prima riga con le sole intestazioni di campo** (i nomi delle colonne).
 
-![](../../risorse/intestazioni.png)
+![](https://i.imgur.com/nsUIoPL.png)
 
 ### Separatore di campo e codifica caratteri non documentati
 
@@ -100,7 +100,7 @@ Due sono gli elementi chiave per fare in modo che un *computer*, possa leggere c
 
 Il primo è deducibile in modo quasi diretto, ma il secondo no. È essenziale **aggiungere** nel sito una **nota informativa** in cui - ad esempio per questi primi file - documentare che il separatore dei campi è il `;` e la codifica dei caratteri è (ad esempio) `Windows-1252`.
 
-![](../../risorse/encoding.png)
+![](https://i.imgur.com/MAcKpOp.png)
 
 ### Presenza di celle contenenti valori aggregati
 
