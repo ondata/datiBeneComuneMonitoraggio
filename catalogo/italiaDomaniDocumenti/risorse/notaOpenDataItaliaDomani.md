@@ -21,7 +21,7 @@
 
 # Note sugli open-data pubblicati su Italia Domani al 3 ottobre 2021
 
-Nel sito **Italia Domani**, il sito ufficiale dedicato al **Piano Nazionale Ripresa e Resilienza** (PNRR), nella sezione [Documenti](https://italiadomani.gov.it/it/documenti-pnrr.html), sono presenti dei file classificati come **open-data** (è uno dei filtri disponibili).<br>
+Nel sito **Italia Domani**, il sito ufficiale dedicato al **Piano Nazionale Ripresa e Resilienza** (PNRR), nella sezione [Documenti](https://italiadomani.gov.it/it/documenti-pnrr.html), sono disponibili dei file classificati come **open-data** (è uno dei filtri disponibili).<br>
 Purtroppo sono presenti alcune **criticità** che li **rendono** **poco** **utilizzabili**.
 
 Riteniamo inoltre che la stessa attenzione che si è messa nella predisposizione e redazione del piano - per l’approvazione da parte dell'UE - debba essere messa anche nella pubblicazione dei dati in questo sito.<br>
