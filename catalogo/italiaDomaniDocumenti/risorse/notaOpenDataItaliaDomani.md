@@ -50,12 +50,12 @@ Sarebbe utile approntarlo, per **consentire** l'**interazione** con **cittadini*
 I **file open-data** al momento sono tutti **in formato CSV**. Analizzandoli, emergono tanti elementi che fanno pensare che per produrli ci sia limitati ad aprirli nel loro formato nativo - probabilmente dei fogli elettronici - e **ci sia limitati a fare un salva con nome**, **senza porre alcuna cura** nel produrre degli *output* con le **caratteristiche di base dei dati aperti**.
 
 A seguire delle note di dettaglio, che faranno riferimento alla risorsa denominata **`Traguardi, obiettivi e scadenze per il monitoraggio e l'attuazione degli interventi del PNRR`**.<br>
-È associato a un file che è stato aggiornato una volta. Queste le versioni, tutte ancora disponibili sul sito (visibile soltanto l'ultima):
+È associato a un file che è stato aggiornato già due volte. Queste le versioni, tutte ancora disponibili sul sito (visibile soltanto l'ultima):
 
-- [`20211007_T1_UENaz_codificato_ITA.csv`](https://italiadomani.gov.it/content/dam/sogei-ng/documenti/20211007_T1_UENaz_codificato_ITA.csv), che è la **corrente**, pubblicata il 14 ottobre 2021;
+- [`20211007_T1_UENaz_codificato_ITA.csv`](https://italiadomani.gov.it/content/dam/sogei-ng/documenti/20211007_T1_UENaz_codificato_ITA.csv), che è la **corrente**, del 14 ottobre 2021. Di questo sono uscite due versioni ([qui le differenze](https://github.com/ondata/datiBeneComuneMonitoraggio/commit/9145941370d1d7d90b0270e4a9c36b284398f78c#diff-33e5c15f6534df6982d878d3d11d36f1be9ab672b1c9c9e3517184d021805c57));
 - [`20210927_T1_UENaz_codificato_ITA.csv`](https://italiadomani.gov.it/content/dam/sogei-ng/documenti/20210927_T1_UENaz_codificato_ITA.csv).
 
-Questo aggiornamento risolve alcune delle note sottostanti. Anche quelle risolte sono lasciate visibili, ma marcate con un taglio centrale - ~~come questo~~ - per dare conto del fatto di essere superate.
+Questi aggiornamenti risolvono alcune delle note sottostanti, scritte il 3 ottobre 2021. Anche quelle risolte sono lasciate visibili, ma marcate con un taglio centrale - ~~come questo~~ - per dare conto del fatto di essere superate.
 
 ### Righe vuote
 
