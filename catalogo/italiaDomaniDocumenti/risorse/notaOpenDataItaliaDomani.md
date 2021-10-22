@@ -1,4 +1,4 @@
-- [Note sugli open-data pubblicati su Italia Domani al 3 ottobre 2021](#note-sugli-open-data-pubblicati-su-italia-domani-al-3-ottobre-2021)
+- [Note sugli open-data pubblicati su Italia Domani](#note-sugli-open-data-pubblicati-su-italia-domani)
   - [Non sono dati aperti, perché la licenza non consente di farne uso](#non-sono-dati-aperti-perché-la-licenza-non-consente-di-farne-uso)
   - [Non c'è una sezione di "contatto"](#non-cè-una-sezione-di-contatto)
   - [Pochissima cura nella pubblicazione dei dati](#pochissima-cura-nella-pubblicazione-dei-dati)
@@ -19,7 +19,7 @@
   - [2021-10-20](#2021-10-20)
   - [2021-10-03](#2021-10-03)
 
-# Note sugli open-data pubblicati su Italia Domani al 3 ottobre 2021
+# Note sugli open-data pubblicati su Italia Domani
 
 Nel sito **Italia Domani**, il sito ufficiale dedicato al **Piano Nazionale Ripresa e Resilienza** (PNRR), nella sezione [Documenti](https://italiadomani.gov.it/it/documenti-pnrr.html), sono disponibili dei file classificati come **open-data** (è uno dei filtri disponibili).<br>
 Sono presenti alcune **criticità** che li **rendono** **poco** **utilizzabili**.
