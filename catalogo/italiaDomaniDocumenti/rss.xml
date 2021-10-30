@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#moduli | Modulo per comunicazione di Bandi e Avvisi da parte di Amministrazioni Titolari</title>
+      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/Bandi_PNRR-controllo_dati-1029.docx</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#open-data | Quadro PNRR e Piano Complementare (aggiornato al 30.09.21)</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/Quadro%20PNRR-Piano%20Complementare_aggiornato%20al%2030.09.2021.csv</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 GMT</pubDate>
