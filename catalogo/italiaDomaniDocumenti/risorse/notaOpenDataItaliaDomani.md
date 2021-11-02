@@ -13,6 +13,7 @@
     - [Assenza controllo presenza di spazi bianchi ridondanti](#assenza-controllo-presenza-di-spazi-bianchi-ridondanti)
     - [Uniformare rappresentazione del valore Not Available](#uniformare-rappresentazione-del-valore-not-available)
     - [Formato dati non descritto](#formato-dati-non-descritto)
+    - [Mancanza di URL permanenti](#mancanza-di-url-permanenti)
     - [Assenza di un file/servizio di "catalogo"](#assenza-di-un-fileservizio-di-catalogo)
 - [Grazie](#grazie)
 - [Log](#log)
@@ -165,6 +166,12 @@ Qui e in altre colonne sarebbe necessario uniformare la modalità per rappresent
 ### Formato dati non descritto
 
 Andrebbe associato a ogni file `CSV` un ulteriore file che descriva lo schema dati. Per ogni campo, la descrizione, il formato (utile per i campi con date e numerici). Un esempio è [quanto fatto dalla Protezione Civile per i dati COVID-19](https://github.com/pcm-dpc/COVID-19/blob/master/dati-andamento-covid19-italia.md#dati-per-regione).
+
+### Mancanza di URL permanenti
+
+La risorsa `Traguardi, obiettivi e scadenze per il monitoraggio e l'attuazione degli interventi del PNRR` ha ad esempio già cambiato due volte l’URL.
+
+Dovrebbe essere mantenuto permanente; se possibile sarebbe ottimale poter accedere anche alle eventuali versioni prodotte nel tempo.
 
 ### Assenza di un file/servizio di "catalogo"
 
