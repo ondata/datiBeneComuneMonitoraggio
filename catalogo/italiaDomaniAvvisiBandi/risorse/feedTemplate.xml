@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" version="2.0">
+  <channel>
+  <creativeCommons:license>http://creativecommons.org/licenses/by/3.0/</creativeCommons:license>
+  </channel>
+</rss>
