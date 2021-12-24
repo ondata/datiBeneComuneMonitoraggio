@@ -2,10 +2,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" version="2.0">
   <channel>
     <creativeCommons:license>http://creativecommons.org/licenses/by/3.0/</creativeCommons:license>
-    <title>titolo</title>
-    <description>descrizione</description>
-    <link>link</link>
-    <atom:link rel="self" href="link" type="application/rss+xml"/>
+    <title>feed RSS per bandi e avvisi pubblicati su italiaDomani PNRR | un progetto di onData per datiBeneComune</title>
+    <description>Un feed creato per seguire la pagina con i bandi e gli avvisi pubblicati su italiaDomani, il sito del PNRR</description>
+    <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniAvvisiBandi/output/feed.xml</link>
+    <atom:link rel="self" href="https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniAvvisiBandi/output/feed.xml" type="application/rss+xml"/>
     <item>
       <title>AVVISO M2C.1.1 I 1.2 Linea d’intervento D “Infrastrutturazione della raccolta delle frazioni di tessili pre-consumo e post consumo, ammodernamento dell’impiantistica e realizzazione di nuovi impianti di riciclo delle frazioni tessili in ottica sistemica cd. “Textile Hubs”</title>
       <link>https://www.mite.gov.it/sites/default/files/archivio/bandi/ECI/TESTO_COORDINATO_AVVISO_M2C1_1I1.2-LINEA_D.pdf</link>
@@ -97,6 +97,12 @@
       <guid>https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d2c37fbda8704f169c0b006f698f100e</guid>
     </item>
     <item>
+      <title>Avviso per la ricerca di Esperti Amministrativi</title>
+      <link>https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=91b0b94e990544e091f34e1a3353aa99</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=91b0b94e990544e091f34e1a3353aa99</guid>
+    </item>
+    <item>
       <title>Chimici o Fisici</title>
       <link>https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c86e6b49138a4dc79ed115a4b05999a3</link>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
@@ -121,16 +127,16 @@
       <guid>https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fac7ace320e04776ae9b93065f5223a7</guid>
     </item>
     <item>
+      <title>Avviso per la ricerca di Esperti nella gestione e nel monitoraggio di progetti complessi</title>
+      <link>https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1ff349dcef0f4f35a72115a61098a034</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1ff349dcef0f4f35a72115a61098a034</guid>
+    </item>
+    <item>
       <title>Esperti in contabilità pubblica e in rendicontazione dei fondi europei</title>
       <link>https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d2d1350e79c64ba780f48d31a87bc309</link>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d2d1350e79c64ba780f48d31a87bc309</guid>
-    </item>
-    <item>
-      <title>Avviso per la ricerca di Esperti Amministrativi</title>
-      <link>https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=91b0b94e990544e091f34e1a3353aa99</link>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=91b0b94e990544e091f34e1a3353aa99</guid>
     </item>
     <item>
       <title>Esperti Rinnovabili</title>
@@ -173,12 +179,6 @@
       <link>https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6a81cb5abe144a2bbe2c04ac0ce6af14</link>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6a81cb5abe144a2bbe2c04ac0ce6af14</guid>
-    </item>
-    <item>
-      <title>Avviso per la ricerca di Esperti nella gestione e nel monitoraggio di progetti complessi</title>
-      <link>https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1ff349dcef0f4f35a72115a61098a034</link>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=1ff349dcef0f4f35a72115a61098a034</guid>
     </item>
     <item>
       <title>Esperti Tecnici in appalti</title>
