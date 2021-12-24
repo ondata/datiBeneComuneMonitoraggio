@@ -22,6 +22,7 @@ jobs:
         cp bin/scrape ~/bin
         cd ~/bin
         chmod +x scrape
+        sudo pip install yq
     - name: scarica i dati
       run: |-
         export PATH=$PATH:~/bin
