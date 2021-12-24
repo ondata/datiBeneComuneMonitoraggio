@@ -23,6 +23,7 @@ jobs:
         cd ~/bin
         chmod +x scrape
         sudo pip install yq
+        sudo apt-get install xmlstarlet
     - name: scarica i dati
       run: |-
         export PATH=$PATH:~/bin
