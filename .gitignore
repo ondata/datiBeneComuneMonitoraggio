@@ -4,3 +4,4 @@ rawdata/
 catalogo/monitoraggioSettimanale/script/old_monitoraggioSettimanale.sh
 .config
 catalogo/italiaDomaniDocumenti/script/rawdata/*
+!catalogo/italiaDomaniDocumenti/output/open-data/rawdata

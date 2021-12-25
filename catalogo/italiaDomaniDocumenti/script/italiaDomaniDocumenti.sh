@@ -28,18 +28,18 @@ fi
 
 scrape <"$folder"/rawdata/tmp.html -be "//div[@class='banner-documents']" | xq -c '.html.body.div[]|{type:.span[0]."#text",author:.span[1]."#text"}' | mlr --json cat -n >"$folder"/rawdata/tmpTypeAuthor.json
 
-<"$folder"/rawdata/tmp.html scrape -be "//div[@data-cmp-hook-search='wrapper']" | xq -c '.html.body.div[]|{
+scrape <"$folder"/rawdata/tmp.html -be "//div[@data-cmp-hook-search='wrapper']" | xq -c '.html.body.div[]|{
       date:.div["@data-date"],
       title:.div.div[0].h4.button.span,
       path:.div.div[1].div.div[0].a["@href"]
-      }' > "$folder"/rawdata/tmp_data.json
+      }' >"$folder"/rawdata/tmp_data.json
 
 mlr -I --json cat -n "$folder"/rawdata/tmp_data.json
 
 mlr --json join --ul -j n -f "$folder"/rawdata/tmp_data.json then unsparsify then put -S '$datetime = strftime(strptime($date, "%d/%m/%y"),"%Y-%m-%d");$URL="https://italiadomani.gov.it".$path' then sort -r datetime -f title then clean-whitespace then reorder -f date,type,author,title,path,datetime,URL "$folder"/rawdata/tmpTypeAuthor.json >"$folder"/../output/latest.json
 
 # estrai tag
-<"$folder"/rawdata/tmp.html scrape -be '//div[@class="banner-documents"]' | xq '.html.body.div[]' | mlr --json cat -n then unsparsify then cut -r -f '^(n|.*div.+text.*)$' then reshape -r "div" -o i,v then filter -x -S '$v==""' then cut -x -f i then nest --implode --values --across-records -f v then rename v,tag >"$folder"/rawdata/tmpTag.json
+scrape <"$folder"/rawdata/tmp.html -be '//div[@class="banner-documents"]' | xq '.html.body.div[]' | mlr --json cat -n then unsparsify then cut -r -f '^(n|.*div.+text.*)$' then reshape -r "div" -o i,v then filter -x -S '$v==""' then cut -x -f i then nest --implode --values --across-records -f v then rename v,tag >"$folder"/rawdata/tmpTag.json
 
 mlr --json join --ul -j n -f "$folder"/../output/latest.json then unsparsify then cut -x -f n "$folder"/rawdata/tmpTag.json >"$folder"/rawdata/tmp_data.json
 
@@ -65,9 +65,16 @@ mlr --csv put -S '$pubDate = strftime(strptime($datetime, "%Y-%m-%d"),"%Y-%m-%dT
 ogr2ogr -f geoRSS -dsco TITLE="$title" -dsco LINK="$selflinkraw" -dsco DESCRIPTION="$description" "$folder"/../rss.xml "$folder"/../output/rss.csv -oo AUTODETECT_TYPE=YES
 
 # open-data
-#mkdir -p "$folder"/../output/open-data/rawdata
-#cd "$folder"/../output/open-data/rawdata
-#mlr --c2n filter -S '$type=="open-data"' then cut -f URL "$folder"/../output/latest.csv | xargs -n 1 -P 8 wget -q
+mkdir -p "$folder"/../output/open-data/rawdata
+cd "$folder"/../output/open-data/rawdata
+mlr --c2n filter -S 'tolower($tag)=~"open"' then cut -f URL "$folder"/../output/latest.csv | while read line; do
+  # scarica dati con wget e se il file esiste già rinominalo con suffisso numerico
+  wget --backups=1 $line
+done
+
+# cancella file di cui wget ha creato copia e che terminano per numero
+find "$folder"/../output/open-data/rawdata -name '*.[1-9]' -delete
+
 #
 #cd "$folder"
 #
@@ -78,5 +85,3 @@ ogr2ogr -f geoRSS -dsco TITLE="$title" -dsco LINK="$selflinkraw" -dsco DESCRIPTI
 #  mlr -I --csv --ifs ";" -N remove-empty-columns then skip-trivial-records "$folder"/../output/open-data/"$nome"
 #  mlr -I --csv -N put -S 'for (k in $*) {$[k] = gsub($[k], "^ +", "")};for (k in $*) {$[k] = gsub($[k], " +$", "")};for (k in $*) {$[k] = gsub($[k], "  +", " ")}' "$folder"/../output/open-data/"$nome"
 #done
-
-
