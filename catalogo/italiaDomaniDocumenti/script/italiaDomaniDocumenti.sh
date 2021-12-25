@@ -36,14 +36,21 @@ scrape <"$folder"/rawdata/tmp.html -be "//div[@class='banner-documents']" | xq -
 
 mlr -I --json cat -n "$folder"/rawdata/tmp_data.json
 
-mlr --json join --ul -j n -f "$folder"/rawdata/tmp_data.json then unsparsify then cut -x -f n then put -S '$datetime = strftime(strptime($date, "%d/%m/%y"),"%Y-%m-%d");$URL="https://italiadomani.gov.it".$path' then sort -r datetime then clean-whitespace then reorder -f date,type,author,title,path,datetime,URL "$folder"/rawdata/tmpTypeAuthor.json >"$folder"/../output/latest.json
+mlr --json join --ul -j n -f "$folder"/rawdata/tmp_data.json then unsparsify then put -S '$datetime = strftime(strptime($date, "%d/%m/%y"),"%Y-%m-%d");$URL="https://italiadomani.gov.it".$path' then sort -r datetime -f title then clean-whitespace then reorder -f date,type,author,title,path,datetime,URL "$folder"/rawdata/tmpTypeAuthor.json >"$folder"/../output/latest.json
+
+# estrai tag
+<"$folder"/rawdata/tmp.html scrape -be '//div[@class="banner-documents"]' | xq '.html.body.div[]' | mlr --json cat -n then unsparsify then cut -r -f '^(n|.*div.+text.*)$' then reshape -r "div" -o i,v then filter -x -S '$v==""' then cut -x -f i then nest --implode --values --across-records -f v then rename v,tag >"$folder"/rawdata/tmpTag.json
+
+mlr --json join --ul -j n -f "$folder"/../output/latest.json then unsparsify then cut -x -f n "$folder"/rawdata/tmpTag.json >"$folder"/rawdata/tmp_data.json
+
+mv "$folder"/rawdata/tmp_data.json "$folder"/../output/latest.json
 
 mlr --j2c cat "$folder"/../output/latest.json >"$folder"/../output/latest.csv
 
 if [ ! -f "$folder"/../output/archive.csv ]; then
   cp "$folder"/../output/latest.csv "$folder"/../output/archive.csv
 else
-  mlr --csv uniq -a then sort -r datetime "$folder"/../output/latest.csv "$folder"/../output/archive.csv >"$folder"/rawdata/tmp.csv
+  mlr --csv uniq -a then sort -r datetime -f title then unsparsify "$folder"/../output/latest.csv "$folder"/../output/archive.csv >"$folder"/rawdata/tmp.csv
   mv "$folder"/rawdata/tmp.csv "$folder"/../output/archive.csv
 fi
 
