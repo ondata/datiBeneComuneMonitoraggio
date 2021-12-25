@@ -5,127 +5,127 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
-      <title>#leggi-decreti | DPCM su modalità, tempistiche e strumenti per la rilevazione dei dati – 15 settembre 2021</title>
+      <title>#Altro | Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza</title>
+      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/Relazione%20al%20Parlamento%20sullo%20stato%20di%20attuazione%20del%20Piano%20Nazionale%20di%20Ripresa%20e%20Resilienza.pdf</link>
+      <pubDate>Thu, 23 Dec 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#Decreti e Regolamenti | DPCM su modalità, tempistiche e strumenti per la rilevazione dei dati – 15 settembre 2021</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/DPCM-15%20sett%202021%20Rilevazione%20dei%20Dati%20di%20Attuazione%20Finanziaria%20Fisica%20e%20Procedurale%20per%20singolo%20progetto%20del%20PNRR.pdf</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#atti | Le slide dell'iniziativa 'I Comuni e le Città nel Pnrr: le risorse e le sfide’</title>
-      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/COMUNI%20E%20LE%20CITTÀ%20NEL%20PNRR.pdf</link>
+      <title>#Altro | Le slide dell'iniziativa 'I Comuni e le Città nel Pnrr: le risorse e le sfide’</title>
+      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/COMUNI%20E%20LE%20CITTÀ%20NEL%20PNRR_def%20(2).pptx</link>
       <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#moduli | Modulo per comunicazione di Bandi e Avvisi da parte di Amministrazioni Titolari</title>
+      <title>#Circolari | Modulo per comunicazione di Bandi e Avvisi da parte di Amministrazioni Titolari</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/Bandi_PNRR-controllo_dati-1029.docx</link>
       <pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#leggi-decreti | Decreto del Ministro dell'economia e delle finanze 11 ottobre 2021 (pubblicato nella GU Serie Generale n. 279 del 23-11-2021)</title>
-      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/pdf.pdf</link>
-      <pubDate>Mon, 11 Oct 2021 00:00:00 GMT</pubDate>
+      <title>#Altro | Quadro PNRR (aggiornato al 30.09.21)</title>
+      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/Quadro%20PNRR_(aggiornato%20al%2030.09.2021).csv</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#open-data | Quadro PNRR e Piano Complementare (aggiornato al 30.09.21)</title>
+      <title>#Altro | Quadro PNRR e Piano Complementare (aggiornato al 30.09.21)</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/Quadro%20PNRR-Piano%20Complementare_aggiornato%20al%2030.09.2021.csv</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#open-data | Quadro PNRR (aggiornato al 30.09.21)</title>
-      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/Quadro%20PNRR_aggiornato%20al%2030.09.2021.csv</link>
-      <pubDate>Thu, 30 Sep 2021 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#atti | Il Piano Commerciale RFI – Edizione speciale PNRR</title>
+      <title>#Altro | Il Piano Commericale RFI - Edizione speciale PNRR</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/Piano_Commerciale_ed.PNRR_rev_13_agosto_2021.pdf</link>
       <pubDate>Fri, 13 Aug 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#leggi-decreti | Decreto del Ministro dell’Economia e delle Finanze - 6 agosto 2021</title>
+      <title>#Decreti e Regolamenti | Decreto del Ministro dell’Economia e delle Finanze - 6 agosto 2021</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/decreto%20MEF%206-8-21%20assegnazione%20fondi%20PNRR.pdf</link>
       <pubDate>Fri, 06 Aug 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#open-data | PNRR – Traguardi e Obiettivi per rata semestrale</title>
+      <title>#Altro | PNRR - Traguardi e Obiettivi per rata semestrale</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/PNRR-Traguardi%20e%20Obiettivi%20per%20rata%20semestrale.csv</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#open-data | Traguardi, obiettivi e scadenze per il monitoraggio e l'attuazione degli interventi del PNRR</title>
+      <title>#Altro | Traguardi, obiettivi e scadenze per il monitoraggio e l'attuazione degli interventi del PNRR</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/20211007_T1_UENaz_codificato_ITA.csv</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#leggi-decreti | LEGGE 1 luglio 2021, n. 101</title>
+      <title>#Decreti e Regolamenti | LEGGE 1 luglio 2021, n. 101</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/LEGGE_1_luglio_2021_n_101.pdf</link>
       <pubDate>Tue, 06 Jul 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#regolamenti | Il principio del Do Not Significant Harm (DNSH) nel Piano Nazionale di Ripresa e Resilienza</title>
-      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/DNSH_Nota%20divulgativa.docx</link>
+      <title>#Decreti e Regolamenti | Il principio del Do No Significant Harm (DNSH) nel Piano Nazionale di Ripresa e Resilienza</title>
+      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/DNSH_Nota%20divulgativa1.docx</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#guide-comunita-europea | Questions and answers: European Commission endorses Italy's €191.5 billion recovery and resilience plan (ENG version)</title>
-      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/questions_and_answers_european_commission_endorses_italy_s_191.5_billion_recovery_and_resilience_plan_en%20(1).pdf</link>
-      <pubDate>Tue, 22 Jun 2021 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#guide-comunita-europea | ALLEGATO della decisione di esecuzione del Consiglio relativa all'approvazione della valutazione del piano per la ripresa e la resilienza dell'Italia</title>
-      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/20210708_Annex_CID_IT%20Doc%2010160_21%20Prot.450.pdf</link>
-      <pubDate>Tue, 22 Jun 2021 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#guide-comunita-europea | DECISIONE DI ESECUZIONE DEL CONSIGLIO relativa all'approvazione della valutazione del piano per la ripresa e la resilienza dell'Italia</title>
-      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/20210706_CID_IT%20Doc%2010160_21%20Prot.451.pdf</link>
-      <pubDate>Tue, 22 Jun 2021 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#atti | Documento di lavoro dei servizi della commissione: Analisi del piano per la ripresa e la resilienza dell'Italia</title>
+      <title>#Altro | Documento di lavoro dei servizi della commissione: Analisi del piano per la ripresa e la resilienza dell'Italia</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/CELEX_52021SC0165_IT_TXT.pdf</link>
       <pubDate>Tue, 22 Jun 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#atti | Valutazione dei piani di ripresa e resilienza - Italia</title>
+      <title>#Altro | Questions and answers: European Commission endorses Italy's €191.5 billion recovery and resilience plan (ENG version)</title>
+      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/questions_and_answers_european_commission_endorses_italy_s_191.5_billion_recovery_and_resilience_plan_en%20(1).pdf</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#Decreti e Regolamenti | DECISIONE DI ESECUZIONE DEL CONSIGLIO relativa all'approvazione della valutazione del piano per la ripresa e la resilienza dell'Italia</title>
+      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/20210706_CID_IT%20Doc%2010160_21%20Prot.451.pdf</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#Decreti e Regolamenti | ALLEGATO della decisione di esecuzione del Consiglio relativa all'approvazione della valutazione del piano per la ripresa e la resilienza dell'Italia</title>
+      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/20210708_Annex_CID_IT%20Doc%2010160_21%20Prot.450.pdf</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#Altro | Valutazione dei piani di ripresa e resilienza - Italia</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/italy-recovery-resilience-factsheet_it.pdf</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#leggi-decreti | DECRETO-LEGGE 9 giugno 2021, n. 80</title>
+      <title>#Decreti e Regolamenti | DECRETO - LEGGE 9 giugno 2021, n. 80</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/DL09-06-2021_n80.pdf</link>
       <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#leggi-decreti | DECRETO-LEGGE 6 maggio 2021, n. 59</title>
+      <title>#Decreti e Regolamenti | DECRETO - LEGGE 6 maggio 2021, n. 59</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/DL06-05-2021_n59.pdf</link>
       <pubDate>Sun, 06 Jun 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#leggi-decreti | DECRETO-LEGGE 31 maggio 2021, n. 77</title>
+      <title>#Decreti e Regolamenti | DECRETO - LEGGE 31 maggio 2021, n. 77</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/DL31-05-2021_n77.pdf</link>
       <pubDate>Mon, 31 May 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#regolamenti | Proposta di REGOLAMENTO DEL PARLAMENTO EUROPEO E DEL CONSIGLIO che istituisce un dispositivo per la ripresa e la resilienza</title>
+      <title>#Decreti e Regolamenti | Proposta di REGOLAMENTO DEL PARLAMENTO EUROPEO E DEL CONSIGLIO che istituisce un dispositivo per la ripresa e la resilienza</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/COM_2020_408_final_IT.pdf</link>
       <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#atti | Piano Nazionale di Ripresa e Resilienza</title>
+      <title>#Altro | Piano Nazionale di Ripresa e Resilienza</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/PNRR%20Aggiornato.pdf</link>
       <pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#regolamenti | REGOLAMENTO DEL PARLAMENTO EUROPEO E DEL CONSIGLIO che istituisce il dispositivo per la ripresa e la resilienza</title>
+      <title>#Decreti e Regolamenti | REGOLAMENTO DEL PARLAMENTO EUROPEO E DEL CONSIGLIO che istituisce il dispositivo per la ripresa e la resilienza</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/CELEX_32021R0241_IT_TXT.pdf</link>
       <pubDate>Fri, 12 Feb 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#leggi-decreti | LEGGE 30 dicembre 2020, n. 178</title>
+      <title>#Decreti e Regolamenti | LEGGE 30 dicembre 2020, n. 178</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/L30-12-2021_n178.pdf</link>
       <pubDate>Wed, 30 Dec 2020 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#guide-comunita-europea | Raccomandazione del Consiglio sul programma nazionale di riforma 2020 dell'Italia e che formula un parere del Consiglio sul programma di stabilità 2020 dell'Italia</title>
+      <title>#Altro | Raccomandazione del Consiglio sul programma nazionale di riforma 2020 dell'Italia e che foruma un parere del Consiglio sul programma di stabilità 2020 dell'Italia</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/CELEX_52020DC0512_IT_TXT.pdf</link>
       <pubDate>Wed, 20 May 2020 00:00:00 GMT</pubDate>
     </item>
