@@ -1,0 +1,440 @@
+;;;;;;;;;;;
+Quadro PNRR e Piano Complementare aggiornato al 30 settembre 2021;;;;;;;;;;;
+;;;;;;;;;;;
+cod. Missione;cod. componente;Nome progetto tavola PNRR;Tipologia;Misura PNRR ufficiale (ITA);Amministrazione titolare;"Progetti in essere
+(Mln€)";"FSC
+(Mln€)";"Nuovi progetti
+(Mln€)";"Totale PNRR
+(Mln€)
+(a)";"Fondo complementare 
+(Mln€)
+(b)";"Totale 
+(Mln€)
+(a+b)"
+M1;C1;Digitalizzazione della Pubblica Amministrazione;Investimento;1.1: Infrastrutture digitali;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;900,00;900,00;0,00;900,00
+;;;Riforma;1.2: Supporto alla trasformazione delle PA locali;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;155,00;155,00;;
+;;;Sub-Riforma;1.2.1: Ufficio Trasformazione;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;155,00;155,00;0,00;155,00
+;;;Investimento;1.2: Abilitazione e facilitazione migrazione al Cloud;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;1000,00;1000,00;0,00;1000,00
+;;;Investimento;1.3: Dati e interoperabilità;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;646,00;646,00;;
+;;;Sub-Investimento;1.3.1: Piattaforma nazionale digitale dei dati;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;556,00;556,00;0,00;556,00
+;;;Sub-Investimento;1.3.2: Single Digital Gateway;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;90,00;90,00;0,00;90,00
+;;;Investimento;1.4: Servizi digitali e cittadinanza digitale;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;2013,00;2013,00;;
+;;;Sub-Investimento;1.4.1: Citizen experience - Miglioramento della qualità e dell'usabilità dei servizi pubblici digitali ;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;613,00;613,00;0,00;613,00
+;;;Sub-Investimento;1.4.2: Citizen inclusion - Miglioramento dell'accessibilità dei servizi pubblici digitali;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;80,00;80,00;0,00;80,00
+;;;Sub-Investimento;1.4.3: Servizi digitali e cittadinanza digitale - piattaforme e applicativi;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;750,00;750,00;0,00;750,00
+;;;Sub-Investimento;1.4.4: Estensione dell'utilizzo delle piattaforme nazionali di Identità Digitale (SPID, CIE) e dell'anagrafe nazionale digitale (ANPR) ;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;285,00;285,00;0,00;285,00
+;;;Sub-Investimento;1.4.5: Piattaforma Notifiche Digitali;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;245,00;245,00;0,00;245,00
+;;;Sub-Investimento;1.4.6: Mobility as a service for Italy;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;40,00;40,00;0,00;40,00
+;;;Investimento;Servizi digitali e cittadinanza digitale;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";;;;0,00;350,00;350,00
+;;;Investimento;Servizi digitali e competenze digitali;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";;;;0,00;250,00;250,00
+;;;Investimento;“Polis” - Case dei servizi di cittadinanza digitale;Ministero dello Sviluppo Economico (MiSE);;;;;800,00;800,00
+;;;Investimento;1.5: Cybersecurity ;PCM - Ministro per l’innovazione tecnologica e la transizione digitale (MITD) in collaborazione con PCM-DIS;0,00;0,00;623,00;623,00;0,00;623,00
+;;;Investimento;1.6: Digitalizzazione delle grandi amministrazioni centrali;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;611,20;611,20;;
+;;;Sub-Investimento;1.6.1: Digitalizzazione del Ministero dell'Interno;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;107,00;107,00;0,00;107,00
+;;;Sub-Investimento;1.6.2: Digitalizzazione del Ministero della Giustizia;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;133,20;133,20;0,00;133,20
+;;;Sub-Investimento;1.6.3: Digitalizzazione dell'Istituto Nazionale della Previdenza Sociale (INPS) e dell'Istituto Nazionale per l'Assicurazione contro gli Infortuni sul Lavoro (INAIL);"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;296,00;296,00;0,00;296,00
+;;;Sub-Investimento;1.6.4: Digitalizzazione del Ministero della Difesa;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;42,50;42,50;0,00;42,50
+;;;Sub-Investimento;1.6.5: Digitalizzazione Consiglio di Stato;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;7,50;7,50;0,00;7,50
+;;;Sub-Investimento;1.6.6: Digitalizzazione Guardia di Finanza;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;25,00;25,00;0,00;25,00
+;;;Investimento;1.7: Competenze digitali di base;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;195,00;195,00;;
+;;;Sub-Investimento;1.7.1: Servizio Civile Digitale;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;60,00;60,00;0,00;60,00
+;;;Sub-Investimento;1.7.2: Rete di servizi di facilitazione digitale;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;135,00;135,00;0,00;135,00
+;;Innovazione organizzativa della Giustizia ;Investimento;3.1: Investimento in capitale umano per rafforzare l’Ufficio del Processo e superare le disparità tra tribunali;Ministero della Giustizia (MG) e Consiglio di Stato (CdS);0,00;0,00;2268,05;2268,05;0,00;2268,05
+;;;Investimento;3.2: Rafforzamento dell'Ufficio del processo per la Giustizia amministrativa;Ministero della Giustizia (MG) e Consiglio di Stato (CdS);0,00;0,00;41,80;41,80;0,00;41,80
+;;Modernizzazione della PA;Investimento;2.1: Portale unico del reclutamento;PCM - Ministro per la Pubblica Amministrazione;0,00;0,00;20,50;20,50;;
+;;;Sub-Investimento;2.1.1: Creazione di una piattaforma unica di reclutamento;PCM - Ministro per la Pubblica Amministrazione;0,00;0,00;11,50;11,50;0,00;11,50
+;;;Sub-Investimento;2.1.2: Procedure per l'assunzione di profili tecnici;PCM - Ministro per la Pubblica Amministrazione;0,00;0,00;9,00;9,00;0,00;9,00
+;;;Investimento;2.2: Task Force digitalizzazione, monitoraggio e performance;PCM - Ministro per la Pubblica Amministrazione;0,00;0,00;734,20;734,20;;
+;;;Sub-Investimento;2.2.1: Assistenza tecnica a livello centrale e locale ;PCM - Ministro per la Pubblica Amministrazione;0,00;0,00;368,40;368,40;0,00;368,40
+;;;Sub-Investimento;2.2.2: Semplificazione e standardizzazione delle procedure;PCM - Ministro per la Pubblica Amministrazione;0,00;0,00;4,00;4,00;0,00;4,00
+;;;Sub-Investimento;2.2.3:  Digitalizzazione delle procedure (SUAP & SUE);PCM - Ministro per la Pubblica Amministrazione;0,00;0,00;324,40;324,40;0,00;324,40
+;;;Sub-Investimento;2.2.4: Monitoraggio e comunicazione delle azioni di semplificazione;PCM - Ministro per la Pubblica Amministrazione;0,00;0,00;21,00;21,00;0,00;21,00
+;;;Sub-Investimento;2.2.5: Amministrazione pubblica orientata ai risultati ;PCM - Ministro per la Pubblica Amministrazione;0,00;0,00;16,40;16,40;0,00;16,40
+;;;Riforma;2.3: Competenze e carriere;PCM - Ministro per la Pubblica Amministrazione;0,00;0,00;24,30;24,30;;
+;;;Sub-Riforma;2.3.1: Riforma del mercato del lavoro della PA;PCM - Ministro per la Pubblica Amministrazione;0,00;0,00;24,30;24,30;0,00;24,30
+;;;Investimento;2.3: Competenze: Competenze e capacità amministrativa ;PCM - Ministro per la Pubblica Amministrazione;0,00;0,00;489,90;489,90;;
+;;;Sub-Investimento;2.3.1: Investimenti in istruzione e formazione;PCM - Ministro per la Pubblica Amministrazione;0,00;0,00;139,00;139,00;0,00;139,00
+;;;Sub-Investimento;2.3.2: Sviluppo delle capacità nella pianificazione, organizzazione e formazione strategica della forza lavoro;PCM - Ministro per la Pubblica Amministrazione;0,00;0,00;350,90;350,90;0,00;350,90
+M1;C2;Banda Larga, 5G e monitoraggio satellitare;Investimento;2. Innovazione e tecnologia della Microelettronica;Ministero dell'Economia e delle Finanze (MEF);0,00;0,00;340,00;340,00;0,00;340,00
+;;;Investimento;3. Reti ultraveloci (banda ultra-larga e 5G);"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";1212,50;134,00;5360,00;6706,50;;
+;;;Sub-Investimento;3.1 Piano Italia a 1 Gbps;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";1058,50;134,00;2671,00;3863,50;0,00;3863,50
+;;;Sub-Investimento;3.2 Italia 5G - Corridoi 5G, Strade extraurbane (+ 5G Aree bianche);"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;2020,00;2020,00;0,00;2020,00
+;;;Sub-Investimento;3.3 Scuola Connessa;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;261,00;261,00;0,00;261,00
+;;;Sub-Investimento;3.4 Sanità Connessa;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";93,50;0,00;408,00;501,50;0,00;501,50
+;;;Sub-Investimento;3.5 Collegamento isole minori;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";60,50;0,00;0,00;60,50;0,00;60,50
+;;;Investimento;4. Tecnologie satellitari ed economia spaziale*;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;1487,00;1487,00;;
+;;;Sub-Investimento;4.1 SatCom;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;385,00;385,00;0,00;385,00
+;;;Sub-Investimento;4.2 Osservazione della Terra;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;417,00;417,00;0,00;417,00
+;;;Sub-Investimento;4.3 Space Factory;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;235,00;235,00;0,00;235,00
+;;;Sub-Investimento;4.4 In-Orbit Economy;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";0,00;0,00;450,00;450,00;0,00;450,00
+;;;Investimento;Tecnologie satellitari ed economia spaziale;"PCM - Ministro per 
+l’innovazione tecnologica e la 
+transizione digitale (MITD)";;;;0,00;800,00;800,00
+;;;Intervento;Digitalizzazione PMI e Fondo di Garanzia;;;;;0,00;0,00;0,00
+;;Politiche industriali di filiera e internazionalizzazione ;Investimento;5: Politiche industriali di filiera e internazionalizzazione;;0,00;0,00;1950,00;1950,00;;
+;;;Investimento;5.1 Rifinanziamento e ridefinizione del Fondo 394/81 gestito da SIMEST;"Ministero degli affari esteri e 
+della cooperazione 
+internazionale (MAECI)";0,00;0,00;1200,00;1200,00;0,00;1200,00
+;;;Investimento;5.2 Competitività e resilienza delle filiere produttive (CdS);Ministero dello Sviluppo Economico (MiSE);0,00;0,00;750,00;750,00;0,00;750,00
+;;;Investimento;6.1 Investimento Sistema della Proprietà Industriale;Ministero dello Sviluppo Economico (MiSE);0,00;0,00;30,00;30,00;0,00;30,00
+;;;Investimento;1: Transizione 4.0;Ministero dello Sviluppo Economico (MiSE);3094,90;0,00;10286,10;13381,00;;
+;;;Sub-Investimento;1.1.1 Credito d'imposta per i beni strumentali 4.0;Ministero dello Sviluppo Economico (MiSE);2551,00;0,00;6316,96;8867,96;0,00;8867,96
+;;;Sub-Investimento;1.1.2 Credito d'imposta (immateriali non 4.0);Ministero dello Sviluppo Economico (MiSE);543,90;0,00;1370,00;1913,90;0,00;1913,90
+;;;Sub-Investimento;1.1.3 Crediti d'imposta per beni immateriali tradizionali;Ministero dello Sviluppo Economico (MiSE);0,00;0,00;290,80;290,80;0,00;290,80
+;;;Sub-Investimento;1.1.4 Credito d'imposta per R&D&I;Ministero dello Sviluppo Economico (MiSE);0,00;0,00;2008,34;2008,34;0,00;2008,34
+;;;Sub-Investimento;1.1.5 Credito d’imposta formazione;Ministero dello Sviluppo Economico (MiSE);0,00;0,00;300,00;300,00;0,00;300,00
+;;Transizione 4.0;Investimento;Transizione 4.0;Ministero dello Sviluppo Economico (MiSE);0,00;0,00;0,00;0,00;5080,00;5080,00
+M1;C3;Industria culturale e creativa 4.0;Investimento;3.2: Sviluppo industria cinematografica (Progetto Cinecittà);Ministero della Cultura (MIC);0,00;0,00;300,00;300,00;0,00;300,00
+;;;Investimento;3.3: Capacity building per gli operatori della cultura per gestire la transizione digitale e verde;Ministero della Cultura (MIC);0,00;0,00;155,00;155,00;0,00;
+;;;Sub-Investimento;3.3.1 Interventi per migliorare l'ecosistema in cui operano i settori culturali e creativi, incoraggiando la cooperazione tra operatori cultuari e organizzazioni e facilitando upskill e reskill;Ministero della Cultura (MIC);;;10,00;10,00;;10,00
+;;;Sub-Investimento;3.3.2 Sostegno ai settori culturali e creativi per l'innovazione e la transizione digitale ;Ministero della Cultura (MIC);;;115,00;115,00;;115,00
+;;;Sub-Investimento;3.3.3 Promuovere la riduzione dell'impronta ecologica degli eventi culturali;Ministero della Cultura (MIC);;;10,00;10,00;;10,00
+;;;Sub-Investimento;3.3.4 Promuovere l'innovazione e l'eco-progettazione inclusiva;Ministero della Cultura (MIC);;;20,00;20,00;;20,00
+;;Patrimonio culturale-Next Generation;Investimento;1.1:Strategia digitale e piattaforme per il patrimonio culturale;Ministero della Cultura (MIC);0,00;0,00;500,00;500,00;0,00;
+;;;Sub-Investimento;1.1.1: Piano nazionale di digitalizzazione per i beni culturali;Ministero della Cultura (MIC);;;2,00;2,00;;2,00
+;;;Sub-Investimento;1.1.2: Sistema di certificazione dell'identità digitale per i beni culturali;Ministero della Cultura (MIC);;;16,00;16,00;;16,00
+;;;Sub-Investimento;1.1.3: Servizi di infrastruttura cloud;Ministero della Cultura (MIC);;;25,00;25,00;;25,00
+;;;Sub-Investimento;1.1.4: Infrastruttura digitale per il patrimonio culturale;Ministero della Cultura (MIC);;;73,00;73,00;;73,00
+;;;Sub-Investimento;1.1.5: Digitalizzazione ;Ministero della Cultura (MIC);;;200,00;200,00;;200,00
+;;;Sub-Investimento;1.1.6: Formazione e miglioramento delle competenze digitali;Ministero della Cultura (MIC);;;20,00;20,00;;20,00
+;;;Sub-Investimento;1.1.7: Supporto operativo;Ministero della Cultura (MIC);;;5,00;5,00;;5,00
+;;;Sub-Investimento;1.1.8: Polo di conservazione digitale;Ministero della Cultura (MIC);;;58,00;58,00;;58,00
+;;;Sub-Investimento;1.1.9: Portale dei procedimenti e dei servizi ai cittadini;Ministero della Cultura (MIC);;;10,00;10,00;;10,00
+;;;Sub-Investimento;1.1.10: Piattaforma di accesso integrata della Digital Library;Ministero della Cultura (MIC);;;36,00;36,00;;36,00
+;;;Sub-Investimento;1.1.11: Piattaforma di co-creazione e crowdsourcing ;Ministero della Cultura (MIC);;;10,00;10,00;;10,00
+;;;Sub-Investimento;1.1.12: Piattaforma di servizi digitali per sviluppatori e imprese culturali ;Ministero della Cultura (MIC);;;45,00;45,00;;45,00
+;;;Investimento;1.2: Rimozione delle barriere fisiche e cognitive in musei, biblioteche e archivi per consentire un più ampio accesso e partecipazione alla cultura;Ministero della Cultura (MIC);0,00;0,00;300,00;300,00;0,00;300,00
+;;;Investimento;1.3: Migliorare l'efficienza energetica di cinema,  teatri e  musei;Ministero della Cultura (MIC);0,00;0,00;300,00;300,00;0,00;300,00
+;;;Investimento;Piano di investimenti strategici sui siti del patrimonio culturale, edifici e aree naturali;Ministero della Cultura (MIC);;;;0,00;1455,24;1455,24
+;;Siti minori,  aree rurali  e periferie;Investimento;2.1: Attrattività dei borghi;Ministero della Cultura (MIC);0,00;1020,00;0,00;1020,00;0,00;1020,00
+;;;Investimento;2.2: Tutela e valorizzazione dell'architettura e del paesaggio rurale;Ministero della Cultura (MIC);0,00;0,00;600,00;600,00;0,00;600,00
+;;;Investimento;2.3: Programmi per valorizzare l'identità di luoghi: parchi e giardini storici ;Ministero della Cultura (MIC);0,00;0,00;300,00;300,00;0,00;300,00
+;;;Investimento;2.4: Sicurezza sismica nei luoghi di culto, restauro del patrimonio culturale del Fondo Edifici di Culto (FEC) e siti di ricovero per le opere d’arte (Recovery Art);Ministero della Cultura (MIC);0,00;0,00;800,00;800,00;0,00;800,00
+;;Turismo 4.0;Investimento;4.1 Hub del Turismo Digitale;Ministero del Turismo (MiTur);0,00;0,00;114,00;114,00;0,00;114,00
+;;;Investimento;4.2 Fondi integrati per la competitività delle imprese turistiche;Ministero del Turismo (MiTur);0,00;0,00;1786,00;1786,00;0,00;
+;;;Sub-Investimento;4.2.1 Miglioramento delle infrastrutture di ricettività attraverso lo strumento del Tax credit;Ministero del Turismo (MiTur);;;500,00;500,00;;500,00
+;;;Sub-Investimento;4.2.2 Digitalizzazione Agenzie e Tour Operator;Ministero del Turismo (MiTur);;;98,00;98,00;;98,00
+;;;Sub-Investimento;4.2.3 Sviluppo e resilienza delle imprese del settore turistico (Fondo dei Fondi BEI) ;Ministero del Turismo (MiTur);;;500,00;500,00;;500,00
+;;;Sub-Investimento;4.2.4 Sostegno alla nascita e al consolidamento delle pmi turismo (Sezione speciale “turismo” del Fondo di Garanzia per le PMI);Ministero del Turismo (MiTur);;;358,00;358,00;;358,00
+;;;Sub-Investimento;4.2.5 Fondo rotativo imprese (FRI )  per il sostegno alle imprese e gli investimenti di sviluppo;Ministero del Turismo (MiTur);;;180,00;180,00;;180,00
+;;;Sub-Investimento;4.2.6 Valorizzazione, competitività e tutela del patrimonio ricettivo attraverso la partecipazione del Min. Turismo nel Fondo Nazionale Turismo;Ministero del Turismo (MiTur);;;150,00;150,00;;150,00
+;;;Investimento;4.3 Caput Mundi. Next Generation EU per grandi eventi turistici;Ministero del Turismo (MiTur);0,00;0,00;500,00;500,00;0,00;
+;;;Sub-Investimento;4.3.1 Roman Cultural Heritage for EU-Next Generation;Ministero del Turismo (MiTur);;;170,00;170,00;;170,00
+;;;Sub-Investimento;4.3.2 I percorsi Giubilari 2025;Ministero del Turismo (MiTur);;;160,00;160,00;;160,00
+;;;Sub-Investimento;4.3.3 La città condivisa;Ministero del Turismo (MiTur);;;90,00;90,00;;90,00
+;;;Sub-Investimento;4.3.4 Mitingodiverde;Ministero del Turismo (MiTur);;;60,00;60,00;;60,00
+;;;Sub-Investimento;4.3.5 Roma 4.0;Ministero del Turismo (MiTur);;;10,00;10,00;;10,00
+;;;Sub-Investimento;4.3.6 Amanotesa;Ministero del Turismo (MiTur);;;10,00;10,00;;10,00
+M2;C1;Agricoltura sostenibile (include Ammodernamento immobili (e.g. sostituizione eterneti, efficienza e rinnovabili e macchinari agricoli));Investimento;2.1 Sviluppo logistica per i settori agroalimentare, pesca e acquacoltura, silvicoltura, floricoltura e vivaismo;Ministero delle politiche agricole, alimentari e forestali (MIPAAF);0,00;0,00;800,00;800,00;0,00;800,00
+;;;Investimento;2.2 Parco Agrisolare;Ministero delle politiche agricole, alimentari e forestali (MIPAAF);0,00;0,00;1500,00;1500,00;0,00;1500,00
+;;;Investimento;2.3 Innovazione e meccanizzazione nel settore agricolo ed alimentare;Ministero delle politiche agricole, alimentari e forestali (MIPAAF);0,00;0,00;500,00;500,00;0,00;500,00
+;;;Investimento;Contratti di filiera e distrettuali per i settori agroalimentare, pesca e acquacoltura, silvicoltura, floricoltura e vivaismo;Ministero delle politiche agricole, alimentari e forestali (MIPAAF);;;;0,00;1203,30;1203,30
+;;Economia circolare e valorizzazione del ciclo integrato dei rifiuti;Investimento;1.1 Realizzazione nuovi impianti di gestione rifiuti e ammodernamento di impianti esistenti;"Ministero della transizione 
+ecologica (MITE)";0,00;1000,00;500,00;1500,00;0,00;1500,00
+;;;Investimento;1.2 Progetti “faro” di economia circolare;"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;600,00;600,00;0,00;600,00
+;;Sviluppare progetti integrati;Investimento;3.1 Isole verdi;"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;200,00;200,00;0,00;200,00
+;;;Investimento;3.2 Green communities;PCM - Dipartimento per gli Affari Regionali e le Autonomie;0,00;0,00;135,00;135,00;0,00;135,00
+;;;Investimento;3.3 Cultura e consapevolezza su temi e sfide ambientali;"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;30,00;30,00;0,00;30,00
+M2;C2;Energia rinnovabile;Investimento;1.1 Sviluppo agro-voltaico;"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;1098,99;1098,99;0,00;1098,99
+;;;Investimento;1.2 Promozione rinnovabili per le comunità energetiche e l'auto-consumo;"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;2200,00;2200,00;0,00;2200,00
+;;;Investimento;1.3 Promozione impianti innovativi (incluso off-shore);"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;675,00;675,00;0,00;675,00
+;;;Investimento;1.4 Sviluppo bio-metano;"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;1923,40;1923,40;0,00;1923,40
+;;;Investimento;5.1: Rinnovabili e batterie;Ministero dello Sviluppo Economico (MiSE) ;0,00;0,00;1000,00;1000,00;;
+;;;Sub-Investimento;5.1.1 Tecnologia PV;Ministero dello Sviluppo Economico (MiSE) ;0,00;0,00;400,00;400,00;0,00;400,00
+;;;Sub-Investimento;5.1.2 Industria eolica;Ministero dello Sviluppo Economico (MiSE) ;0,00;0,00;100,00;100,00;0,00;100,00
+;;;Sub-Investimento;5.1.3 Settore Batterie;Ministero dello Sviluppo Economico (MiSE) ;0,00;0,00;500,00;500,00;0,00;500,00
+;;;Investimento;Energia rinnovabile;;;;;0,00;0,00;0,00
+;;Filiera della transizione;Investimento;5.2 Idrogeno;"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;450,00;450,00;0,00;450,00
+;;;Investimento;5.3: Bus elettrici (filiera industriale);"Ministero delle infrastrutture 
+e della mobilità sostenibili 
+(MIMS) in collaborazione con 
+MISE e in sinergia con MITE";50,00;0,00;250,00;300,00;0,00;300,00
+;;;Investimento;5.4: Supporto a start-up e venture capital attivi nella transizione ecologica;Ministero dello Sviluppo Economico (MiSE) ;0,00;0,00;250,00;250,00;0,00;250,00
+;;Investimenti nella filiera dell'idrogeno ;Investimento;3.1 Produzione in aree industriali dismesse ;"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;500,00;500,00;0,00;500,00
+;;;Investimento;3.2 Utilizzo in settori hard-to-abate;"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;2000,00;2000,00;0,00;2000,00
+;;;Investimento;3.3: Sperimentazione dell'idrogeno per il trasporto stradale;"Ministero delle infrastrutture 
+e della mobilità sostenibili 
+(MIMS) in collaborazione con 
+MITE";0,00;0,00;230,00;230,00;0,00;230,00
+;;;Investimento;3.4: Sperimentazione dell'idrogeno per il trasporto ferroviario;"Ministero delle infrastrutture 
+e della mobilità sostenibili 
+(MIMS) in collaborazione con 
+MITE";0,00;0,00;300,00;300,00;0,00;300,00
+;;;Investimento;3.5 Ricerca e sviluppo sull'idrogeno;"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;160,00;160,00;0,00;160,00
+;;Potenziamento e digitalizzazione delle infrastrutture di rete;Investimento;2.1 Rafforzamento smart grid;"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;3610,00;3610,00;0,00;3610,00
+;;;Investimento;2.2 Interventi su resilienza climatica reti;"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;500,00;500,00;0,00;500,00
+;;Trasporti locali sostenibili;Investimento;4.1: Rafforzamento mobilità ciclistica;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);200,00;0,00;400,00;600,00;;
+;;;Sub-Investimento;4.1: Rafforzamento mobilità ciclistica (Ciclovie turistiche);Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;0,00;400,00;400,00;0,00;400,00
+;;;Sub-Investimento;4.1: Rafforzamento mobilità ciclistica (Ciclovie urbane);Ministero delle infrastrutture e della mobilità sostenibili (MIMS);200,00;0,00;0,00;200,00;0,00;200,00
+;;;Investimento;4.2: Sviluppo trasporto rapido di massa;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);1400,00;1500,00;700,00;3600,00;0,00;3600,00
+;;;Investimento;4.3 Sviluppo infrastrutture di ricarica elettrica;"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;741,32;741,32;0,00;741,32
+;;;Investimento;4.4: Rinnovo flotte bus e treni verdi;;600,00;0,00;3039,00;3639,00;;
+;;;Sub-Investimento;4.4.1: Rinnovo flotte Bus;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);500,00;0,00;1915,00;2415,00;0,00;2415,00
+;;;Sub-Investimento;4.4.2: Rinnovo flotte treni;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);100,00;0,00;700,00;800,00;0,00;800,00
+;;;Sub-Investimento;4.4.3: Vigili del Fuoco;Ministero dell'Interno (MINT);0,00;0,00;424,00;424,00;0,00;424,00
+;;;Investimento;Rinnovo flotte, bus, treni e navi verdi - Bus;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);;;;0,00;600,00;600,00
+;;;Investimento;Rinnovo flotte, bus, treni e navi verdi - Navi;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);;;;0,00;800,00;800,00
+M2;C3;Efficientamento edifici pubblici;Investimento;1.1 Piano di sostituzione di edifici scolastici e di riqualificazione energetica;Ministero dell'Istruzione (MI);0,00;200,00;600,00;800,00;0,00;800,00
+;;;Investimento;1.2 Efficientamento degli edifici giudiziari;Ministero della Giustizia (MG) e Consiglio di Stato (CdS);0,00;0,00;411,74;411,74;0,00;411,74
+;;;Investimento;Sicuro, verde e sociale: riqualificazione edilizia residenziale pubblica;"Ministero delle infrastrutture 
+e della mobilità sostenibili 
+(MIMS) e Presidenza del 
+Consiglio dei ministri - Dipartimento Casa Italia";;;;0,00;2000,00;2000,00
+;;;Investimento;Efficientamento energetico edifici pubblici;;;;;0,00;0,00;0,00
+;;Efficientamento energetico e sismico edilizia residenziale privata e pubblica;Investimento;2.1 Ecobonus e Sismabonus fino al 110% per l'efficienza energetica e la sicurezza degli edifici;"Ministero della transizione 
+ecologica (MITE)";10255,00;0,00;3695,00;13950,00;0,00;13950,00
+;;;Investimento;Ecobonus e Sismabonus fino al 110% per l'efficienza energetica e la sicurezza degli edifici ;"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;0,00;0,00;4563,61;4563,61
+;;Sistemi di teleriscaldamento;Investimento;3.1 Sviluppo di sistemi di teleriscaldamento;"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;200,00;200,00;0,00;200,00
+M2;C4;Dissesto idrogeologico;Investimento;2.1  Misure per la gestione del rischio di alluvione e per la riduzione del rischio idrogeologico;;1687,10;0,00;800,00;2487,10;;
+;;;Sub-Investimento;2.1a Misure per la gestione del rischio di alluvione e per la riduzione del rischio idrogeologico;"Ministero della transizione 
+ecologica (MITE)";1287,10;0,00;0,00;1287,10;0,00;1287,10
+;;;Sub-Investimento;2.1.b Misure per la gestione del rischio di alluvione e per la riduzione del rischio idrogeologico;PCM - Dip. Protezione civile;400,00;0,00;800,00;1200,00;0,00;1200,00
+;;;Investimento;2.2 Interventi per la resilienza, la valorizzazione del territorio e l'efficienza energetica dei Comuni;Ministero dell'Interno (MINT);6000,00;0,00;0,00;6000,00;0,00;6000,00
+;;Gestione sostenibile della risorsa idrica;Investimento;4.1: Investimenti in infrastrutture idriche primarie per la sicurezza dell'approvvigionamento idrico;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);1100,00;0,00;900,00;2000,00;0,00;2000,00
+;;;Investimento;4.2: Riduzione delle perdite nelle reti di distribuzione dell'acqua, compresa la digitalizzazione e il monitoraggio delle reti;Ministero delle infrastrutture e della mobilità sostenibili (MIMS) con ARERA;0,00;0,00;900,00;900,00;0,00;900,00
+;;;Investimento;4.3: Investimenti nella resilienza dell'agro-sistema irriguo per un migliore gestione delle risorse idriche;Ministero delle politiche agricole, alimentari e forestali (MIPAAF);360,00;0,00;520,00;880,00;0,00;880,00
+;;;Investimento;4.4 Investimenti in fognatura e depurazione;"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;600,00;600,00;0,00;600,00
+;;Rafforzare la capacità previsionale degli effetti del cambiamento climatico;Investimento;1.1 Realizzazione di un sistema avanzato ed integrato di monitoraggio e previsione;"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;500,00;500,00;0,00;500,00
+;;Tutela del territorio;Investimento;3.1 Tutela e valorizzazione del verde urbano ed extraurbano;"Ministero della transizione 
+ecologica (MITE)";30,00;0,00;300,00;330,00;0,00;330,00
+;;;Investimento;3.2 Digitalizzazione dei parchi nazionali;"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;100,00;100,00;0,00;100,00
+;;;Investimento;3.3 Rinaturazione dell’area del Po;"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;357,00;357,00;0,00;357,00
+;;;Investimento;3.4 Bonifica dei siti orfani;"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;500,00;500,00;0,00;500,00
+;;;Investimento;3.5 Ripristino e tutela dei fondali e degli habitat marini;"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;400,00;400,00;0,00;400,00
+M3;C1;Opere ferroviare per la mobilità e la connessione veloce del Paese;Investimento;1.1 Collegamenti ferroviari ad Alta Velocità verso il Sud;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);2523,13;0,00;2116,87;4640,00;;
+;;;Sub-Investimento;1.1 Collegamenti ferroviari ad Alta Velocità con il Mezzogiorno per passeggeri e merci (Napoli - Bari);Ministero delle infrastrutture e della mobilità sostenibili (MIMS);1400,00;0,00;0,00;1400,00;0,00;1400,00
+;;;Sub-Investimento;1.1 Collegamenti ferroviari ad Alta Velocità con il Mezzogiorno per passeggeri e merci (Palermo-Catania);Ministero delle infrastrutture e della mobilità sostenibili (MIMS);1123,13;0,00;316,87;1440,00;0,00;1440,00
+;;;Sub-Investimento;1.1 Collegamenti ferroviari ad Alta Velocità con il Mezzogiorno per passeggeri e merci (Salerno-Reggio Calabria) ;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;0,00;1800,00;1800,00;0,00;1800,00
+;;;Investimento;1.2: Linee ad alta velocità nel Nord che collegano;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);6218,84;0,00;2351,30;8570,14;;
+;;;Sub-Investimento;1.2.1 Linee di collegamento ad Alta Velocità con l’Europa nel Nord (Brescia-Verona-Vicenza - Padova);Ministero delle infrastrutture e della mobilità sostenibili (MIMS);2248,70;0,00;1421,30;3670,00;0,00;3670,00
+;;;Sub-Investimento;1.2.2 Linee di collegamento ad Alta Velocità con l’Europa nel Nord (Liguria-Alpi);Ministero delle infrastrutture e della mobilità sostenibili (MIMS);3970,14;0,00;0,00;3970,14;0,00;3970,14
+;;;Sub-Investimento;1.2.3 Linee di collegamento ad Alta Velocità con l’Europa nel Nord (Verona-Brennero - opere di adduzione);Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;0,00;930,00;930,00;0,00;930,00
+;;;Investimento;1.3:  Connessioni diagonali;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);20,00;0,00;1560,17;1580,17;;
+;;;Sub-Investimento;1.3 Collegamenti diagonali (Orte-Falconara);Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;0,00;510,00;510,00;0,00;510,00
+;;;Sub-Investimento;1.3 Collegamenti diagonali (Roma-Pescara);Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;0,00;620,17;620,17;0,00;620,17
+;;;Sub-Investimento;1.3 Collegamenti diagonali (Taranto-Metaponto-Potenza-Battipaglia);Ministero delle infrastrutture e della mobilità sostenibili (MIMS);20,00;0,00;430,00;450,00;0,00;450,00
+;;;Investimento;1.4 Sviluppo del sistema europeo di gestione del trasporto ferroviario (ERTMS);Ministero delle infrastrutture e della mobilità sostenibili (MIMS);270,00;0,00;2700,00;2970,00;0,00;2970,00
+;;;Investimento;1.5 Rafforzamento dei nodi ferroviari metropolitani e dei collegamenti nazionali chiave;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);2172,24;0,00;798,18;2970,42;0,00;2970,42
+;;;Investimento;1.6 Potenziamento delle linee regionali;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;166,00;770,00;936,00;0,00;936,00
+;;;Investimento;1.7 Potenziamento, elettrificazione e aumento della resilienza delle ferrovie nel Sud;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;2400,00;0,00;2400,00;0,00;2400,00
+;;;Investimento;1.8 Miglioramento delle stazioni ferroviarie nel Sud;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;700,00;0,00;700,00;0,00;700,00
+;;;Investimento;Rafforzamento delle linee regionali - linee regionali gestite da Regioni e Municipalità;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);;;;0,00;1550,00;1550,00
+;;;Investimento;Rinnovo del materiale rotabile;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);;;;0,00;200,00;200,00
+;;Messa in sicurezza e monitoraggio digitale di strade, viadotti e ponti;Investimento;Strade sicure - Implementazione di un sistema di monitoraggio dinamico per il controllo da remoto di ponti, viadotti e tunne (ANAS);Ministero delle infrastrutture e della mobilità sostenibili (MIMS);;;;0,00;450,00;450,00
+;;;Investimento;Strade sicure - Implementazione di un sistema di monitoraggio dinamico per il controllo da remoto di ponti, viadotti e tunnel (A24-A25) ;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);;;;0,00;1000,00;1000,00
+M3;C2;Digitalizzazione aeroporti e sistemi logistici ;Investimento;2.1 Digitalizzazione della catena logistica;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;0,00;250,00;250,00;;
+;;;Sub-Investimento;2.1.1: LogIN Center;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;0,00;30,00;30,00;0,00;30,00
+;;;Sub-Investimento;2.1.2: Rete di porti e interporti;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;0,00;45,00;45,00;0,00;45,00
+;;;Sub-Investimento;2.1.3: LogIN Business;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;0,00;175,00;175,00;0,00;175,00
+;;;Investimento;2.2: Innovazione digitale dei sistemi aeroportuali ;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;0,00;110,00;110,00;;
+;;;Sub-Investimento;2.2.1: Digitalizzazione della manutenzione e gestione dei dati aeronautici;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;0,00;30,00;30,00;0,00;30,00
+;;;Sub-Investimento;2.2.2: Ottimizzazione delle procedure di avvicinamento APT;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;0,00;80,00;80,00;0,00;80,00
+;;Progetto integrato Porti d'Italia;Investimento;1.1 Interventi per la sostenibilità ambientale dei porti (Green Ports);"Ministero della transizione 
+ecologica (MITE)";0,00;0,00;270,00;270,00;;270,00
+;;;Investimento;Aumento selettivo della capacità portuale;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;0,00;0,00;0,00;390,00;390,00
+;;;Investimento;Efficientamento energetico;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;0,00;0,00;0,00;50,00;50,00
+;;;Investimento;Elettrificazione delle banchine (Cold ironing);Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;0,00;0,00;0,00;700,00;700,00
+;;;Investimento;Sviluppo dell’accessibilità marittima e della resilienza delle infrastrutture portuali ai cambiamenti climatici;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;0,00;0,00;0,00;1470,00;1470,00
+;;;Investimento;Ultimo/Penultimo Miglio Ferroviario/Stradale;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;0,00;0,00;0,00;250,00;250,00
+M4;C1;Ampliamento delle competenze e potenziamento delle infrastrutture;Investimento;3.1 Nuove competenze e nuovi linguaggi;Ministero Istruzione (MI) in cooperazione con il Dipartimento per le Pari Opportunità della Presidenza del Consiglio dei Ministri;0,00;0,00;1100,00;1100,00;0,00;1100,00
+;;;Investimento;3.2 Scuola 4.0: scuole innovative,  nuove aule didattiche e laboratori ;Ministero dell'Istruzione (MI);344,20;500,00;1255,80;2100,00;0,00;2100,00
+;;;Investimento;3.3 Piano di messa in sicurezza e riqualificazione dell'edilizia scolastica;Ministero dell'Istruzione (MI);3400,00;0,00;500,00;3900,00;0,00;3900,00
+;;;Investimento;3.4 Didattica e competenze universitarie avanzate;Ministero dell'Università e della Ricerca (MUR);0,00;0,00;500,00;500,00;0,00;500,00
+;;Miglioramento dei processi di reclutamento e di formazione degli insegnanti;Investimento;2.1: Didattica digitale integrata e formazione sulla transizione digitale del personale scolastico;Ministero dell'Istruzione (MI);165,77;0,00;634,23;800,00;0,00;800,00
+;;;Riforma;2.2 Scuola di Alta Formazione e formazione obbligatoria per dirigenti scolastici, docenti e personale tecnico-amministrativo;Ministero dell'Istruzione (MI);0,00;0,00;34,00;34,00;0,00;34,00
+;;Miglioramento qualitativo e ampliamento quantitativo dei servizi di istruzione e formazione ;Investimento;1.1 Piano asili nido e scuole dell'infanzia e servizi di educazione e cura per la prima infanzia;Ministero Istruzione (MI), in partnership con Dipartimento della Famiglia della Presidenza del Consiglio ;1600,00;1000,00;2000,00;4600,00;0,00;4600,00
+;;;Investimento;1.2 Piano per l'estensione del tempo pieno e mense;Ministero dell'Istruzione (MI);0,00;600,00;360,00;960,00;0,00;960,00
+;;;Investimento;1.3 Potenziamento infrastrutture per lo sport a scuola;Ministero dell'Istruzione (MI);0,00;0,00;300,00;300,00;0,00;300,00
+;;;Investimento;1.4 Intervento straordinario finalizzato alla riduzione dei divari territoriali nei cicli I e II della scuola secondaria di secondo grado;Ministero dell'Istruzione (MI);0,00;0,00;1500,00;1500,00;0,00;1500,00
+;;;Investimento;1.5 Sviluppo del sistema di formazione professionale terziaria (ITS);Ministero dell'Istruzione (MI);0,00;0,00;1500,00;1500,00;0,00;1500,00
+;;;Investimento;1.6 Orientamento attivo nella transizione scuola - università;Ministero dell'Università e della Ricerca (MUR);0,00;0,00;250,00;250,00;0,00;250,00
+;;;Riforma;1.7 Alloggi per gli studenti e riforma della legislazione sugli alloggi per gli studenti;Ministero dell'Università e della Ricerca (MUR);0,00;96,00;864,00;960,00;0,00;960,00
+;;;Investimento;1.7 Borse di studio per l'accesso all'università;Ministero dell'Università e della Ricerca (MUR);0,00;0,00;500,00;500,00;0,00;500,00
+;;Riforma e potenziamento dei dottorati;Investimento;4.1 Estensione del numero di dottorati di ricerca e dottorati innovativi per la Pubblica Amministrazione e il patrimonio culturale;Ministero dell'Università e della Ricerca (MUR);0,00;0,00;432,00;432,00;0,00;432,00
+M4;C2;Potenziamento delle condizioni di supporto alla ricerca e all’innovazione;Investimento;3.1 Fondo per la realizzazione di un sistema integrato di infrastrutture di ricerca e innovazione;Ministero dell'Università e della Ricerca (MUR);580,00;1000,00;0,00;1580,00;0,00;1580,00
+;;;Investimento;3.2 Finanziamento di start-up;Ministero dello Sviluppo Economico (MiSE);0,00;0,00;300,00;300,00;0,00;300,00
+;;;Investimento;3.3 Introduzione di dottorati innovativi che rispondono ai fabbisogni di innovazione delle imprese e promuovono l'assunzione dei ricercatori da parte delle imprese;Ministero dell'Università e della Ricerca (MUR);0,00;0,00;600,00;600,00;0,00;600,00
+;;Rafforzamento della ricerca e diffusione di modelli innovativi per la ricerca di base e applicata condotta in sinergia tra università e imprese;Investimento;1.1 Fondo per il Programma Nazionale della Ricerca (PNR) e Progetti di Ricerca di Rilevante Interesse Nazionale (PRIN);Ministero dell'Università e della Ricerca (MUR);800,00;0,00;1000,00;1800,00;0,00;1800,00
+;;;Investimento;1.2 Finanziamento di progetti presentati da giovani ricercatori;Ministero dell'Università e della Ricerca (MUR);0,00;0,00;600,00;600,00;0,00;600,00
+;;;Investimento;1.3 Partenariati estesi a Università, centri di ricerca, imprese e finanziamento progetti di ricerca;Ministero dell'Università e della Ricerca (MUR);0,00;0,00;1610,00;1610,00;0,00;1610,00
+;;;Investimento;"1.4 Potenziamento strutture di ricerca e creazione di ""campioni nazionali"" di R&S su alcune Key enabling technologies";Ministero dell'Università e della Ricerca (MUR) in collaborazione con Ministero dello Sviluppo Economico (MiSE);0,00;0,00;1600,00;1600,00;0,00;1600,00
+;;;Investimento;"1.5 Creazione e rafforzamento di ""ecosistemi dell'innovazione per la sostenibilità"", costruendo ""leader territoriali di R&S"" ";Ministero dell'Università e della Ricerca (MUR);0,00;0,00;1300,00;1300,00;0,00;1300,00
+;;;Investimento;Accordi per l'Innovazione;Ministero dello Sviluppo Economico (MiSE);0,00;0,00;0,00;0,00;1000,00;1000,00
+;;;Investimento;Dottorati e ricercatori green e innovazione (REACT EU);;;;;0,00;0,00;0,00
+;;Sostegno ai processi di innovazione e trasferimento tecnologico;Investimento;2.1 IPCEI;Ministero dello Sviluppo Economico (MiSE);0,00;0,00;1500,00;1500,00;0,00;1500,00
+;;;Investimento;2.2 Partenariati - Horizon Europe;Ministero dello Sviluppo Economico (MiSE);0,00;0,00;200,00;200,00;0,00;200,00
+;;;Investimento;2.3 Potenziamento ed estensione tematica e territoriale dei centri di trasferimento tecnologico per segmenti di industria;Ministero dello Sviluppo Economico (MiSE);0,00;0,00;350,00;350,00;0,00;350,00
+M5;C1;Politiche attive del lavoro e sostegno all'occupazione;Riforma;1.1 (Riforma) Politiche attive del lavoro e formazione;Ministero del lavoro e delle politiche sociali (MLPS)/ANPAL;0,00;0,00;4400,00;4400,00;0,00;4400,00
+;;;Investimento;1.1 Potenziamento dei Centri per l’Impiego;Ministero del lavoro e delle politiche sociali (MLPS)/ANPAL;400,00;0,00;200,00;600,00;0,00;600,00
+;;;Investimento;1.2 Creazione di impresa femminili;Ministero dello Sviluppo Economico (MiSE) in collaborazione con PCM - Dip. Pari Opportunità;0,00;0,00;400,00;400,00;0,00;400,00
+;;;Investimento;1.3 Sistema di certificazione della parità di genere;PCM - Dip. Pari opportunità;0,00;0,00;10,00;10,00;0,00;10,00
+;;;Investimento;1.4 Sistema duale;"Ministero del lavoro e delle 
+politiche sociali (MLPS)";0,00;0,00;600,00;600,00;0,00;600,00
+;;;Investimento;Fiscalità di vantaggio per il lavoro al sud e nuove assunzioni di giovani e donne;;;;;0,00;0,00;0,00
+;;Servizio civile universale ;Investimento;2.1 Servizio civile universale;PCM - Dipartimento per le politiche giovanili e il Servzio Civile Universale;400,00;0,00;250,00;650,00;0,00;650,00
+M5;C2;Istituti penitenziari;Investimento;Costruzione e Miglioramento padiglioni e spazi strutture penitenziarie per adulti e minori;Ministero della Giustizia (MG) ;0,00;0,00;0,00;0,00;132,90;132,90
+;;Rigenerazione urbana e Housing sociale;Investimento;2.1: Investimenti in progetti di rigenerazione urbana, volti a ridurre situazioni di emarginazione e degrado sociale;Ministero dell'Interno (MINT);2800,00;500,00;0,00;3300,00;0,00;3300,00
+;;;Investimento;2.2 a) Piani urbani integrati- superamento degli insediamenti abusiviper combattere lo sfruttamento dei lavoratori in agricoltura;"Ministero del lavoro e delle 
+politiche sociali (MLPS)";0,00;0,00;200,00;200,00;0,00;200,00
+;;;Investimento;2.2 b) Piani urbani integrati - Fondo dei Fondi della BEI;Ministero dell'Interno (MINT);0,00;0,00;272,00;272,00;0,00;272,00
+;;;Investimento;2.2: Piani Urbani Integrati (general project);Ministero dell'Interno (MINT);0,00;0,00;2493,80;2493,80;0,00;2493,80
+;;;Investimento;2.3: Programma innovativo della qualità dell’abitare;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);477,00;800,00;1523,00;2800,00;;
+;;;Sub-Investimento;2.3 Social housing - Piano innovativo per la qualità abitativa (PinQuA) -  Interventi ad alto impatto strategico sul territorio nazionale;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;800,00;600,00;1400,00;0,00;1400,00
+;;;Sub-Investimento;2.3 Social housing - Piano innovativo per la qualità abitativa (PinQuA) - Riqualificazione e incremento dell'edilizia sociale, ristrutturazione e rigenerazione della società urbana, miglioramento dell'accessibilità e sicurezza urbana, mitigazione della carenza abitativa e aumento della qualità ambientale, utilizzo di modelli e strumenti innovativi per la gestione, l'inclusione e il benessere urbano;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);477,00;0,00;923,00;1400,00;0,00;1400,00
+;;;Investimento;Piani urbani integrati;Ministero dell'Interno (MINT);;;;0,00;210,00;210,00
+;;;Investimento;Transizione verde e digitale città metro;;;;;0,00;0,00;0,00
+;;Servizi socio-assistenziali, disabilità e marginalità;Investimento;1.1: Sostegno alle persone vulnerabili e prevenzione;"Ministero del lavoro e delle 
+politiche sociali (MLPS)";0,00;0,00;500,10;500,10;;
+;;;Sub-Investimento;1.1.1: Sostegno alle persone vulnerabili e prevenzione dell'istituzionalizzazione - Intervento 1) Azioni volte a sostenere le capacità genitoriali e prevenire la vulnerabilità delle famiglie e dei bambini;"Ministero del lavoro e delle 
+politiche sociali (MLPS)";0,00;0,00;84,60;84,60;0,00;84,60
+;;;Sub-Investimento;1.1.2: Sostegno alle persone vulnerabili e prevenzione dell'istituzionalizzazione  - Intervento 2) Azioni per una vita autonoma e deistituzionalizzazione per gli anziani;"Ministero del lavoro e delle 
+politiche sociali (MLPS)";0,00;0,00;307,50;307,50;0,00;307,50
+;;;Sub-Investimento;1.1.3: Sostegno alle persone vulnerabili e prevenzione dell'istituzionalizzazione  - Intervento 3) Rafforzare i servizi sociali domiciliari per garantire una dimissione assistita precoce e prevenire il ricovero in ospedale;"Ministero del lavoro e delle 
+politiche sociali (MLPS)";0,00;0,00;66,00;66,00;0,00;66,00
+;;;Sub-Investimento;1.1.4: Sostegno alle persone vulnerabili e prevenzione dell'istituzionalizzazione  - Intervento 4) Rafforzare i servizi sociali e prevenire il burn out tra gli assistenti sociali;"Ministero del lavoro e delle 
+politiche sociali (MLPS)";0,00;0,00;42,00;42,00;0,00;42,00
+;;;Investimento;1.2: Percorsi di autonomia per persone con disabilità;"Ministero del lavoro e delle 
+politiche sociali (MLPS)";0,00;0,00;500,00;500,00;0,00;500,00
+;;;Investimento;1.3:  Housing Temporaneo e Stazioni di posta;"Ministero del lavoro e delle 
+politiche sociali (MLPS)";0,00;0,00;450,00;450,00;0,00;450,00
+;;Sport e  inclusione sociale;Investimento;3.1 Sport e inclusione sociale;PCM-Dip.Sport;0,00;0,00;700,00;700,00;0,00;700,00
+M5;C3;Ecosistemi dell'innovazione al Sud in contesti urbani marginalizzati;Investimento;Ecosistemi per l’innovazione al Sud in contesti urbani marginalizzati ;Presidenza del Consiglio dei ministri e PCM - Ministro per il Sud e la coesione territoriale;0,00;0,00;0,00;0,00;350,00;350,00
+;;Interventi per le Aree del Terremoto;Investimento;Interventi per le aree del terremoto del 2009 e 2016;"Ufficio del Commissario Straordinario per i terremoti del 2016 d'intesa con il Dipartimento ""Casa Italia"" e la Struttura di missione per il coordinamento dei processi di ricostruzione e sviluppo dei territori colpiti dal sisma del 6 aprile 2009";0,00;0,00;0,00;0,00;1780,00;1780,00
+;;Povertà educativa;Investimento;3. Interventi socio-educativi strutturati per combattere la povertà educativa nel Mezzogiorno a sostegno del Terzo Settore;PCM - Ministro per il Sud e la coesione territoriale;0,00;0,00;220,00;220,00;0,00;220,00
+;;Strategia nazionale per le aree interne;Investimento;1. Strategia nazionale per le aree interne;PCM - Ministro per il Sud e la coesione territoriale;225,00;400,00;200,00;825,00;;
+;;;Sub-investimento;1.1 NSIA (Strategia nazionale per le aree interne): Potenziamento dei servizi e delle infrastrutture sociali della comunità;PCM - Ministro per il Sud e la coesione territoriale;225,00;400,00;100,00;725,00;0,00;725,00
+;;;Sub-investimento;1.2 NSIA (Strategia nazionale per le aree interne): Strutture sanitarie di prossimità territoriale;PCM - Ministro per il Sud e la coesione territoriale;0,00;0,00;100,00;100,00;0,00;100,00
+;;;Investimento;Strategia Nazionale Aree Interne - Miglioramento dell'accessibilità e della sicurezza delle strade;Ministero delle infrastrutture e della mobilità sostenibili (MIMS);0,00;0,00;0,00;0,00;300,00;300,00
+;;Valorizzazione dei beni confiscati alle mafie;Investimento;2. Valorizzazione dei beni confiscati alle mafie;PCM - Ministro per il Sud e la coesione territoriale;0,00;0,00;300,00;300,00;0,00;300,00
+;;ZES;Investimento;4.  Interventi per le Zone Economiche Speciali (ZES);"Ministero delle infrastrutture 
+e della mobilità sostenibili 
+(MIMS) in collaborazione con 
+PCM - Ministro per il Sud e la 
+coesione territoriale";0,00;600,00;30,00;630,00;0,00;
+;;;Sub-investimento;Investimenti infrastrutturali per Zone Economiche Speciali - Soggetto attuatore RFI;MIMS in collaborazione con PCM- Ministro per il Sud e la Coesione Territoriale;;98,00;;;;98,00
+;;;Sub-investimento;Investimenti infrastrutturali per Zone Economiche Speciali - Soggetto attuatore Anas;MIMS in collaborazione con PCM- Ministro per il Sud e la Coesione Territoriale;;46,00;;;;46,00
+;;;Sub-investimento;Investimenti infrastrutturali per Zone Economiche Speciali - Soggetto attuatore AdSP;MIMS in collaborazione con PCM- Ministro per il Sud e la Coesione Territoriale;;131,00;;;;131,00
+;;;Sub-investimento;Investimenti infrastrutturali per Zone Economiche Speciali - Soggetto attuatore Regioni;MIMS in collaborazione con PCM- Ministro per il Sud e la Coesione Territoriale;;325,00;30,00;;;355,00
+M6;C1;Reti di prossimità, strutture e telemedicina per l’assistenza sanitaria territoriale;Investimento;1.1 Case della Comunità e presa in carico della persona;Ministero della Salute (MS) tramite l'Agenzia nazionale per i servizi sanitari regionali;0,00;1500,00;500,00;2000,00;0,00;2000,00
+;;;Investimento;1.2. Casa come primo luogo di cura e telemedicina;Ministero della Salute (MS) tramite l'Agenzia nazionale per i servizi sanitari regionali;0,00;0,00;4000,00;4000,00;;
+;;;Sub-Investimento;1.2.1  Casa come primo luogo di cura  (Adi);Ministero della Salute (MS) tramite l'Agenzia nazionale per i servizi sanitari regionali;0,00;0,00;2720,00;2720,00;0,00;2720,00
+;;;Sub-Investimento;1.2.2  Implementazione delle Centrali operative territoriali (COT);Ministero della Salute (MS) tramite l'Agenzia nazionale per i servizi sanitari regionali;0,00;0,00;280,00;280,00;0,00;280,00
+;;;Sub-Investimento;1.2.3  Telemedicina per un migliore supporto ai pazienti cronici;Ministero della Salute (MS) tramite l'Agenzia nazionale per i servizi sanitari regionali;0,00;0,00;1000,00;1000,00;0,00;1000,00
+;;;Investimento;1.3. Rafforzamento dell'assistenza sanitaria intermedia e delle sue strutture (Ospedali di Comunità).;Ministero della Salute (MS) tramite l'Agenzia nazionale per i servizi sanitari regionali;0,00;1000,00;0,00;1000,00;0,00;1000,00
+;;;Investimento;Salute, ambiente, biodiversità e clima;Ministero della Salute (MS);0,00;0,00;0,00;0,00;500,01;500,01
+;;;Investimento;Personale sanitario e vaccini;;;;;0,00;0,00;0,00
+M6;C2;Ammodernamento tecnologico e digitale;Investimento;1.1 Ammodernamento del parco tecnologico e digitale ospedaliero;Ministero della Salute (MS);1410,00;500,00;2142,41;4052,41;;
+;;;Sub-Investimento;1.1.1 Ammodernamento del parco tecnologico e digitale ospedaliero (Digitalizzazione);Ministero della Salute (MS);1410,00;500,00;692,30;2602,30;0,00;2602,30
+;;;Sub-Investimento;1.1.2 Ammodernamento del parco tecnologico e digitale ospedaliero (grandi apprecchiature);Ministero della Salute (MS);0,00;0,00;1450,11;1450,11;0,00;1450,11
+;;;Investimento;1.2. Verso un ospedale sicuro e sostenibile;Ministero della Salute (MS);1000,00;0,00;638,85;1638,85;0,00;1638,85
+;;;Investimento;1.3. Rafforzamento dell'infrastruttura tecnologica e degli strumenti per la raccolta, l’elaborazione, l’analisi dei dati e la simulazione;Ministero della Salute (MS);569,60;0,00;1102,94;1672,54;;
+;;;Sub-Investimento;1.3.1 Rafforzamento dell'infrastruttura tecnologica e degli strumenti per la raccolta, l’elaborazione, l’analisi dei dati e la simulazione (FSE);"Ministero della Salute (MS) in collaborazione con
+Ministero dell'innovazione e della transizione digitale (MITD)";0,00;0,00;1102,94;1102,94;0,00;1102,94
+;;;Sub-Investimento;1.3.2 Rafforzamento dell'infrastruttura tecnologica e degli strumenti per la raccolta, l’elaborazione, l’analisi dei dati e la simulazione (Potenziamento, modello predittivo, SDK ….);Ministero della Salute (MS);569,60;0,00;0,00;569,60;0,00;569,60
+;;;Investimento;Verso un nuovo ospedale sicuro e sostenibile;Ministero della Salute (MS);0,00;0,00;0,00;0,00;1450,00;1450,00
+;;Formazione, ricerca scientifica e trasferimento tecnologico ;Investimento;2.1. Valorizzazione e potenziamento della ricerca biomedica del SSN;Ministero della Salute (MS);0,00;0,00;524,14;524,14;0,00;524,14
+;;;Investimento;2.2 Sviluppo delle competenze tecniche-professionali, digitali e manageriali del personale del sistema sanitario;Ministero della Salute (MS);0,00;0,00;737,60;737,60;;
+;;;Sub-Investimento;2.2 (a) Sviluppo delle competenze tecniche-professionali, digitali e manageriali del personale del sistema sanitario. Sub-misura: borse aggiuntive in formazione di medicina generale;Ministero della Salute (MS);0,00;0,00;93,98;93,98;0,00;93,98
+;;;Sub-Investimento;2.2 (b) Sviluppo delle competenze tecniche-professionali, digitali e manageriali del personale del sistema sanitario: Sub-misura: corso di formazione in infezioni ospedaliere;Ministero della Salute (MS);0,00;0,00;88,02;88,02;0,00;88,02
+;;;Sub-Investimento;2.2 (c) Sviluppo delle competenze tecniche-professionali, digitali e manageriali del personale del sistema sanitario: Sub-misura: corso di formazione manageriale;Ministero della Salute (MS);0,00;0,00;18,00;18,00;0,00;18,00
+;;;Sub-Investimento;2.2 (d) Sviluppo delle competenze tecniche-professionali, digitali e manageriali del personale del sistema sanitario. Sub-misure: contratti di formazione medico-specialistica.;Ministero della Salute (MS) in collaborazione con il Ministero dell'Università e della Ricerca (MUR)  e il Ministero dell'Economia e delle Finanze (MEF);0,00;0,00;537,60;537,60;0,00;537,60
+;;;Investimento;Ecosistema innovativo della salute;Ministero della Salute (MS);0,00;0,00;0,00;0,00;437,40;437,40
+;;;Investimento;Iniziative di ricerca per tecnologie e percorsi innovativi in ??ambito sanitario e assistenziale;Ministero dell'Università e della Ricerca (MUR);0,00;0,00;0,00;0,00;500,00;500,00
+Totale complessivo;;;;;;51365,280000000;15616,000000000;124517,897889000;191499,177889000;30622,4600;222121,64
+NOTA*Nella seduta del CdM del 26/08/2021 la compentenza sull'intervento M2C1 investimento 4. Tecnologie satellitari ed economia spaziale è passata al MITD;;;;;;;;;;;
