@@ -13,20 +13,32 @@ mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
 mkdir -p "$folder"/../output
 
-URLBase="https://italiadomani.gov.it/it/documenti-pnrr.html"
+URLBase="https://italiadomani.gov.it/it/strumenti/documenti/jcr:content/root/container/documentssearch.searchResults.html?orderby=%2540jcr%253Acontent%252Fdate&sort=desc"
 
-code=$(curl -s -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' -o /dev/null -w "%{http_code}" "$URLBase")
+code=$(curl -s -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' -o "$folder"/rawdata/tmp.html -w "%{http_code}" "$URLBase")
 
 # se il server risponde fai partire lo script
 if [ $code -eq 200 ]; then
-  curl -kL "https://italiadomani.gov.it/it/documenti-pnrr.html" |
-    scrape -be '//div[@data-type]' |
-    xq '.html.body.div[]' |
-    mlr --j2c unsparsify then cut -o -r -f '(ta-type|ta-date|ta-author|on:span|href)' then rename -r -g "@data-," then rename -r ".*span.*,title" then reshape -r 'href' -o i,v then filter -x -S '$v==""' then cut -x -f i then rename v,path then put -S '$datetime = strftime(strptime($date, "%d/%m/%Y"),"%Y-%m-%d");$URL="https://italiadomani.gov.it".$path' then sort -r datetime then clean-whitespace >"$folder"/../output/latest.csv
+  echo "OK"
+
 # se non è raggiungibile esci
 else
   exit 1
 fi
+
+scrape <"$folder"/rawdata/tmp.html -be "//div[@class='banner-documents']" | xq -c '.html.body.div[]|{type:.span[0]."#text",author:.span[1]."#text"}' | mlr --json cat -n >"$folder"/rawdata/tmpTypeAuthor.json
+
+<"$folder"/rawdata/tmp.html scrape -be "//div[@data-cmp-hook-search='wrapper']" | xq -c '.html.body.div[]|{
+      date:.div["@data-date"],
+      title:.div.div[0].h4.button.span,
+      path:.div.div[1].div.div[0].a["@href"]
+      }' > "$folder"/rawdata/tmp_data.json
+
+mlr -I --json cat -n "$folder"/rawdata/tmp_data.json
+
+mlr --json join --ul -j n -f "$folder"/rawdata/tmp_data.json then unsparsify then cut -x -f n then put -S '$datetime = strftime(strptime($date, "%d/%m/%y"),"%Y-%m-%d");$URL="https://italiadomani.gov.it".$path' then sort -r datetime then clean-whitespace then reorder -f date,type,author,title,path,datetime,URL "$folder"/rawdata/tmpTypeAuthor.json >"$folder"/../output/latest.json
+
+mlr --j2c cat "$folder"/../output/latest.json >"$folder"/../output/latest.csv
 
 if [ ! -f "$folder"/../output/archive.csv ]; then
   cp "$folder"/../output/latest.csv "$folder"/../output/archive.csv
@@ -46,17 +58,18 @@ mlr --csv put -S '$pubDate = strftime(strptime($datetime, "%Y-%m-%d"),"%Y-%m-%dT
 ogr2ogr -f geoRSS -dsco TITLE="$title" -dsco LINK="$selflinkraw" -dsco DESCRIPTION="$description" "$folder"/../rss.xml "$folder"/../output/rss.csv -oo AUTODETECT_TYPE=YES
 
 # open-data
-mkdir -p "$folder"/../output/open-data/rawdata
-cd "$folder"/../output/open-data/rawdata
-mlr --c2n filter -S '$type=="open-data"' then cut -f URL "$folder"/../output/latest.csv | xargs -n 1 -P 8 wget -q
+#mkdir -p "$folder"/../output/open-data/rawdata
+#cd "$folder"/../output/open-data/rawdata
+#mlr --c2n filter -S '$type=="open-data"' then cut -f URL "$folder"/../output/latest.csv | xargs -n 1 -P 8 wget -q
+#
+#cd "$folder"
+#
+## modifica encoding in UTF-8, cambia separatore da ";" a ",", rimuovi spazi bianchi ridondanti, rimuovi righe e colonne vuote
+#for i in "$folder"/../output/open-data/rawdata/*.csv; do
+#  nome=$(basename "$i")
+#  iconv -f Windows-1252 -t UTF-8 "$i" >"$folder"/../output/open-data/"$nome"
+#  mlr -I --csv --ifs ";" -N remove-empty-columns then skip-trivial-records "$folder"/../output/open-data/"$nome"
+#  mlr -I --csv -N put -S 'for (k in $*) {$[k] = gsub($[k], "^ +", "")};for (k in $*) {$[k] = gsub($[k], " +$", "")};for (k in $*) {$[k] = gsub($[k], "  +", " ")}' "$folder"/../output/open-data/"$nome"
+#done
 
-cd "$folder"
-
-# modifica encoding in UTF-8, cambia separatore da ";" a ",", rimuovi spazi bianchi ridondanti, rimuovi righe e colonne vuote
-for i in "$folder"/../output/open-data/rawdata/*.csv; do
-  nome=$(basename "$i")
-  iconv -f Windows-1252 -t UTF-8 "$i" >"$folder"/../output/open-data/"$nome"
-  mlr -I --csv --ifs ";" -N remove-empty-columns then skip-trivial-records "$folder"/../output/open-data/"$nome"
-  mlr -I --csv -N put -S 'for (k in $*) {$[k] = gsub($[k], "^ +", "")};for (k in $*) {$[k] = gsub($[k], " +$", "")};for (k in $*) {$[k] = gsub($[k], "  +", " ")}' "$folder"/../output/open-data/"$nome"
-done
 
