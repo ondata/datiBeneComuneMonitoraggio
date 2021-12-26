@@ -47,19 +47,19 @@ fi
 scrape <"$folder"/../rawdata/"$nome".html -be "//div[contains(@class, 'notices-card')]" | xq -c '.html.body.div[]|{pa:.div[0].p["#text"],titolo:.div[1].h4["#text"],dataApertura:.div[3].div[1].div[0].div.div[0].div.span["#text"],dataChiusura:.div[3].div[1].div[0].div.div[1].div.span["#text"],URL:.a["@href"]}' >"$folder"/../output/"$nome"_raw.json
 
 # aggiungi campi data in formato YYYY-MM-DD
-mlr --json put -S '$dataAperturaDate = strftime(strptime($dataApertura, "%d/%m/%y"),"%Y-%m-%d");$dataChiusuraDate = strftime(strptime($dataChiusura, "%d/%m/%y"),"%Y-%m-%d")' then clean-whitespace then sort -r dataAperturaDate "$folder"/../output/"$nome"_raw.json >"$folder"/../output/"$nome"_latest.json
+mlr --json put -S '$dataAperturaDate = strftime(strptime($dataApertura, "%d/%m/%y"),"%Y-%m-%d");$dataChiusuraDate = strftime(strptime($dataChiusura, "%d/%m/%y"),"%Y-%m-%d")' then clean-whitespace then sort -r dataAperturaDate -f titolo "$folder"/../output/"$nome"_raw.json >"$folder"/../output/"$nome"_latest.json
 
 if [ ! -f "$folder"/../output/"$nome"_archivio.json ]; then
   cp "$folder"/../output/"$nome"_latest.json "$folder"/../output/"$nome"_archivio.json
 else
   cp "$folder"/../output/"$nome"_archivio.json "$folder"/../output/tmp.json
   cat "$folder"/../output/tmp.json "$folder"/../output/"$nome"_latest.json >"$folder"/../output/"$nome"_archivio.json
-  mlr -I --json uniq -a then sort -r dataAperturaDate "$folder"/../output/"$nome"_archivio.json
+  mlr -I --json uniq -a then sort -r dataAperturaDate -f titolo "$folder"/../output/"$nome"_archivio.json
 fi
 
 
 # crea JSON per generare feed RSS
-mlr --json put -S '$pubDate = strftime(strptime($dataApertura, "%d/%m/%y"),"%a, %d %b %Y %H:%M:%S %z")' then rename titolo,title,URL,link then put '$title=gsub($title,">","&gt;");$title=gsub($title,"&","&amp;");$title=gsub($title,"'\''","&apos;");$title=gsub($title,"\"","&quot;");$link=gsub($link,"&","%26")' then sort -r dataAperturaDate "$folder"/../output/"$nome"_latest.json >"$folder"/../output/tmp_"$nome"_rss.json
+mlr --json put -S '$pubDate = strftime(strptime($dataApertura, "%d/%m/%y"),"%a, %d %b %Y %H:%M:%S %z")' then rename titolo,title,URL,link then put '$title=gsub($title,">","&gt;");$title=gsub($title,"&","&amp;");$title=gsub($title,"'\''","&apos;");$title=gsub($title,"\"","&quot;");$link=gsub($link,"&","&amp;")' then sort -r dataAperturaDate -f title "$folder"/../output/"$nome"_latest.json >"$folder"/../output/tmp_"$nome"_rss.json
 
 # crea copia del template del feed
 cp "$folder"/../risorse/feedTemplate.xml "$folder"/../output/feed.xml
