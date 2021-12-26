@@ -51,7 +51,7 @@ mlr --json join --ul -j n -f "$folder"/../output/latest.json then unsparsify the
 mv "$folder"/rawdata/tmp_data.json "$folder"/../output/latest.json
 
 # aggiorna latest
-mlr --j2c cat "$folder"/../output/latest.json >"$folder"/../output/latest.csv
+mlr --j2c cat then sort -r datetime -f title "$folder"/../output/latest.json >"$folder"/../output/latest.csv
 
 # crea file di archivio e se c'è già aggiornalo
 if [ ! -f "$folder"/../output/archive.csv ]; then
