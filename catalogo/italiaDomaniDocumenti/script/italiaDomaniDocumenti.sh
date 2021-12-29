@@ -62,7 +62,7 @@ else
 fi
 
 # genera RSS
-title="Italia Domani, Documenti | a cura di #datiBeneComune"
+title="Italia Domani, Documenti | un progetto di onData per #datiBeneComune"
 description="Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani"
 selflinkraw="https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml"
 
