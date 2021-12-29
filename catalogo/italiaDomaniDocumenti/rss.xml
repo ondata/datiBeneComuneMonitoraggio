@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:georss="http://www.georss.org/georss">
   <channel>
-    <title>Italia Domani, Documenti | a cura di #datiBeneComune</title>
+    <title>Italia Domani, Documenti | un progetto di onData per #datiBeneComune</title>
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
