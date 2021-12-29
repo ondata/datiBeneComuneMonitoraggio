@@ -46,9 +46,26 @@ mlr --json join --ul -j n -f "$folder"/rawdata/tmp_data.json then unsparsify the
 # estrai tag dei documenti
 scrape <"$folder"/rawdata/tmp.html -be '//div[@class="banner-documents"]' | xq '.html.body.div[]' | mlr --json cat -n then unsparsify then cut -r -f '^(n|.*div.+text.*)$' then reshape -r "div" -o i,v then filter -x -S '$v==""' then cut -x -f i then nest --implode --values --across-records -f v then rename v,tag >"$folder"/rawdata/tmpTag.json
 
+# estrai URL documenti
+scrape <"$folder"/rawdata/tmp.html -be '//div[@class="card-body pt-0"]' | xq '.html.body.div' | mlr --json unsparsify then cut -r -f 'href' then cat -n then reshape -r ":" -o i,v then filter -x -S '$v==""' then cut -x -f "i" then rename v,URLfile then put -S '$URLfile="https://italiadomani.gov.it".$URLfile' >"$folder"/rawdata/tmpURL.json
+
+mlr --json join --ul -j n -f "$folder"/../output/latest.json then unsparsify then cut -f title,datetime,URLfile "$folder"/rawdata/tmpURL.json >"$folder"/rawdata/tmpURL_join.json
+
+# aggiorna latest sui file
+mlr --j2c cat then sort -r datetime -f title "$folder"/rawdata/tmpURL_join.json >"$folder"/../output/file_latest.csv
+
+# crea file di archivio dei file e se c'è già aggiornalo
+if [ ! -f "$folder"/../output/archive_file.csv ]; then
+  cp "$folder"/../output/file_latest.csv "$folder"/../output/archive_file.csv
+else
+  mlr --csv uniq -a then sort -r datetime -f title then unsparsify "$folder"/../output/file_latest.csv "$folder"/../output/archive_file.csv >"$folder"/rawdata/tmp_file.csv
+  mv "$folder"/rawdata/tmp_file.csv "$folder"/../output/archive_file.csv
+fi
+
 # fai join tra i dati e dati con i tag
 mlr --json join --ul -j n -f "$folder"/../output/latest.json then unsparsify then cut -x -f n "$folder"/rawdata/tmpTag.json >"$folder"/rawdata/tmp_data.json
 mv "$folder"/rawdata/tmp_data.json "$folder"/../output/latest.json
+
 
 # aggiorna latest
 mlr --j2c cat then sort -r datetime -f title "$folder"/../output/latest.json >"$folder"/../output/latest.csv
