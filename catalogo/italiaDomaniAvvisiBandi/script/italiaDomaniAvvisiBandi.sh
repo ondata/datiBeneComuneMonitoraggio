@@ -23,8 +23,8 @@ mkdir -p "$folder"/../output
 nome="italiaDomaniAvvisi"
 
 # RSS
-titolo="feed RSS per bandi e avvisi pubblicati su italiaDomani PNRR | un progetto di onData per datiBeneComune"
-descrizione="Un feed creato per seguire la pagina con i bandi e gli avvisi pubblicati su italiaDomani, il sito del PNRR"
+titolo="Bandi e avvisi pubblicati su italiaDomani PNRR | un progetto di onData per datiBeneComune"
+descrizione="Un feed creato per seguire la pagina dei bandi e degli avvisi pubblicati su italiaDomani, il sito del PNRR"
 selflink="https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniAvvisiBandi/output/feed.xml"
 
 # URL pagina avvisi
