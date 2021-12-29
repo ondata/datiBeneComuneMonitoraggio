@@ -2,8 +2,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" version="2.0">
   <channel>
     <creativeCommons:license>http://creativecommons.org/licenses/by/3.0/</creativeCommons:license>
-    <title>feed RSS per bandi e avvisi pubblicati su italiaDomani PNRR | un progetto di onData per datiBeneComune</title>
-    <description>Un feed creato per seguire la pagina con i bandi e gli avvisi pubblicati su italiaDomani, il sito del PNRR</description>
+    <title>Bandi e avvisi pubblicati su italiaDomani PNRR | un progetto di onData per datiBeneComune</title>
+    <description>Un feed creato per seguire la pagina dei bandi e degli avvisi pubblicati su italiaDomani, il sito del PNRR</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniAvvisiBandi/output/feed.xml</link>
     <atom:link rel="self" href="https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniAvvisiBandi/output/feed.xml" type="application/rss+xml"/>
     <item>
