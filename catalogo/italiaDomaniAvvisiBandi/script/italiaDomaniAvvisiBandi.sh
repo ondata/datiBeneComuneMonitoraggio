@@ -55,6 +55,7 @@ else
   cp "$folder"/../output/"$nome"_archivio.json "$folder"/../output/tmp.json
   cat "$folder"/../output/tmp.json "$folder"/../output/"$nome"_latest.json >"$folder"/../output/"$nome"_archivio.json
   mlr -I --json uniq -a then sort -r dataAperturaDate -f titolo "$folder"/../output/"$nome"_archivio.json
+  mlr --j2c cat "$folder"/../output/"$nome"_archivio.json >"$folder"/../output/"$nome"_archivio.csv
 fi
 
 
