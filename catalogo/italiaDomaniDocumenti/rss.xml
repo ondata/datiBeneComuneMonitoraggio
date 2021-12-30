@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Decreti e Regolamenti | Guida operativa Do No Significant Harm (DNSH)</title>
+      <link>https://italiadomani.gov.it/content/dam/sogei-ng/dnsh/doc-guida-operativa/20211221_Guida%20operativa%20del%20principio%20DNSH.pdf</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Altro | Contributi delle amministrazioni alla Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/contributo--del-ministero-delle-infrastrutture-e-della-mobilità-sostenibili--alla-relazione-al-parlamento-sullo-stato-di-attuazione-del-piano-nazionale-di-ripresa-e-resilienza/1_PNRR_MIMS.pdf</link>
       <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
@@ -66,7 +71,7 @@
     </item>
     <item>
       <title>#Decreti e Regolamenti | Il principio del Do No Significant Harm (DNSH) nel Piano Nazionale di Ripresa e Resilienza</title>
-      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/DNSH_Nota%20divulgativa1.docx</link>
+      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/DNSH_Nota%20divulgativa.docx</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -123,11 +128,6 @@
       <title>#Decreti e Regolamenti | REGOLAMENTO DEL PARLAMENTO EUROPEO E DEL CONSIGLIO che istituisce il dispositivo per la ripresa e la resilienza</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/CELEX_32021R0241_IT_TXT.pdf</link>
       <pubDate>Fri, 12 Feb 2021 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#Decreti e Regolamenti | LEGGE 30 dicembre 2020, n. 178</title>
-      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/L30-12-2021_n178.pdf</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
