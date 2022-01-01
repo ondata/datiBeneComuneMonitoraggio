@@ -86,7 +86,7 @@ for i in "$folder"/output/*.csv; do
   name=$(basename "$i" .csv)
   mlrgo --csv join --ul -j "Codice BDAP" -f "$i" then unsparsify "$folder"/processing/tmp.csv >"$folder"/processing/tmp_i.csv
   mv "$folder"/processing/tmp_i.csv "$i"
-  mlrgo --c2j --no-jvstack cat "$i" >"$folder"/output/"$name".json
+  mlrgo --c2j --jlistwrap cat "$i" >"$folder"/output/"$name".json
 done
 
 
