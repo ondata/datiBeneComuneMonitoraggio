@@ -5,7 +5,7 @@ Il 30 dicembre 2021 è stata pubblicato il decreto relativo ai "Contributi ai Co
 
 Non sono pubblicati come dati *machine readable*, ma come PDF.
 
-Sono i contributi correlati della Missione 5 “Inclusione e Coesione”, Componente 2 “Infrastrutture sociali, famiglie, comunità e terzo settore”, Investimento 2.1 “Investimenti in progetti di rigenerazione urbana, volti a ridurre situazioni di emarginazione e degrado sociale”, in particolare:
+Sono i contributi della Missione 5 “Inclusione e Coesione”, Componente 2 “Infrastrutture sociali, famiglie, comunità e terzo settore”, Investimento 2.1 “Investimenti in progetti di rigenerazione urbana, volti a ridurre situazioni di emarginazione e degrado sociale”, in particolare:
 
 1. MILESTONE:
     - Q3 2021, M-ITA: Attivazione della procedura di selezione degli investimenti in progetti di rigenerazione urbana volti a ridurre situazioni di emarginazione e degrado sociale entro il terzo trimestre 2021;
