@@ -1,11 +1,11 @@
 # Contributi ai Comuni da destinare a investimenti in progetti di rigenerazione urbana anni 2021-2026
 
-Il 30 dicembre 2021 è stata pubblicato il decreto relativo ai "Contributi ai Comuni da destinare a investimenti in progetti di rigenerazione urbana anni 2021-2026" (grazie a Monithon per la [segnalazione](https://twitter.com/Monithon/status/1476886369335136260).):<br>
+Il 30 dicembre 2021 è stata pubblicato il decreto relativo ai "Contributi ai Comuni da destinare a investimenti in progetti di rigenerazione urbana anni 2021-2026" (grazie a Monithon per la [segnalazione](https://twitter.com/Monithon/status/1476886369335136260)):<br>
 <https://dait.interno.gov.it/finanza-locale/documentazione/decreto-30-dicembre-2021>.
 
 Non sono pubblicati come dati *machine readable*, ma come PDF.
 
-Sono i contributi correlati Missione 5 “Inclusione e Coesione”, Componente 2 “Infrastrutture sociali, famiglie, comunità e terzo settore”, Investimento 2.1 “Investimenti in progetti di rigenerazione urbana, volti a ridurre situazioni di emarginazione e degrado sociale”, in particolare:
+Sono i contributi correlati della Missione 5 “Inclusione e Coesione”, Componente 2 “Infrastrutture sociali, famiglie, comunità e terzo settore”, Investimento 2.1 “Investimenti in progetti di rigenerazione urbana, volti a ridurre situazioni di emarginazione e degrado sociale”, in particolare:
 
 1. MILESTONE:
     - Q3 2021, M-ITA: Attivazione della procedura di selezione degli investimenti in progetti di rigenerazione urbana volti a ridurre situazioni di emarginazione e degrado sociale entro il terzo trimestre 2021;
