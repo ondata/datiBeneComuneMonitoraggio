@@ -81,8 +81,12 @@ done
 # estrai da anagrafica enti codice cup e codice istat
 mlrgo --csv cut -f Id_Ente,Codice_ISTAT_Comune then rename Id_Ente,"Codice BDAP" "$folder"/risorse/Anagrafe-Enti---Ente-utf8.csv >"$folder"/processing/tmp.csv
 
-# fai join e aggiungi codice istat
+# fai join e aggiungi codice istat, e crea JSON
 for i in "$folder"/output/*.csv; do
+  name=$(basename "$i" .csv)
   mlrgo --csv join --ul -j "Codice BDAP" -f "$i" then unsparsify "$folder"/processing/tmp.csv >"$folder"/processing/tmp_i.csv
   mv "$folder"/processing/tmp_i.csv "$i"
+  mlrgo --c2j --no-jvstack cat "$i" >"$folder"/output/"$name".json
 done
+
+
