@@ -13,5 +13,20 @@ Le informazioni sui contributi di questo decreto sono **pubblicate come PDF** e 
 
 ## I numeri
 
-<iframe width="100%" height="664" frameborder="0"
-  src="https://observablehq.com/embed/@aborruso/contributi-pnrr-rigenerazione-urbana?cells=lista%2Ctesto%2Cviewof+Prov%2Cviewof+Reg"></iframe>
+<div id="observablehq-lista-640ed55b"></div>
+<div id="observablehq-testo-640ed55b"></div>
+<div id="observablehq-viewof-Prov-640ed55b"></div>
+<div id="observablehq-viewof-Reg-640ed55b"></div>
+<p>Credit: <a href="https://observablehq.com/@aborruso/contributi-pnrr-rigenerazione-urbana">Contributi ai Comuni per investimenti di rigenerazione urbana anni 2021-2026 (PNRR) by Andrea Borruso</a></p>
+
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@aborruso/contributi-pnrr-rigenerazione-urbana@605.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "lista") return new Inspector(document.querySelector("#observablehq-lista-640ed55b"));
+  if (name === "testo") return new Inspector(document.querySelector("#observablehq-testo-640ed55b"));
+  if (name === "viewof Prov") return new Inspector(document.querySelector("#observablehq-viewof-Prov-640ed55b"));
+  if (name === "viewof Reg") return new Inspector(document.querySelector("#observablehq-viewof-Reg-640ed55b"));
+  return ["listaComuni","totaleProvincia","comuniSelezionati","listaProv","totaleRegione","percentualeReg"].includes(name);
+});
+</script>
