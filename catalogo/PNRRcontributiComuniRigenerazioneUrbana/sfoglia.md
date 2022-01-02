@@ -13,10 +13,10 @@ Le informazioni sui contributi di questo decreto sono **pubblicate come PDF** e 
 
 ## I numeri
 
-<div id="observablehq-lista-640ed55b"></div>
 <div id="observablehq-testo-640ed55b"></div>
-<div id="observablehq-viewof-Prov-640ed55b"></div>
 <div id="observablehq-viewof-Reg-640ed55b"></div>
+<div id="observablehq-viewof-Prov-640ed55b"></div>
+<div id="observablehq-lista-640ed55b"></div>
 <p>Credit: <a href="https://observablehq.com/@aborruso/contributi-pnrr-rigenerazione-urbana">Contributi ai Comuni per investimenti di rigenerazione urbana anni 2021-2026 (PNRR) by Andrea Borruso</a></p>
 
 <script type="module">
