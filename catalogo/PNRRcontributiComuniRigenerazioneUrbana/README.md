@@ -3,7 +3,7 @@
 Il 30 dicembre 2021 è stata pubblicato il decreto relativo ai "Contributi ai Comuni da destinare a investimenti in progetti di rigenerazione urbana anni 2021-2026" (grazie a Monithon per la [segnalazione](https://twitter.com/Monithon/status/1476886369335136260)):<br>
 <https://dait.interno.gov.it/finanza-locale/documentazione/decreto-30-dicembre-2021>.
 
-L'**ammontare** del **contributo** attribuito a ciascun ente è stato determinato a favore dei Comuni che presentano un **valore** più **elevato** dell'**indice di vulnerabilità sociale e materiale** (IVSM), come previsto dal Dpcm del 21 gennaio 2021 ([comunicato stampa](https://dait.interno.gov.it/finanza-locale/notizie/comunicato-del-31-dicembre-2021)).
+L'**ammontare** del **contributo** attribuito a ciascun ente è stato determinato a favore dei Comuni che presentano un **valore** più **elevato** dell'**indice di vulnerabilità sociale e materiale** ([IVSM](https://www.istat.it/it/mappa-rischi/indicatori)), come previsto dal Dpcm del 21 gennaio 2021 ([comunicato stampa](https://dait.interno.gov.it/finanza-locale/notizie/comunicato-del-31-dicembre-2021)).
 
 Sono i contributi della Missione 5 “Inclusione e Coesione”, Componente 2 “Infrastrutture sociali, famiglie, comunità e terzo settore”, Investimento 2.1 “Investimenti in progetti di rigenerazione urbana, volti a ridurre situazioni di emarginazione e degrado sociale”, in particolare:
 
