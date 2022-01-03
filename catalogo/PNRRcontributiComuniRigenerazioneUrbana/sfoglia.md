@@ -5,7 +5,7 @@
 ## Introduzione
 
 
-Il **30 dicembre 2021** è stata pubblicato il decreto relativo ai "**Contributi ai Comuni** da destinare a **investimenti** in progetti di **rigenerazione urbana anni 2021-2026**":<br>
+Il **30 dicembre 2021** è stato pubblicato il decreto relativo ai "**Contributi ai Comuni** da destinare a **investimenti** in progetti di **rigenerazione urbana anni 2021-2026**":<br>
 <https://dait.interno.gov.it/finanza-locale/documentazione/decreto-30-dicembre-2021>.
 
 
