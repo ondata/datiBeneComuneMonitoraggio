@@ -15,20 +15,20 @@ Le informazioni sui contributi di questo decreto sono **pubblicate come PDF** e 
 
 ## I numeri
 
-<div id="observablehq-viewof-Reg-cad9fe1c"></div>
-<div id="observablehq-viewof-Prov-cad9fe1c"></div>
-<div id="observablehq-testo-cad9fe1c"></div>
-<div id="observablehq-lista-cad9fe1c"></div>
+<div id="observablehq-viewof-Reg-ef5900c8"></div>
+<div id="observablehq-viewof-Prov-ef5900c8"></div>
+<div id="observablehq-testo-ef5900c8"></div>
+<div id="observablehq-lista-ef5900c8"></div>
 
 
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
 import define from "https://api.observablehq.com/@aborruso/contributi-pnrr-rigenerazione-urbana.js?v=3";
 new Runtime().module(define, name => {
-  if (name === "lista") return new Inspector(document.querySelector("#observablehq-lista-cad9fe1c"));
-  if (name === "testo") return new Inspector(document.querySelector("#observablehq-testo-cad9fe1c"));
-  if (name === "viewof Prov") return new Inspector(document.querySelector("#observablehq-viewof-Prov-cad9fe1c"));
-  if (name === "viewof Reg") return new Inspector(document.querySelector("#observablehq-viewof-Reg-cad9fe1c"));
+  if (name === "testo") return new Inspector(document.querySelector("#observablehq-testo-ef5900c8"));
+  if (name === "viewof Prov") return new Inspector(document.querySelector("#observablehq-viewof-Prov-ef5900c8"));
+  if (name === "viewof Reg") return new Inspector(document.querySelector("#observablehq-viewof-Reg-ef5900c8"));
+  if (name === "lista") return new Inspector(document.querySelector("#observablehq-lista-ef5900c8"));
   return ["listaComuni","listaContributi","totaleProvincia","comuniSelezionati","listaProv","totaleRegione","percentualeReg"].includes(name);
 });
 </script>
