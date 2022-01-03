@@ -1,7 +1,9 @@
 # Contributi ai Comuni per investimenti di rigenerazione urbana anni 2021-2026 (PNRR)
 
+<a href="https://www.datibenecomune.it/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%99%8F-%23datiBeneComune-%23cc3232"/></a>
 
 ## Introduzione
+
 
 Il **30 dicembre 2021** è stata pubblicato il decreto relativo ai "**Contributi ai Comuni** da destinare a **investimenti** in progetti di **rigenerazione urbana anni 2021-2026**":<br>
 <https://dait.interno.gov.it/finanza-locale/documentazione/decreto-30-dicembre-2021>.
