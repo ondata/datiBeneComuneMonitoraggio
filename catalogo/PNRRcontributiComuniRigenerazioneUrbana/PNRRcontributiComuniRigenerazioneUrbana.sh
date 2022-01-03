@@ -89,4 +89,6 @@ for i in "$folder"/output/*.csv; do
   mlrgo --c2j --jlistwrap cat "$i" >"$folder"/output/"$name".json
 done
 
+# estrarre dati Istat per normalizzare i totali per area e popolazione
+# POP_2018,PRO_COM_111,SUP,SUP_URB
 
