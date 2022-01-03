@@ -92,3 +92,4 @@ done
 # estrarre dati Istat per normalizzare i totali per area e popolazione
 # POP_2018,PRO_COM_111,SUP,SUP_URB
 
+ mlrgo --csv cut -r -f "(Codice_ISTAT_Comune|[0-9]{2}$|CUP|Provincia|Regione)" then cut -x -f openCUP then reshape -r "[0-9]" -o i,v then put '$i=regextract($i,"[0-9]+")' then filter '$v>0' then rename i,anno,v,contributo then sort -f Codice_ISTAT_Comune -n anno "$folder"/output/decreto-fl-30-12-2021-all-3.csv >"$folder"/output/decreto-fl-30-12-2021-all-3_longAnni.csv
