@@ -13,20 +13,20 @@ Le informazioni sui contributi di questo decreto sono **pubblicate come PDF** e 
 
 ## I numeri
 
-<div id="observablehq-viewof-Reg-392e6039"></div>
-<div id="observablehq-viewof-Prov-392e6039"></div>
-<div id="observablehq-testo-392e6039"></div>
-<div id="observablehq-lista-392e6039"></div>
-
+<div id="observablehq-viewof-Reg-8bf61168"></div>
+<div id="observablehq-viewof-Prov-8bf61168"></div>
+<div id="observablehq-testo-8bf61168"></div>
+<div id="observablehq-lista-8bf61168"></div>
+<p>Credit: <a href="https://observablehq.com/@aborruso/contributi-pnrr-rigenerazione-urbana">Contributi ai Comuni per investimenti di rigenerazione urbana anni 2021-2026 (PNRR) by Andrea Borruso</a></p>
 
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
 import define from "https://api.observablehq.com/@aborruso/contributi-pnrr-rigenerazione-urbana.js?v=3";
 new Runtime().module(define, name => {
-  if (name === "lista") return new Inspector(document.querySelector("#observablehq-lista-392e6039"));
-  if (name === "testo") return new Inspector(document.querySelector("#observablehq-testo-392e6039"));
-  if (name === "viewof Prov") return new Inspector(document.querySelector("#observablehq-viewof-Prov-392e6039"));
-  if (name === "viewof Reg") return new Inspector(document.querySelector("#observablehq-viewof-Reg-392e6039"));
-  return ["listaComuni","listaContributi","totaleProvincia","comuniSelezionati","viewof Com","listaProv","totaleRegione","percentualeReg"].includes(name);
+  if (name === "lista") return new Inspector(document.querySelector("#observablehq-lista-8bf61168"));
+  if (name === "testo") return new Inspector(document.querySelector("#observablehq-testo-8bf61168"));
+  if (name === "viewof Prov") return new Inspector(document.querySelector("#observablehq-viewof-Prov-8bf61168"));
+  if (name === "viewof Reg") return new Inspector(document.querySelector("#observablehq-viewof-Reg-8bf61168"));
+  return ["listaComuni","listaContributi","totaleProvincia","comuniSelezionati","viewof Com","reg","listaProv","totaleRegione","percentualeReg"].includes(name);
 });
 </script>
