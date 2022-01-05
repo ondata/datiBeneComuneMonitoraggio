@@ -15,20 +15,20 @@ Le informazioni sui contributi di questo decreto sono **pubblicate come PDF** e 
 
 ## I numeri
 
-<div id="observablehq-viewof-Reg-0dce6876"></div>
-<div id="observablehq-viewof-Prov-0dce6876"></div>
-<div id="observablehq-testo-0dce6876"></div>
-<div id="observablehq-lista-0dce6876"></div>
+<div id="observablehq-viewof-Reg-396fbc73"></div>
+<div id="observablehq-viewof-Prov-396fbc73"></div>
+<div id="observablehq-testo-396fbc73"></div>
+<div id="observablehq-viewof-lista-396fbc73"></div>
 
 
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
 import define from "https://api.observablehq.com/@aborruso/contributi-pnrr-rigenerazione-urbana.js?v=3";
 new Runtime().module(define, name => {
-  if (name === "testo") return new Inspector(document.querySelector("#observablehq-testo-0dce6876"));
-  if (name === "viewof Prov") return new Inspector(document.querySelector("#observablehq-viewof-Prov-0dce6876"));
-  if (name === "viewof Reg") return new Inspector(document.querySelector("#observablehq-viewof-Reg-0dce6876"));
-  if (name === "lista") return new Inspector(document.querySelector("#observablehq-lista-0dce6876"));
-  return ["listaComuni","listaContributi","totaleProvincia","comuniSelezionati","listaProv","totaleRegione","percentualeReg"].includes(name);
+  if (name === "viewof Reg") return new Inspector(document.querySelector("#observablehq-viewof-Reg-396fbc73"));
+  if (name === "viewof Prov") return new Inspector(document.querySelector("#observablehq-viewof-Prov-396fbc73"));
+  if (name === "testo") return new Inspector(document.querySelector("#observablehq-testo-396fbc73"));
+  if (name === "viewof lista") return new Inspector(document.querySelector("#observablehq-viewof-lista-396fbc73"));
+  return ["listaComuni","listaContributi","totaleProvincia","comuniSelezionati","download_button","totaleProvinceAnni","totaleProvinceAnniChart","totaleProvinceAnniChartBolle","totaleProvince","totalePerProvince","listaProv","totaleRegione","percentualeReg"].includes(name);
 });
 </script>
