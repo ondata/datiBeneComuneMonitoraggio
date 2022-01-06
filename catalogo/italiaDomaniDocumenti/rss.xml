@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Decreti e Regolamenti | Linee guida volte a favorire le pari opportunità di genere e generazionali e l’inclusione lavorativa delle persone con disabilità nei contratti pubblici finanziati con le risorse del PNRR e del PNC</title>
+      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/GU%20Serie%20Generale%20n.309%20del%2030-12-2021.pdf</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Altro | Piano di riorganizzazione delle strutture sanitarie per l'emergenza pandemica</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/2-Piano-Riorganizzazione-TI-e-TSI-20_10_2021_v02.pdf</link>
       <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
@@ -123,11 +128,6 @@
       <title>#Decreti e Regolamenti | Decreto del Ministro dell’Economia e delle Finanze - 6 agosto 2021</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/decreto%20MEF%206-8-21%20assegnazione%20fondi%20PNRR.pdf</link>
       <pubDate>Fri, 06 Aug 2021 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#Altro | PNRR - Traguardi e Obiettivi per rata semestrale</title>
-      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/PNRR-Traguardi%20e%20Obiettivi%20per%20rata%20semestrale.csv</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
