@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Altro | Lista esperti e professionisti incaricati dalle Regioni e dalle Province Autonome all’esito delle procedure selettive</title>
+      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/Lista%20anonimizzata%20esperti%20e%20professionisti.pdf</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Decreti e Regolamenti | Linee guida volte a favorire le pari opportunità di genere e generazionali e l’inclusione lavorativa delle persone con disabilità nei contratti pubblici finanziati con le risorse del PNRR e del PNC</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/Decreto%20interministeriale%20del%207%20dicembre%20contenente%20le%20linee%20guida%20sulle%20pari%20opportunità.pdf</link>
       <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
@@ -87,11 +92,6 @@
     <item>
       <title>#Altro | I Piani territoriali delle Regioni</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/piano_territoriale_v1/Abruzzo.pdf</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#Dati PNRR e Piano Complementare | Report sugli adempimenti e le attività del PNC</title>
-      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/documentazione-pnc/PNC%20-%20report%2030%20settembre%202021.pdf</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
