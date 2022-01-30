@@ -31,14 +31,14 @@ Altri dettagli in [questo file PDF](risorse/decreto-fl-30-12-2021_1.pdf).
 
 ### Istanze validamente trasmesse e progetti ammissibili
 
-Qui l'[elenco  dei progetti  ammissibili](output/decreto-fl-30-12-2021-all-1.csv) ([file PDF](rawdata/decreto-fl-30-12-2021-all-1.pdf) da cui sono stati estratti), relativi  alle  istanze validamente trasmesse dai Comuni ai sensi del DPCM 21 gennaio 2021 e del successivo Decreto del Ministero dell'Interno del 2 aprile 2021, e con evidenza dei progetti esclusi dall'assegnazione del contributo perché ritenuti non ammissibili per le motivazioni ivi indicate. L'elenco è allegato al presente provvedimento e ne forma parte integrante.
+Qui l'[elenco  dei progetti  ammissibili](output/decreto-fl-30-12-2021-all-1.csv) ([file PDF](risorse/decreto-fl-30-12-2021-all-1.pdf) da cui sono stati estratti), relativi  alle  istanze validamente trasmesse dai Comuni ai sensi del DPCM 21 gennaio 2021 e del successivo Decreto del Ministero dell'Interno del 2 aprile 2021, e con evidenza dei progetti esclusi dall'assegnazione del contributo perché ritenuti non ammissibili per le motivazioni ivi indicate. L'elenco è allegato al presente provvedimento e ne forma parte integrante.
 
 Altri dettagli sempre in [questo file PDF](risorse/decreto-fl-30-12-2021_1.pdf).
 
 ### Graduatoria progetti ammissibili
 
-Qui la [graduatoria dei progetti ammissibili](output/decreto-fl-30-12-2021-all-2.csv) ([file PDF](rawdata/decreto-fl-30-12-2021-all-2.pdf), completi del target PNRR di riferimento individuati in quelli che presentano il valore più elevato dell'indice di vulnerabilità sociale e materiale (IVSM) (qui [il file con questi valori](risorse/Indicatori_Intero_territorio_nazionale.xlsx)), tenendo conto della quota riferita alla progettazione esecutiva e alle opere, in attuazione dell'art. 5 del DPCM del 21 gennaio 2021, per un ammontare complessivo di 4.277.384.625,56 euro.
+Qui la [graduatoria dei progetti ammissibili](output/decreto-fl-30-12-2021-all-2.csv) ([file PDF](risorse/decreto-fl-30-12-2021-all-2.pdf), completi del target PNRR di riferimento individuati in quelli che presentano il valore più elevato dell'indice di vulnerabilità sociale e materiale (IVSM) (qui [il file con questi valori](risorse/Indicatori_Intero_territorio_nazionale.xlsx)), tenendo conto della quota riferita alla progettazione esecutiva e alle opere, in attuazione dell'art. 5 del DPCM del 21 gennaio 2021, per un ammontare complessivo di 4.277.384.625,56 euro.
 
 ### Progetti beneficiari del contributo e comuni attuatori
 
-Qui l'[elenco dei progetti beneficiari](output/decreto-fl-30-12-2021-all-3.csv) ([file PDF](rawdata/decreto-fl-30-12-2021-all-3.pdf) da cui sono stati estratti), completi del target PNRR di riferimento e del comune soggetto attuatore nonché degli importi assegnati per ciascuna annualità sulla base del cronoprogramma e delle risorse disponibili per ciascun esercizio, per un ammontare di progetti finanziati pari a 3.399.271.176,95 euro.
+Qui l'[elenco dei progetti beneficiari](output/decreto-fl-30-12-2021-all-3.csv) ([file PDF](risorse/decreto-fl-30-12-2021-all-3.pdf) da cui sono stati estratti), completi del target PNRR di riferimento e del comune soggetto attuatore nonché degli importi assegnati per ciascuna annualità sulla base del cronoprogramma e delle risorse disponibili per ciascun esercizio, per un ammontare di progetti finanziati pari a 3.399.271.176,95 euro.
