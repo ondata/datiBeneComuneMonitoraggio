@@ -7,6 +7,12 @@
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniAvvisiBandi/output/feed.xml</link>
     <atom:link rel="self" href="https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniAvvisiBandi/output/feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Selezione di n. 80 esperti a supporto della operatività territoriale del Transformation Office nell’ambito del Dipartimento per la trasformazione digitale (DTD) in attuazione della Riforma 1.2 della Missione 1 - Componente 1 Asse 1 del PNRR.</title>
+      <link>https://innovazione.gov.it/dipartimento/posizioni-lavorative-pnrr/</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://innovazione.gov.it/dipartimento/posizioni-lavorative-pnrr/</guid>
+    </item>
+    <item>
       <title>Gara SDAPA a 5 Lotti per HUB del turismo digitale</title>
       <link>https://www.ministeroturismo.gov.it/gara-sdapa-a-5-lotti-per-hub-del-turismo-digitale/</link>
       <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
@@ -173,12 +179,6 @@
       <link>https://www.mite.gov.it/pagina/pnrr-isole-verdi</link>
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://www.mite.gov.it/pagina/pnrr-isole-verdi</guid>
-    </item>
-    <item>
-      <title>“Attrattività dei borghi” – Linea A - Progetti pilota per la rigenerazione culturale, sociale ed economica dei borghi a rischio abbandono e abbandonati</title>
-      <link>https://cultura.gov.it/comunicato/21911</link>
-      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://cultura.gov.it/comunicato/21911</guid>
     </item>
   </channel>
 </rss>
