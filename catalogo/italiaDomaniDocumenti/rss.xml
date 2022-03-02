@@ -5,6 +5,21 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Altro | Audizione del ministro Cingolani sullo stato di attuazione del PNRR del 15/02/2022</title>
+      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/PNRR%20MiTE_Audizione.pdf</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#Altro | Audizione del ministro Colao sullo stato di attuazione del PNRR del 23/02/2022</title>
+      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/Audizione%20del%20ministro%20Colao_con%20COP.pdf</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#Altro | Audizione del ministro Giorgetti sullo stato di attuazione del PNRR del 01/03/2022</title>
+      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/PNRR%20-%20Relazione%20interventi%20MiSE.pdf</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Circolari | Circolare RGS sulla rilevazione periodica avvisi, bandi e altre procedure di attivazione degli investimenti”</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/circolare-rgs-sulla-rilevazione-periodica-avvisi-bandi-e-altre-procedure-di-attivazione-degli-investimenti/Circolare_del_29_ottobre_2021_n_25.pdf</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
@@ -113,21 +128,6 @@
       <title>#Decreti e Regolamenti | Decreto del 24.11.2021 di adozione del fondo a sostegno dell’imprenditorialità femminile</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/doc-31-12/Decreto%20del%2024.11.2021%20imprenditorialita%20femminile.pdf</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#Circolari | Documentazione della misura M1C1-26 - Investimento 5.1: Rifinanziamento e ridefinizione del Fondo 394/81 gestito da SIMEST</title>
-      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/circolare-1---pnrr-394-2021---transizione-digitale-ed-ecologica.pdf</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#Altro | Relazione per orientare le azioni di governo volte a ridurre l’Evasione fiscale derivante da omessa fatturazione</title>
-      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/Relazione-per-orientare-le-azioni-di-governo-volte-a-ridurre-l-Evasione-fiscale-derivante-da-omessa-fatturazione.pdf</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#Decreti e Regolamenti | Guida operativa Do No Significant Harm (DNSH)</title>
-      <link>https://italiadomani.gov.it/content/dam/sogei-ng/dnsh/doc-guida-operativa/20211221_Guida%20operativa%20del%20principio%20DNSH.pdf</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
