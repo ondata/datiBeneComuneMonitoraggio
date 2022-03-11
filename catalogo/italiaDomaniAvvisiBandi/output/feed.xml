@@ -7,6 +7,12 @@
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniAvvisiBandi/output/feed.xml</link>
     <atom:link rel="self" href="https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniAvvisiBandi/output/feed.xml" type="application/rss+xml"/>
     <item>
+      <title>"Procedure per la presentazione delle proposte per interventi finalizzati alla riduzione delle perdite nelle reti di distribuzione dell’acqua, compresa la digitalizzazione e il monitoraggio delle reti a valere sulle risorse del PNRR – M2C4 - I4.2".</title>
+      <link>https://dgdighe.mit.gov.it/categoria/articolo/_investimenti/misura_4_2</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://dgdighe.mit.gov.it/categoria/articolo/_investimenti/misura_4_2</guid>
+    </item>
+    <item>
       <title>ART. 4 DL 152/2021 – MODALITA’ APPLICATIVE PER L’ACCESSO ALLA PIATTAFORMA ONLINE PER LA FRUIZIONE DEL CREDITO D’IMPOSTA DI CUI ALL’ART. 4 DEL DECRETO-LEGGE 6 NOVEMBRE 2021, N. 152</title>
       <link>https://www.ministeroturismo.gov.it/art-4-dl-152-2021-modalita-applicative-per-laccesso-alla-piattaforma-online-per-la-fruizione-del-credito-dimposta-di-cui-allart-4-del-decreto-legge-6-no/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
@@ -173,12 +179,6 @@
       <link>https://cultura.gov.it/borghi</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://cultura.gov.it/borghi</guid>
-    </item>
-    <item>
-      <title>AVVISO M2C.1.1 I 1.2 Linea d’intervento B “Ammodernamento (anche con ampliamento di impianti esistenti) e realizzazione di nuovi impianti per il miglioramento della raccolta, della logistica e del riciclo dei rifiuti in carta e cartone”</title>
-      <link>https://www.mite.gov.it/sites/default/files/archivio/allegati/PNRR/2022_02_15_Avviso_proroga_termini_1.2_LineaB.pdf</link>
-      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.mite.gov.it/sites/default/files/archivio/allegati/PNRR/2022_02_15_Avviso_proroga_termini_1.2_LineaB.pdf</guid>
     </item>
   </channel>
 </rss>
