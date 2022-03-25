@@ -44,7 +44,7 @@ else
 fi
 
 # estrai dati dall'HTML
-scrape <"$folder"/../rawdata/"$nome".html -be "//div[contains(@class, 'notices-card')]" | xq -c '.html.body.div[]|{pa:.div[0].p["#text"],titolo:.div[1].h4["#text"],dataApertura:.div[3].div[1].div[0].div.div?[0].div.span["#text"],dataChiusura:.div[3].div[1].div[0].div.div[1].div.span["#text"],URL:.a["@href"]}' >"$folder"/../output/"$nome"_raw.json
+scrape <"$folder"/../rawdata/"$nome".html -be "//div[contains(@class, 'notices-card')]" | xq -c '.html.body.div[]|{pa:.div[0].p["#text"],titolo:.div[1].h4["#text"],dataApertura:.div[3].div[1]?.div[0].div.div?[0].div.span["#text"],dataChiusura:.div[3].div[1].div[0].div.div[1].div.span["#text"],URL:.a["@href"]}' >"$folder"/../output/"$nome"_raw.json
 
 # aggiungi campi data in formato YYYY-MM-DD
 mlr --json put -S '$dataAperturaDate = strftime(strptime($dataApertura, "%d/%m/%y"),"%Y-%m-%d");$dataChiusuraDate = strftime(strptime($dataChiusura, "%d/%m/%y"),"%Y-%m-%d")' then clean-whitespace then sort -r dataAperturaDate -f titolo "$folder"/../output/"$nome"_raw.json >"$folder"/../output/"$nome"_latest.json
