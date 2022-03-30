@@ -1,8 +1,8 @@
 | titoloFile |
 | --- |
 | [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 gennaio 2021 - 15 marzo 2022](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3210_allegato.pdf) |
-| [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 gennaio 2021 - 1 marzo 2022](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3206_allegato.pdf) |
 | [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 gennaio 2021 - 22 febbraio 2022](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3199_allegato.pdf) |
+| [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 gennaio 2021 - 1 marzo 2022](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3206_allegato.pdf) |
 | [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 gennaio 2021 - 15 febbraio 2022](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3193_allegato.pdf) |
 | [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 gennaio 2021 - 8 febbraio 2022](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3190_allegato.pdf) |
 | [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 gennaio 2021 - 1 febbraio 2022](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3182_allegato.pdf) |
