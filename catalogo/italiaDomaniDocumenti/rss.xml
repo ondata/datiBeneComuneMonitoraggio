@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Presentazioni | Le slide del Webinar “Il principio DNSH nella produzione di energia”</title>
+      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/DNSH_Modulo%204_Produzione%20energia.pptx</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Presentazioni | Le slide del Webinar “Il principio DNSH nelle infrastrutture e nei trasporti”</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/DNSH_Modulo%203_Infrastrutture%20e%20trasporti.pptx</link>
       <pubDate>Wed, 09 Mar 2022 00:00:00 GMT</pubDate>
@@ -122,11 +127,6 @@
     <item>
       <title>#Decreti amministrativi e regolamenti | D.M. MUR n.1320 del 17.12.2021 &quot;Incremento del valore delle borse di studio e requisiti di eleggibilità&quot;</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/doc-31-12/D.M_1320_17.12.2021.pdf</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#Decreti amministrativi e regolamenti | DPCM del 23.12.2021 di approvazione Programma di controllo dell’inquinamento atmosferico</title>
-      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/doc-31-12/DPCM%20inquinamento%20atmosferico.pdf</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
