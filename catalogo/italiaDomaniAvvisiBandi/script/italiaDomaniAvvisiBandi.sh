@@ -30,6 +30,8 @@ selflink="https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDom
 # URL pagina avvisi
 URL="https://italiadomani.gov.it/it/bandi-e-avvisi/jcr:content/root/container/noticessearch.searchResults.html?orderby=%2540jcr%253Acontent%252FstartDate&sort=desc"
 
+URLallegati="https://italiadomani.gov.it"
+
 ### anagrafica ###
 
 # estrai codici di risposta HTTP e scarica pagina
@@ -47,7 +49,7 @@ fi
 scrape <"$folder"/../rawdata/"$nome".html -be "//div[contains(@class, 'notices-card')]" | xq -c '.html.body.div[]|{pa:.div[0].p["#text"],titolo:.div[1].h4["#text"],dataApertura:.div[3].div[1]?.div[0].div.div?[0].div.span["#text"],dataChiusura:.div[3].div[1].div[0].div.div[1].div.span["#text"],URL:.a["@href"]}' >"$folder"/../output/"$nome"_raw.json
 
 # aggiungi campi data in formato YYYY-MM-DD
-mlr --json put -S '$dataAperturaDate = strftime(strptime($dataApertura, "%d/%m/%y"),"%Y-%m-%d");$dataChiusuraDate = strftime(strptime($dataChiusura, "%d/%m/%y"),"%Y-%m-%d")' then clean-whitespace then sort -r dataAperturaDate -f titolo "$folder"/../output/"$nome"_raw.json >"$folder"/../output/"$nome"_latest.json
+mlr --json put -S '$dataAperturaDate = strftime(strptime($dataApertura, "%d/%m/%y"),"%Y-%m-%d");$dataChiusuraDate = strftime(strptime($dataChiusura, "%d/%m/%y"),"%Y-%m-%d")' then clean-whitespace then sort -r dataAperturaDate -f titolo then put '$URL=sub($URL,"^/content","https://italiadomani.gov.it/content")' "$folder"/../output/"$nome"_raw.json >"$folder"/../output/"$nome"_latest.json
 
 if [ ! -f "$folder"/../output/"$nome"_archivio.json ]; then
   cp "$folder"/../output/"$nome"_latest.json "$folder"/../output/"$nome"_archivio.json
