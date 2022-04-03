@@ -5,6 +5,7 @@ on:
   repository_dispatch:
   schedule:
     - cron:  '15 2 */1 * *'
+  workflow_dispatch:
 
 jobs:
   scheduled:
