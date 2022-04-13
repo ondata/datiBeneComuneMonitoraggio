@@ -85,6 +85,6 @@ if [ $code -eq 200 ]; then
     then unsparsify \
     then sort -f dataReport \
     then reorder -e -f url \
-    then rename titolo,titoloPagina "$folder"/processing/anagraficaPagine.csv >"$folder"/rawdata/tmp.csv
+    then rename titolo,titoloPagina then sort -r url "$folder"/processing/anagraficaPagine.csv >"$folder"/rawdata/tmp.csv
   mv "$folder"/rawdata/tmp.csv "$folder"/../output/"$nome".csv
 fi
