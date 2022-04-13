@@ -12,6 +12,8 @@ set -e
 set -u
 set -o pipefail
 
+git pull
+
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 mkdir -p "$folder"/../rawdata
