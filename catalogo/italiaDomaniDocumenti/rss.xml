@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Normativa e documenti europei | Decisione di esecuzione della Commissione Ue sulla prima rata dei fondi PNRR</title>
+      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/COMMISSION_IMPLEMENTING_DECISION_IT.pdf</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Presentazioni | Le slide del Webinar “Il principio DNSH nella produzione di energia”</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/DNSH_Modulo%204_Produzione%20energia.pptx</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
@@ -65,7 +70,7 @@
       <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Presentazioni | Le slide del Webinar ‘Il principio DNSH: adempimenti per enti locali e progettisti’</title>
+      <title>#Presentazioni | Le slide del Webinar &quot;Il principio DNSH: adempimenti per enti locali e progettisti&quot;</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/Slide%20DNSH%200302.pptx</link>
       <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
     </item>
@@ -100,7 +105,7 @@
       <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida | CIRCOLARE n.11254 del 29.05.2020 “Linee di indirizzo organizzative per il potenziamento della rete ospedaliera per emergenza Covid-19”</title>
+      <title>#Circolari, linee guida | Circolare n.11254 del 29.05.2020 “Linee di indirizzo organizzative per il potenziamento della rete ospedaliera per emergenza Covid-19”</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/Min-Sal-circolare-11254_potenziamento-rete-ospedaliera_29-mag-20.pdf</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
     </item>
@@ -123,11 +128,6 @@
       <title>#Altro | M6C2 &quot;Riordino della rete ospedaliera in emergenza COVID-19 _Dotazione posti letto&quot; - Manuale utente</title>
       <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/Allegato-2-Circolare-DGPROGS-DGRUPS-29-5-20-MANUALE-UTENTE-REGIONE.pdf</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#Decreti amministrativi e regolamenti | D.M. MUR n.1320 del 17.12.2021 &quot;Incremento del valore delle borse di studio e requisiti di eleggibilità&quot;</title>
-      <link>https://italiadomani.gov.it/content/dam/sogei-ng/documenti/doc-31-12/D.M_1320_17.12.2021.pdf</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
