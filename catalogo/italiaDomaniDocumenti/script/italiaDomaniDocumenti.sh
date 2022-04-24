@@ -13,7 +13,9 @@ mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
 mkdir -p "$folder"/../output
 
-URLBase="https://italiadomani.gov.it/it/strumenti/documenti/jcr:content/root/container/documentssearch.searchResults.html?orderby=%2540jcr%253Acontent%252Fdate&sort=desc"
+#URLBase="https://italiadomani.gov.it/it/strumenti/documenti/jcr:content/root/container/documentssearch.searchResults.html?orderby=%2540jcr%253Acontent%252Fdate&sort=desc"
+
+URLBase="https://italiadomani.gov.it/it/strumenti/documenti/archivio-documenti/jcr:content/root/container/documentssearch.searchResults.html?orderby=%40jcr%3Acontent%2Fdate&sort=desc"
 
 # controlla risposta pHTTP agina e scarica elenco dei documenti
 code=$(curl -s -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' -o "$folder"/rawdata/tmp.html -w "%{http_code}" "$URLBase")
@@ -27,8 +29,11 @@ else
   exit 1
 fi
 
+
 # estrai tipo e autore documento
-scrape <"$folder"/rawdata/tmp.html -be "//div[@class='banner-documents']" | xq -c '.html.body.div[]|{type:.span[0]."#text",author:.span[1]."#text"}' | mlr --json cat -n >"$folder"/rawdata/tmpTypeAuthor.json
+#scrape <"$folder"/rawdata/tmp.html -be "//div[@class='banner-documents']" | xq -c '.html.body.div[]|{type:.span[0]."#text",author:.span[1]."#text"}' | mlr --json cat -n >"$folder"/rawdata/tmpTypeAuthor.json
+scrape <"$folder"/rawdata/tmp.html -be "//div[@class='banner-documents']" | xq -c '.html.body.div[]|{type:(.span|if type=="array" then .[0]["#text"] else .["#text"] end),author:(.span|if type=="array" then .[1]["#text"] else "" end)}' | mlr --json cat -n >"$folder"/rawdata/tmpTypeAuthor.json
+
 
 # estrai data, titolo e path documento
 scrape <"$folder"/rawdata/tmp.html -be "//div[@data-cmp-hook-search='wrapper']" | xq -c '.html.body.div[]|{
@@ -42,6 +47,7 @@ mlr -I --json cat -n "$folder"/rawdata/tmp_data.json
 
 # join tra dati con dati su tipo e autore
 mlr --json join --ul -j n -f "$folder"/rawdata/tmp_data.json then unsparsify then put -S '$datetime = strftime(strptime($date, "%d/%m/%y"),"%Y-%m-%d");$URL="https://italiadomani.gov.it".$path' then sort -r datetime -f title then clean-whitespace then reorder -f date,type,author,title,path,datetime,URL "$folder"/rawdata/tmpTypeAuthor.json >"$folder"/../output/latest.json
+
 
 # estrai tag dei documenti
 scrape <"$folder"/rawdata/tmp.html -be '//div[@class="banner-documents"]' | xq '.html.body.div[]' | mlr --json cat -n then unsparsify then cut -r -f '^(n|.*div.+text.*)$' then reshape -r "div" -o i,v then filter -x -S '$v==""' then cut -x -f i then nest --implode --values --across-records -f v then rename v,tag >"$folder"/rawdata/tmpTag.json
