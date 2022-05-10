@@ -5,6 +5,16 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Leggi, decreti legislativi e decreti-legge | DL 152/2021 recante disposizioni urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR) e per la prevenzione delle infiltrazioni mafiose</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#Leggi, decreti legislativi e decreti-legge | DL 36/2022 recante ulteriori misure urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR).</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Normativa e documenti europei | Decisione di esecuzione della Commissione Ue sulla prima rata dei fondi PNRR</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 GMT</pubDate>
@@ -115,17 +125,7 @@
       <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Altro | M1C1-23 - Investimento 4.2 - &quot;Fondi integrati per la competitività delle imprese turistiche&quot; - Documentazione relativa alla misura</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>#Altro | M1C3-8 - Investimento 4.1 - &quot;Hub del turismo digitale&quot; - Documentazione relativa alla misura</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#Altro | M6C2 &quot;Riordino della rete ospedaliera in emergenza COVID-19 _Dotazione posti letto&quot; - Manuale utente</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
     </item>
