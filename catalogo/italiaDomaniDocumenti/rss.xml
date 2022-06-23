@@ -5,14 +5,24 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
-      <title>#Circolari, linee guida | Circolare n.27 del 21.06.2022 “Monitoraggio delle misure PNRR”</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>#Circolari, linee guida | Circolare n. 26 del 14.06.2022 “Rendicontazione Milestone/Target connessi alla seconda Richiesta di pagamento alla C.E. prevista per il 28 giugno 2022”</title>
       <link>https://italiadomani.gov.it</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#Circolari, linee guida | Circolare n.21 del 29.04.2022 “Chiarimenti in relazione alla disciplina nazionale in materia di contratti pubblici richiamata nei dispositivi attuativi relativi agli interventi PNRR e PNC”</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#Circolari, linee guida | Circolare n.27 del 21.06.2022 “Monitoraggio delle misure PNRR”</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#Circolari, linee guida | Circolare n.31 del 14.12.2021 “Rendicontazione PNRR al 31.12.2021 - Trasmissione dichiarazione di gestione e check-list relativa a milestone e target</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>#Circolari, linee guida | Circolare n.6 del 13/06/2022 recante Contrasto alle infiltrazioni mafiose nell’ambito della realizzazione delle progettualità inerenti al Piano Nazionale di Ripresa e di Resilienza (PNRR).</title>
@@ -28,11 +38,6 @@
       <title>#Leggi, decreti legislativi e decreti-legge | DL 36/2022 recante ulteriori misure urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR).</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#Circolari, linee guida | Circolare n.21 del 29.04.2022 “Chiarimenti in relazione alla disciplina nazionale in materia di contratti pubblici richiamata nei dispositivi attuativi relativi agli interventi PNRR e PNC”</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>#Normativa e documenti europei | Decisione di esecuzione della Commissione Ue sulla prima rata dei fondi PNRR</title>
@@ -123,11 +128,6 @@
       <title>#Circolari, linee guida | Linee guida per i contratti pubblici finanziati con le risorse del PNRR e del PNC, volte a favorire le pari opportunità di genere e generazionali e l’inclusione lavorativa delle persone con disabilità.</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#Decreti amministrativi e regolamenti | M6C2-4 Piano di riorganizzazione delle strutture ospedalierie per l'emergenza pandemica</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
