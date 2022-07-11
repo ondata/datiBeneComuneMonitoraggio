@@ -1,11 +1,11 @@
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/indicatori/output/indicatori","job_id":"spn2-d3efdbcff29b78c424f296c47cda4e9a6593617e"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/monitoraggioSettimanale/output/monitoraggioSettimanale","job_id":"spn2-6758c7414c30cef44e2d406b6d643f2134c15ef0"}
-{"url":"https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/sorveglianzaIntegrata/output/sorveglianzaIntegrata","job_id":"spn2-128de19ba96879e9b12c7b755b7ab88ce6d86d26"}
-{"url":"https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/elenco-verbali.md","job_id":"spn2-053880ad259e5fee7668bb414dbff09064160b27"}
-{"message":"You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.","status":"error","status_ext":"error:user-session-limit"}
-{"message":"You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.","status":"error","status_ext":"error:user-session-limit"}
-{"message":"You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.","status":"error","status_ext":"error:user-session-limit"}
-{"message":"You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.","status":"error","status_ext":"error:user-session-limit"}
-{"url":"http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano","job_id":"spn2-c62199ef77ab23634ab94a9567654b31208144dd"}
-{"url":"http://www.senato.it/leg/18/BGT/Schede/docnonleg/41806.htm","job_id":"spn2-453cd7a0f8b86e1a1c8c60fe100fff7178510d45"}
-{"url":"https://italiadomani.gov.it/it/documenti-pnrr.html","job_id":"spn2-60ac6436ed2da4a31531531e1be2d0914daf2ccb"}
+{"exception":"Command # 1 (LLEN spn2-api) of pipeline caused error: OOM command not allowed when used memory > 'maxmemory'.","message":"Cannot start capture","status":"error","status_ext":"error:celery"}
+{"exception":"Command # 1 (LLEN spn2-api) of pipeline caused error: OOM command not allowed when used memory > 'maxmemory'.","message":"Cannot start capture","status":"error","status_ext":"error:celery"}
+{"exception":"Command # 1 (LLEN spn2-api) of pipeline caused error: OOM command not allowed when used memory > 'maxmemory'.","message":"Cannot start capture","status":"error","status_ext":"error:celery"}
+{"exception":"Command # 1 (LLEN spn2-api) of pipeline caused error: OOM command not allowed when used memory > 'maxmemory'.","message":"Cannot start capture","status":"error","status_ext":"error:celery"}
+{"exception":"Command # 1 (LLEN spn2-api) of pipeline caused error: OOM command not allowed when used memory > 'maxmemory'.","message":"Cannot start capture","status":"error","status_ext":"error:celery"}
+{"exception":"Command # 1 (LLEN spn2-api) of pipeline caused error: OOM command not allowed when used memory > 'maxmemory'.","message":"Cannot start capture","status":"error","status_ext":"error:celery"}
+{"exception":"Command # 1 (LLEN spn2-api) of pipeline caused error: OOM command not allowed when used memory > 'maxmemory'.","message":"Cannot start capture","status":"error","status_ext":"error:celery"}
+{"exception":"Command # 1 (LLEN spn2-api) of pipeline caused error: OOM command not allowed when used memory > 'maxmemory'.","message":"Cannot start capture","status":"error","status_ext":"error:celery"}
+{"exception":"Command # 1 (LLEN spn2-api) of pipeline caused error: OOM command not allowed when used memory > 'maxmemory'.","message":"Cannot start capture","status":"error","status_ext":"error:celery"}
+{"exception":"Command # 1 (LLEN spn2-api) of pipeline caused error: OOM command not allowed when used memory > 'maxmemory'.","message":"Cannot start capture","status":"error","status_ext":"error:celery"}
+{"exception":"Command # 1 (LLEN spn2-api) of pipeline caused error: OOM command not allowed when used memory > 'maxmemory'.","message":"Cannot start capture","status":"error","status_ext":"error:celery"}
