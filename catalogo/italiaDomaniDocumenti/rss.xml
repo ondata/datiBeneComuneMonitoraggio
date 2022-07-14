@@ -5,6 +5,21 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Altro | M1C2-16 – Investimento 3 “Connessioni Internet veloci (banda ultra-larga e 5G)” - Avvisi di aggiudicazione appalto per progetti di connessione veloce</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#Decreti amministrativi e regolamenti | M4C2-18 - Investimento 1.5: Creazione e rafforzamento di &quot;ecosistemi dell'innovazione per la sostenibilità&quot;, creazione di &quot;leader territoriali di R&amp;S&quot; – Decreti di concessione dei finanziamenti</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#Decreti amministrativi e regolamenti | M4C2-19 - Investimento 1.4: Potenziamento strutture di ricerca e creazione di &quot;campioni nazionali di R&amp;S&quot; su alcune Key Enabling Technologies – Decreti di concessione dei finanziamenti</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Circolari, linee guida | Circolare n. 26 del 14.06.2022 “Rendicontazione Milestone/Target connessi alla seconda Richiesta di pagamento alla C.E. prevista per il 28 giugno 2022”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
@@ -113,21 +128,6 @@
       <title>#Presentazioni | Le slide del Webinar “Il principio DNSH nei lavori per edificazioni e ristrutturazioni”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#Altro | Progetto &quot;Turismo delle Radici&quot; - accordo tra Mic e Maeci</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#Altro | Lista esperti e professionisti incaricati dalle Regioni e dalle Province Autonome all’esito delle procedure selettive</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#Circolari, linee guida | Linee guida per i contratti pubblici finanziati con le risorse del PNRR e del PNC, volte a favorire le pari opportunità di genere e generazionali e l’inclusione lavorativa delle persone con disabilità.</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
