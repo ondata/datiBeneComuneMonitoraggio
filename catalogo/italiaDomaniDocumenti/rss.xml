@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Italia | Circolare n.30 dell’11.08.2022 “Circolare sulle procedure di controllo e rendicontazione delle misure PNRR”</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Circolari, linee guida | Circolare n.29 del 26.07.2022 “Modalità di erogazione delle risorse PNRR e principali modalità di contabilizzazione da parte degli enti territoriali soggetti attuatori”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
@@ -121,11 +126,6 @@
     </item>
     <item>
       <title>#Circolari, linee guida | Circolare n.9 del 10.02.2022, &quot;Trasmissione delle Istruzioni tecniche per la redazione dei sistemi di gestione e controllo delle amministrazioni centrali titolari di interventi&quot;</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#Circolari, linee guida | Nota di chiarimento sulla Circolare n.21 del 14 ottobre 2021 &quot;Trasmissione delle Istruzioni Tecniche per la selezione dei progetti PNRR - Addizionalità, finanziamento complementare e obbligo di assenza del c.d. doppio finanziamento&quot;</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
     </item>
