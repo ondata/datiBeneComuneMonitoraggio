@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Circolari, linee guida, Leggi, decreti legislativi e decreti-legge | Circolare n.34 del 17 ottobre 2022 “Linee guida metodologiche per la rendicontazione degli indicatori comuni per il Piano nazionale di ripresa e resilienza”</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Circolari, linee guida | Seconda Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Wed, 05 Oct 2022 00:00:00 GMT</pubDate>
@@ -120,14 +125,9 @@
       <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida | Audizione del Min. Giorgetti del 1 marzo 2022 relativa allo stato di attuazione del PNRR</title>
+      <title># | Audizione del Min. Giorgetti del 1 marzo 2022 relativa allo stato di attuazione del PNRR</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title># | Circolare n.25 del 29.10.2021, &quot;Rilevazione periodica avvisi, bandi e altre procedure di attivazione degli investimenti&quot;</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
