@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Decreti amministrativi e regolamenti | Decreto del Ragioniere generale dello Stato n.160 del 18 novembre 2022 – Assegnazione risorse del Fondo per l’avvio delle opere indifferibili</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Circolari, linee guida | Circolare n.37 del 09.11.2022 “Procedura “semplificata” di cui all’articolo 7 del DPCM 28 luglio 2022 e articolo 29 del decreto-legge n. 144 del 2022: rimodulazioni e verifiche in itinere ed ex post.”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Wed, 09 Nov 2022 00:00:00 GMT</pubDate>
@@ -120,14 +125,9 @@
       <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Presentazioni | Le slide del Webinar “Il principio DNSH nelle infrastrutture e nei trasporti”</title>
+      <title># | Le slide del Webinar “Il principio DNSH nelle infrastrutture e nei trasporti”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Wed, 09 Mar 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title># | Le slide del Webinar “Il principio DNSH nella gestione dei rifiuti”</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
