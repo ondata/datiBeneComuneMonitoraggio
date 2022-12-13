@@ -1,5 +1,14 @@
 [
 {
+  "date": "13/12/22",
+  "type": "Circolari, linee guida",
+  "author": "",
+  "title": "Circolare n.41 del 7.12.2022 “Piano Nazionale di Ripresa e Resilienza (PNRR) - Rendicontazione milestone/target connessi alla terza “Richiesta di pagamento” alla C.E.”",
+  "path": null,
+  "datetime": "2022-12-13",
+  "URL": "https://italiadomani.gov.it"
+},
+{
   "date": "24/11/22",
   "type": "Decreti amministrativi e regolamenti",
   "author": "Italia",
@@ -138,15 +147,6 @@
   "date": "22/06/22",
   "type": "Circolari, linee guida",
   "author": "",
-  "title": "Circolare n.21 del 29.04.2022 “Chiarimenti in relazione alla disciplina nazionale in materia di contratti pubblici richiamata nei dispositivi attuativi relativi agli interventi PNRR e PNC”",
-  "path": null,
-  "datetime": "2022-06-22",
-  "URL": "https://italiadomani.gov.it"
-},
-{
-  "date": "22/06/22",
-  "type": "Circolari, linee guida",
-  "author": "",
   "title": "Circolare n.31 del 14.12.2021 “Rendicontazione PNRR al 31.12.2021 - Trasmissione dichiarazione di gestione e check-list relativa a milestone e target",
   "path": null,
   "datetime": "2022-06-22",
@@ -157,6 +157,15 @@
   "type": "Circolari, linee guida",
   "author": "",
   "title": "Circolare n. 26 del 14.06.2022 “Rendicontazione Milestone/Target connessi alla seconda Richiesta di pagamento alla C.E. prevista per il 28 giugno 2022”",
+  "path": null,
+  "datetime": "2022-06-22",
+  "URL": "https://italiadomani.gov.it"
+},
+{
+  "date": "22/06/22",
+  "type": "Circolari, linee guida",
+  "author": "",
+  "title": "Circolare n.21 del 29.04.2022 “Chiarimenti in relazione alla disciplina nazionale in materia di contratti pubblici richiamata nei dispositivi attuativi relativi agli interventi PNRR e PNC”",
   "path": null,
   "datetime": "2022-06-22",
   "URL": "https://italiadomani.gov.it"
@@ -208,20 +217,11 @@
 },
 {
   "date": "31/03/22",
-  "type": "Presentazioni",
+  "type": "",
   "author": "",
   "title": "Le slide del Webinar “Il principio DNSH nella produzione di energia”",
   "path": null,
   "datetime": "2022-03-31",
-  "URL": "https://italiadomani.gov.it"
-},
-{
-  "date": "09/03/22",
-  "type": "",
-  "author": "",
-  "title": "Le slide del Webinar “Il principio DNSH nelle infrastrutture e nei trasporti”",
-  "path": null,
-  "datetime": "2022-03-09",
   "URL": "https://italiadomani.gov.it"
 }
 ]
