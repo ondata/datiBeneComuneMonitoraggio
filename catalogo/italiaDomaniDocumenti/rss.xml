@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Circolari, linee guida | Circolare n.43 del 14.12.2022 “Interventi PNRR gestiti sul modulo finanziario del sistema ReGiS. Operazioni contabili esercizio finanziario 2022”</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Circolari, linee guida | Circolare n.41 del 7.12.2022 “Piano Nazionale di Ripresa e Resilienza (PNRR) - Rendicontazione milestone/target connessi alla terza “Richiesta di pagamento” alla C.E.”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
@@ -120,14 +125,9 @@
       <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Presentazioni | Decisione di esecuzione della Commissione Ue sulla prima rata dei fondi PNRR</title>
+      <title># | Decisione di esecuzione della Commissione Ue sulla prima rata dei fondi PNRR</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title># | Le slide del Webinar “Il principio DNSH nella produzione di energia”</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
