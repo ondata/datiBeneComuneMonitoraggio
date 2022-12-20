@@ -1,5 +1,5 @@
 original,mimetype,timestamp,endtimestamp,groupcount,uniqcount
-https://www.epicentro.iss.it/coronavirus/bollettino/,warc/revisit,20200610010301,20220811080801,7,2
+https://www.epicentro.iss.it/coronavirus/bollettino/,warc/revisit,20200610010301,20221219101306,8,2
 http://www.epicentro.iss.it/coronavirus/bollettino%20/Report-COVID-2019_20_marzo_eng.pdf,unk,20220617103946,20220617103946,1,1
 http://epicentro.iss.it/CORONAVIRUS/BOLLETTINO-SORVEGLIANZA-INTEGRATA-COVID-19_23-NOVEMBRE-2022.PDF,unk,20221130162747,20221130162747,1,1
 http://www.epicentro.iss.it/coronavirus/bollettino-sorveglianza-integrata-COVID-19_8-settembre-2021.pdf,text/html,20211117225133,20211118074929,4,1
@@ -177,7 +177,7 @@ https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-inte
 https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19.pdf,text/html,20210517170922,20210517170922,1,1
 https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19%5C_10-novembre-2021.pdf,text/html,20211216180207,20211216180207,1,1
 http://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_,unk,20221017141559,20221017141559,1,1
-https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_09-marzo-2020.pdf,application/pdf,20200313060654,20221218040729,1108,4
+https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_09-marzo-2020.pdf,application/pdf,20200313060654,20221219101403,1109,4
 https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_1-,text/html,20220819050527,20221005215242,2,2
 https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_1-%20%20settembre-2021.pdf,text/html,20211204142538,20211204142538,1,1
 https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_1-dicembre-2021.pdf,application/pdf,20211204164005,20221215040856,384,5
@@ -219,8 +219,8 @@ https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-inte
 https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_13-ottobre-2021.pdf,application/pdf,20211016125621,20221210040900,443,4
 https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_13-ottobre2020.pdf,text/html,20220309034218,20220309034218,1,1
 https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_14-aprile-2021.pdf,application/pdf,20210417212623,20221216040726,636,3
-https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_14-dicembre-2022.pdf,application/pdf,20221218042224,20221218043905,2,1
-https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_14-dicembre-2022_appendix.pdf,application/pdf,20221218042224,20221218043853,2,1
+https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_14-dicembre-2022.pdf,application/pdf,20221218042224,20221219044719,3,1
+https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_14-dicembre-2022_appendix.pdf,application/pdf,20221218042224,20221219044721,3,1
 https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_14-luglio,text/html,20220520070313,20220520070313,1,1
 https://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_14-luglio-2020.pdf,application/pdf,20200718075610,20221206040720,973,2
 http://www.epicentro.iss.it/coronavirus/bollettino/Bollettino-sorveglianza-integrata-COVID-19_14-luglio-2020.pdf3,unk,20221010193938,20221010193938,1,1
