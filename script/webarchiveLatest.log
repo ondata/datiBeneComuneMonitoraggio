@@ -7,5 +7,5 @@
 {"message":"You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.","status":"error","status_ext":"error:user-session-limit"}
 {"message":"You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.","status":"error","status_ext":"error:user-session-limit"}
 {"message":"You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.","status":"error","status_ext":"error:user-session-limit"}
-{"message":"You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.","status":"error","status_ext":"error:user-session-limit"}
-{"message":"You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.","status":"error","status_ext":"error:user-session-limit"}
+{"url":"http://www.senato.it/leg/18/BGT/Schede/docnonleg/41806.htm","job_id":"spn2-453cd7a0f8b86e1a1c8c60fe100fff7178510d45"}
+{"message":"Please try again in ~39 min. Crawling this host is paused because they notified us that they are overloaded right now.","status":"error","status_ext":"error:host-crawling-paused"}
