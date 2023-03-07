@@ -1,5 +1,14 @@
 [
 {
+  "date": "24/02/23",
+  "type": "Leggi, decreti legislativi e decreti-legge",
+  "author": "Italia",
+  "title": "DECRETO-LEGGE 24 febbraio 2023, n. 13",
+  "path": null,
+  "datetime": "2023-02-24",
+  "URL": "https://italiadomani.gov.it"
+},
+{
   "date": "15/12/22",
   "type": "Circolari, linee guida",
   "author": "Italia",
@@ -165,6 +174,15 @@
   "date": "22/06/22",
   "type": "Circolari, linee guida",
   "author": "",
+  "title": "Circolare n.21 del 29.04.2022 “Chiarimenti in relazione alla disciplina nazionale in materia di contratti pubblici richiamata nei dispositivi attuativi relativi agli interventi PNRR e PNC”",
+  "path": null,
+  "datetime": "2022-06-22",
+  "URL": "https://italiadomani.gov.it"
+},
+{
+  "date": "22/06/22",
+  "type": "Circolari, linee guida",
+  "author": "",
   "title": "Circolare n.31 del 14.12.2021 “Rendicontazione PNRR al 31.12.2021 - Trasmissione dichiarazione di gestione e check-list relativa a milestone e target",
   "path": null,
   "datetime": "2022-06-22",
@@ -175,15 +193,6 @@
   "type": "Circolari, linee guida",
   "author": "",
   "title": "Circolare n. 26 del 14.06.2022 “Rendicontazione Milestone/Target connessi alla seconda Richiesta di pagamento alla C.E. prevista per il 28 giugno 2022”",
-  "path": null,
-  "datetime": "2022-06-22",
-  "URL": "https://italiadomani.gov.it"
-},
-{
-  "date": "22/06/22",
-  "type": "Circolari, linee guida",
-  "author": "",
-  "title": "Circolare n.21 del 29.04.2022 “Chiarimenti in relazione alla disciplina nazionale in materia di contratti pubblici richiamata nei dispositivi attuativi relativi agli interventi PNRR e PNC”",
   "path": null,
   "datetime": "2022-06-22",
   "URL": "https://italiadomani.gov.it"
@@ -208,18 +217,9 @@
 },
 {
   "date": "10/05/22",
-  "type": "Leggi, decreti legislativi e decreti-legge",
-  "author": "",
-  "title": "DL 36/2022 recante ulteriori misure urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR).",
-  "path": null,
-  "datetime": "2022-05-10",
-  "URL": "https://italiadomani.gov.it"
-},
-{
-  "date": "10/05/22",
   "type": "",
   "author": "",
-  "title": "DL 152/2021 recante disposizioni urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR) e per la prevenzione delle infiltrazioni mafiose",
+  "title": "DL 36/2022 recante ulteriori misure urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR).",
   "path": null,
   "datetime": "2022-05-10",
   "URL": "https://italiadomani.gov.it"

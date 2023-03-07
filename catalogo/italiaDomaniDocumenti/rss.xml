@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Leggi, decreti legislativi e decreti-legge | DECRETO-LEGGE 24 febbraio 2023, n. 13</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Circolari, linee guida | Circolare n.43 del 14.12.2022 “Interventi PNRR gestiti sul modulo finanziario del sistema ReGiS. Operazioni contabili esercizio finanziario 2022”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
@@ -120,12 +125,7 @@
       <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title># | DL 152/2021 recante disposizioni urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR) e per la prevenzione delle infiltrazioni mafiose</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#Leggi, decreti legislativi e decreti-legge | DL 36/2022 recante ulteriori misure urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR).</title>
+      <title># | DL 36/2022 recante ulteriori misure urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR).</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
     </item>
