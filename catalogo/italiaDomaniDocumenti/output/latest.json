@@ -1,5 +1,14 @@
 [
 {
+  "date": "20/03/23",
+  "type": "Circolari, linee guida",
+  "author": "Italia",
+  "title": "Circolare del 13 marzo 2023, n. 10",
+  "path": null,
+  "datetime": "2023-03-20",
+  "URL": "https://italiadomani.gov.it"
+},
+{
   "date": "24/02/23",
   "type": "Leggi, decreti legislativi e decreti-legge",
   "author": "Italia",
@@ -174,6 +183,15 @@
   "date": "22/06/22",
   "type": "Circolari, linee guida",
   "author": "",
+  "title": "Circolare n.21 del 29.04.2022 “Chiarimenti in relazione alla disciplina nazionale in materia di contratti pubblici richiamata nei dispositivi attuativi relativi agli interventi PNRR e PNC”",
+  "path": null,
+  "datetime": "2022-06-22",
+  "URL": "https://italiadomani.gov.it"
+},
+{
+  "date": "22/06/22",
+  "type": "Circolari, linee guida",
+  "author": "",
   "title": "Circolare n.31 del 14.12.2021 “Rendicontazione PNRR al 31.12.2021 - Trasmissione dichiarazione di gestione e check-list relativa a milestone e target",
   "path": null,
   "datetime": "2022-06-22",
@@ -192,15 +210,6 @@
   "date": "22/06/22",
   "type": "Circolari, linee guida",
   "author": "",
-  "title": "Circolare n.21 del 29.04.2022 “Chiarimenti in relazione alla disciplina nazionale in materia di contratti pubblici richiamata nei dispositivi attuativi relativi agli interventi PNRR e PNC”",
-  "path": null,
-  "datetime": "2022-06-22",
-  "URL": "https://italiadomani.gov.it"
-},
-{
-  "date": "22/06/22",
-  "type": "Circolari, linee guida",
-  "author": "",
   "title": "Circolare n.27 del 21.06.2022 “Monitoraggio delle misure PNRR”",
   "path": null,
   "datetime": "2022-06-22",
@@ -208,20 +217,11 @@
 },
 {
   "date": "13/06/22",
-  "type": "Leggi, decreti legislativi e decreti-legge",
+  "type": "",
   "author": "",
   "title": "Circolare n.6 del 13/06/2022 recante Contrasto alle infiltrazioni mafiose nell’ambito della realizzazione delle progettualità inerenti al Piano Nazionale di Ripresa e di Resilienza (PNRR).",
   "path": null,
   "datetime": "2022-06-13",
-  "URL": "https://italiadomani.gov.it"
-},
-{
-  "date": "10/05/22",
-  "type": "",
-  "author": "",
-  "title": "DL 36/2022 recante ulteriori misure urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR).",
-  "path": null,
-  "datetime": "2022-05-10",
   "URL": "https://italiadomani.gov.it"
 }
 ]

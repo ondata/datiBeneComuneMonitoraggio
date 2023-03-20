@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Circolari, linee guida | Circolare del 13 marzo 2023, n. 10</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Leggi, decreti legislativi e decreti-legge | DECRETO-LEGGE 24 febbraio 2023, n. 13</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
@@ -120,14 +125,9 @@
       <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Leggi, decreti legislativi e decreti-legge | Circolare n.6 del 13/06/2022 recante Contrasto alle infiltrazioni mafiose nell’ambito della realizzazione delle progettualità inerenti al Piano Nazionale di Ripresa e di Resilienza (PNRR).</title>
+      <title># | Circolare n.6 del 13/06/2022 recante Contrasto alle infiltrazioni mafiose nell’ambito della realizzazione delle progettualità inerenti al Piano Nazionale di Ripresa e di Resilienza (PNRR).</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title># | DL 36/2022 recante ulteriori misure urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR).</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
