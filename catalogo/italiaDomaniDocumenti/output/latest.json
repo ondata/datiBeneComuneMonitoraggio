@@ -1,5 +1,14 @@
 [
 {
+  "date": "28/04/23",
+  "type": "Circolari, linee guida",
+  "author": "Italia",
+  "title": "Circolare n. 19 del 27.04.2023 “Utilizzo del sistema ReGiS per gli adempimenti PNRR e modalità di attivazione delle anticipazioni di cassa a valere sulle contabilità di tesoreria NGEU”",
+  "path": null,
+  "datetime": "2023-04-28",
+  "URL": "https://italiadomani.gov.it"
+},
+{
   "date": "20/03/23",
   "type": "Circolari, linee guida",
   "author": "Italia",
@@ -183,6 +192,15 @@
   "date": "22/06/22",
   "type": "Circolari, linee guida",
   "author": "",
+  "title": "Circolare n.21 del 29.04.2022 “Chiarimenti in relazione alla disciplina nazionale in materia di contratti pubblici richiamata nei dispositivi attuativi relativi agli interventi PNRR e PNC”",
+  "path": null,
+  "datetime": "2022-06-22",
+  "URL": "https://italiadomani.gov.it"
+},
+{
+  "date": "22/06/22",
+  "type": "Circolari, linee guida",
+  "author": "",
   "title": "Circolare n.31 del 14.12.2021 “Rendicontazione PNRR al 31.12.2021 - Trasmissione dichiarazione di gestione e check-list relativa a milestone e target",
   "path": null,
   "datetime": "2022-06-22",
@@ -199,29 +217,11 @@
 },
 {
   "date": "22/06/22",
-  "type": "Circolari, linee guida",
-  "author": "",
-  "title": "Circolare n.21 del 29.04.2022 “Chiarimenti in relazione alla disciplina nazionale in materia di contratti pubblici richiamata nei dispositivi attuativi relativi agli interventi PNRR e PNC”",
-  "path": null,
-  "datetime": "2022-06-22",
-  "URL": "https://italiadomani.gov.it"
-},
-{
-  "date": "22/06/22",
-  "type": "Circolari, linee guida",
+  "type": "",
   "author": "",
   "title": "Circolare n.27 del 21.06.2022 “Monitoraggio delle misure PNRR”",
   "path": null,
   "datetime": "2022-06-22",
-  "URL": "https://italiadomani.gov.it"
-},
-{
-  "date": "13/06/22",
-  "type": "",
-  "author": "",
-  "title": "Circolare n.6 del 13/06/2022 recante Contrasto alle infiltrazioni mafiose nell’ambito della realizzazione delle progettualità inerenti al Piano Nazionale di Ripresa e di Resilienza (PNRR).",
-  "path": null,
-  "datetime": "2022-06-13",
   "URL": "https://italiadomani.gov.it"
 }
 ]

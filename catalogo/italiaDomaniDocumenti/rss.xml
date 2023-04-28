@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Circolari, linee guida | Circolare n. 19 del 27.04.2023 “Utilizzo del sistema ReGiS per gli adempimenti PNRR e modalità di attivazione delle anticipazioni di cassa a valere sulle contabilità di tesoreria NGEU”</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Circolari, linee guida | Circolare del 13 marzo 2023, n. 10</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Mon, 20 Mar 2023 00:00:00 GMT</pubDate>
@@ -115,7 +120,7 @@
       <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida | Circolare n.27 del 21.06.2022 “Monitoraggio delle misure PNRR”</title>
+      <title># | Circolare n.27 del 21.06.2022 “Monitoraggio delle misure PNRR”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
     </item>
@@ -123,11 +128,6 @@
       <title>#Circolari, linee guida | Circolare n.31 del 14.12.2021 “Rendicontazione PNRR al 31.12.2021 - Trasmissione dichiarazione di gestione e check-list relativa a milestone e target</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title># | Circolare n.6 del 13/06/2022 recante Contrasto alle infiltrazioni mafiose nell’ambito della realizzazione delle progettualità inerenti al Piano Nazionale di Ripresa e di Resilienza (PNRR).</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
