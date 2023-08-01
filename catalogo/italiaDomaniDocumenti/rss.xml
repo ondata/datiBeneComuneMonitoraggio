@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Circolari, linee guida | Preliminary assessment</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Circolari, linee guida | Circolare n. 25 del 24.07.2023 “Linee guida operative relative alle modalità di attivazione delle anticipazioni di cassa a valere sulle contabilità di tesoreria NGEU”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
@@ -20,12 +25,12 @@
       <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida | Circolare n. 19 del 27.04.2023 “Utilizzo del sistema ReGiS per gli adempimenti PNRR e modalità di attivazione delle anticipazioni di cassa a valere sulle contabilità di tesoreria NGEU”</title>
+      <title>#Leggi, decreti legislativi e decreti-legge | Circolare n. 19 del 27.04.2023 “Utilizzo del sistema ReGiS per gli adempimenti PNRR e modalità di attivazione delle anticipazioni di cassa a valere sulle contabilità di tesoreria NGEU”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Leggi, decreti legislativi e decreti-legge | Circolare del 13 marzo 2023, n. 10</title>
+      <title>#Circolari, linee guida | Circolare del 13 marzo 2023, n. 10</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Mon, 20 Mar 2023 00:00:00 GMT</pubDate>
     </item>
@@ -35,12 +40,12 @@
       <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida | Circolare n.43 del 14.12.2022 “Interventi PNRR gestiti sul modulo finanziario del sistema ReGiS. Operazioni contabili esercizio finanziario 2022”</title>
+      <title>#Decreti amministrativi e regolamenti | Circolare n.43 del 14.12.2022 “Interventi PNRR gestiti sul modulo finanziario del sistema ReGiS. Operazioni contabili esercizio finanziario 2022”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Decreti amministrativi e regolamenti | Circolare n.41 del 7.12.2022 “Piano Nazionale di Ripresa e Resilienza (PNRR) - Rendicontazione milestone/target connessi alla terza “Richiesta di pagamento” alla C.E.”</title>
+      <title>#Circolari, linee guida | Circolare n.41 del 7.12.2022 “Piano Nazionale di Ripresa e Resilienza (PNRR) - Rendicontazione milestone/target connessi alla terza “Richiesta di pagamento” alla C.E.”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
     </item>
@@ -50,17 +55,17 @@
       <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida | Circolare n.37 del 09.11.2022 “Procedura “semplificata” di cui all’articolo 7 del DPCM 28 luglio 2022 e articolo 29 del decreto-legge n. 144 del 2022: rimodulazioni e verifiche in itinere ed ex post.”</title>
+      <title>#Normativa e documenti europei | Circolare n.37 del 09.11.2022 “Procedura “semplificata” di cui all’articolo 7 del DPCM 28 luglio 2022 e articolo 29 del decreto-legge n. 144 del 2022: rimodulazioni e verifiche in itinere ed ex post.”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Wed, 09 Nov 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Normativa e documenti europei | Aggiornamento della Guida DNSH emanato ad ottobre 2022</title>
+      <title>#Circolari, linee guida, Leggi, decreti legislativi e decreti-legge | Aggiornamento della Guida DNSH emanato ad ottobre 2022</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida, Leggi, decreti legislativi e decreti-legge | Operational arrangements tra la Commissione Europea e l’Italia</title>
+      <title>#Circolari, linee guida | Operational arrangements tra la Commissione Europea e l’Italia</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 GMT</pubDate>
     </item>
@@ -75,27 +80,27 @@
       <pubDate>Wed, 05 Oct 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida | Circolare n.28 del 4.07.2022 “Controllo di regolarità amministrativa e contabile dei rendiconti di contabilità ordinaria e di contabilità speciale. Controllo di regolarità amministrativa e contabile sugli atti di gestione delle risorse del PNRR - prime indicazioni operative”</title>
+      <title>#Decreti amministrativi e regolamenti | Circolare n.28 del 4.07.2022 “Controllo di regolarità amministrativa e contabile dei rendiconti di contabilità ordinaria e di contabilità speciale. Controllo di regolarità amministrativa e contabile sugli atti di gestione delle risorse del PNRR - prime indicazioni operative”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Decreti amministrativi e regolamenti | Circolare n.31 del 21.09.2022 “Modalità di accesso al Fondo per l’avvio di opere indifferibili di cui all'articolo 26, commi 7 e 7-bis, del decreto-legge 17 maggio 2022, n. 50.</title>
+      <title>#Italia | Circolare n.31 del 21.09.2022 “Modalità di accesso al Fondo per l’avvio di opere indifferibili di cui all'articolo 26, commi 7 e 7-bis, del decreto-legge 17 maggio 2022, n. 50.</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Italia | Circolare n.32 del 22.09.2022 “Piano Nazionale di Ripresa e Resilienza – acquisto di immobili a valere sul PNRR&quot;</title>
+      <title>#Circolari, linee guida | Circolare n.32 del 22.09.2022 “Piano Nazionale di Ripresa e Resilienza – acquisto di immobili a valere sul PNRR&quot;</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida | D.M. MEF 06.08.2021 “Assegnazione delle risorse finanziarie previste per l’attuazione degli interventi del Piano nazionale di ripresa e resilienza (PNRR) e s.m.i.”</title>
+      <title>#Altro | D.M. MEF 06.08.2021 “Assegnazione delle risorse finanziarie previste per l’attuazione degli interventi del Piano nazionale di ripresa e resilienza (PNRR) e s.m.i.”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Altro | Circolare n.30 dell’11.08.2022 “Circolare sulle procedure di controllo e rendicontazione delle misure PNRR”</title>
+      <title>#Decreti amministrativi e regolamenti | Circolare n.30 dell’11.08.2022 “Circolare sulle procedure di controllo e rendicontazione delle misure PNRR”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
     </item>
@@ -105,7 +110,7 @@
       <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Decreti amministrativi e regolamenti | Le domande su ReGiS: risposte per gli attori istituzionali del PNRR</title>
+      <title>#Altro | Le domande su ReGiS: risposte per gli attori istituzionali del PNRR</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
     </item>
@@ -115,19 +120,14 @@
       <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida | M4C2-18 - Investimento 1.5: Creazione e rafforzamento di &quot;ecosistemi dell'innovazione per la sostenibilità&quot;, creazione di &quot;leader territoriali di R&amp;S&quot; – Decreti di concessione dei finanziamenti</title>
+      <title># | M4C2-18 - Investimento 1.5: Creazione e rafforzamento di &quot;ecosistemi dell'innovazione per la sostenibilità&quot;, creazione di &quot;leader territoriali di R&amp;S&quot; – Decreti di concessione dei finanziamenti</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Altro | M4C2-19 - Investimento 1.4: Potenziamento strutture di ricerca e creazione di &quot;campioni nazionali di R&amp;S&quot; su alcune Key Enabling Technologies – Decreti di concessione dei finanziamenti</title>
+      <title># | M4C2-19 - Investimento 1.4: Potenziamento strutture di ricerca e creazione di &quot;campioni nazionali di R&amp;S&quot; su alcune Key Enabling Technologies – Decreti di concessione dei finanziamenti</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title># | Circolare n.31 del 14.12.2021 “Rendicontazione PNRR al 31.12.2021 - Trasmissione dichiarazione di gestione e check-list relativa a milestone e target</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Wed, 22 Jun 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
