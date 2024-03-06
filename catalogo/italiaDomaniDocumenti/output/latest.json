@@ -1,5 +1,14 @@
 [
 {
+  "date": "22/02/24",
+  "type": "Circolari, linee guida",
+  "author": "",
+  "title": "Quarta relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza",
+  "path": null,
+  "datetime": "2024-02-22",
+  "URL": "https://italiadomani.gov.it"
+},
+{
   "date": "07/12/23",
   "type": "Circolari, linee guida",
   "author": "",
@@ -11,7 +20,7 @@
 {
   "date": "15/09/23",
   "type": "Circolari, linee guida",
-  "author": "",
+  "author": "Italia",
   "title": "Circolare del 15 settembre 2023, n. 27 - \"Integrazione delle Linee Guida per lo svolgimento delle attività di controllo e rendicontazione delle Misure PNRR di competenza delle Amministrazioni centrali e dei Soggetti Attuatori. Adozione dell’Appendice tematica Rilevazione delle titolarità effettive ex art. 22 par. 2 lett. d) Reg. (UE) 2021/241 e comunicazione alla UIF di operazioni sospette da parte della Pubblica amministrazione ex art. 10, d.lgs. 231/2007.",
   "path": null,
   "datetime": "2023-09-15",
@@ -20,7 +29,7 @@
 {
   "date": "01/08/23",
   "type": "Circolari, linee guida",
-  "author": "Italia",
+  "author": "",
   "title": "Valutazioni positive (Preliminary assessment) della Commissione europea sulle richieste di pagamento del PNRR italiano (ENG Version)",
   "path": null,
   "datetime": "2023-08-01",
@@ -29,7 +38,7 @@
 {
   "date": "25/07/23",
   "type": "Circolari, linee guida",
-  "author": "",
+  "author": "Italia",
   "title": "Circolare n. 25 del 24.07.2023 “Linee guida operative relative alle modalità di attivazione delle anticipazioni di cassa a valere sulle contabilità di tesoreria NGEU”",
   "path": null,
   "datetime": "2023-07-25",
@@ -46,7 +55,7 @@
 },
 {
   "date": "20/06/23",
-  "type": "Circolari, linee guida",
+  "type": "Leggi, decreti legislativi e decreti-legge",
   "author": "Italia",
   "title": "Terza Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza",
   "path": null,
@@ -55,7 +64,7 @@
 },
 {
   "date": "28/04/23",
-  "type": "Leggi, decreti legislativi e decreti-legge",
+  "type": "Circolari, linee guida",
   "author": "Italia",
   "title": "Circolare n. 19 del 27.04.2023 “Utilizzo del sistema ReGiS per gli adempimenti PNRR e modalità di attivazione delle anticipazioni di cassa a valere sulle contabilità di tesoreria NGEU”",
   "path": null,
@@ -65,7 +74,7 @@
 {
   "date": "20/03/23",
   "type": "Circolari, linee guida",
-  "author": "Italia",
+  "author": "",
   "title": "Circolare del 13 marzo 2023, n. 10",
   "path": null,
   "datetime": "2023-03-20",
@@ -73,8 +82,8 @@
 },
 {
   "date": "24/02/23",
-  "type": "Circolari, linee guida",
-  "author": "",
+  "type": "Decreti amministrativi e regolamenti",
+  "author": "Italia",
   "title": "DECRETO-LEGGE 24 febbraio 2023, n. 13",
   "path": null,
   "datetime": "2023-02-24",
@@ -82,7 +91,7 @@
 },
 {
   "date": "15/12/22",
-  "type": "Decreti amministrativi e regolamenti",
+  "type": "Circolari, linee guida",
   "author": "Italia",
   "title": "Circolare n.43 del 14.12.2022 “Interventi PNRR gestiti sul modulo finanziario del sistema ReGiS. Operazioni contabili esercizio finanziario 2022”",
   "path": null,
@@ -100,8 +109,8 @@
 },
 {
   "date": "24/11/22",
-  "type": "Circolari, linee guida",
-  "author": "Italia",
+  "type": "Normativa e documenti europei",
+  "author": "",
   "title": "Decreto del Ragioniere generale dello Stato n.160 del 18 novembre 2022 – Assegnazione risorse del Fondo per l’avvio delle opere indifferibili",
   "path": null,
   "datetime": "2022-11-24",
@@ -109,8 +118,8 @@
 },
 {
   "date": "09/11/22",
-  "type": "Normativa e documenti europei",
-  "author": "",
+  "type": "Circolari, linee guida, Leggi, decreti legislativi e decreti-legge",
+  "author": "Italia",
   "title": "Circolare n.37 del 09.11.2022 “Procedura “semplificata” di cui all’articolo 7 del DPCM 28 luglio 2022 e articolo 29 del decreto-legge n. 144 del 2022: rimodulazioni e verifiche in itinere ed ex post.”",
   "path": null,
   "datetime": "2022-11-09",
@@ -118,7 +127,7 @@
 },
 {
   "date": "28/10/22",
-  "type": "Circolari, linee guida, Leggi, decreti legislativi e decreti-legge",
+  "type": "Circolari, linee guida",
   "author": "Italia",
   "title": "Aggiornamento della Guida DNSH emanato ad ottobre 2022",
   "path": null,
@@ -145,8 +154,8 @@
 },
 {
   "date": "05/10/22",
-  "type": "Circolari, linee guida",
-  "author": "Italia",
+  "type": "Decreti amministrativi e regolamenti",
+  "author": "",
   "title": "Seconda Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza",
   "path": null,
   "datetime": "2022-10-05",
@@ -154,7 +163,7 @@
 },
 {
   "date": "23/09/22",
-  "type": "Decreti amministrativi e regolamenti",
+  "type": "Italia",
   "author": "",
   "title": "Circolare n.28 del 4.07.2022 “Controllo di regolarità amministrativa e contabile dei rendiconti di contabilità ordinaria e di contabilità speciale. Controllo di regolarità amministrativa e contabile sugli atti di gestione delle risorse del PNRR - prime indicazioni operative”",
   "path": null,
@@ -163,7 +172,7 @@
 },
 {
   "date": "23/09/22",
-  "type": "Italia",
+  "type": "Circolari, linee guida",
   "author": "",
   "title": "Circolare n.31 del 21.09.2022 “Modalità di accesso al Fondo per l’avvio di opere indifferibili di cui all'articolo 26, commi 7 e 7-bis, del decreto-legge 17 maggio 2022, n. 50.",
   "path": null,
@@ -172,7 +181,7 @@
 },
 {
   "date": "23/09/22",
-  "type": "Circolari, linee guida",
+  "type": "Altro",
   "author": "",
   "title": "Circolare n.32 del 22.09.2022 “Piano Nazionale di Ripresa e Resilienza – acquisto di immobili a valere sul PNRR\"",
   "path": null,
@@ -181,7 +190,7 @@
 },
 {
   "date": "24/08/22",
-  "type": "Altro",
+  "type": "",
   "author": "",
   "title": "D.M. MEF 06.08.2021 “Assegnazione delle risorse finanziarie previste per l’attuazione degli interventi del Piano nazionale di ripresa e resilienza (PNRR) e s.m.i.”",
   "path": null,
@@ -190,7 +199,7 @@
 },
 {
   "date": "12/08/22",
-  "type": "Decreti amministrativi e regolamenti",
+  "type": "",
   "author": "",
   "title": "Circolare n.30 dell’11.08.2022 “Circolare sulle procedure di controllo e rendicontazione delle misure PNRR”",
   "path": null,
@@ -213,15 +222,6 @@
   "title": "Le domande su ReGiS: risposte per gli attori istituzionali del PNRR",
   "path": null,
   "datetime": "2022-07-22",
-  "URL": "https://italiadomani.gov.it"
-},
-{
-  "date": "14/07/22",
-  "type": "",
-  "author": "",
-  "title": "M4C2-19 - Investimento 1.4: Potenziamento strutture di ricerca e creazione di \"campioni nazionali di R&S\" su alcune Key Enabling Technologies – Decreti di concessione dei finanziamenti",
-  "path": null,
-  "datetime": "2022-07-14",
   "URL": "https://italiadomani.gov.it"
 }
 ]
