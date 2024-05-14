@@ -1,5 +1,14 @@
 [
 {
+  "date": "14/05/24",
+  "type": "Circolari, linee guida",
+  "author": "Italia",
+  "title": "Aggiornamento della Guida DNSH emanato a maggio 2024",
+  "path": null,
+  "datetime": "2024-05-14",
+  "URL": "https://italiadomani.gov.it"
+},
+{
   "date": "22/02/24",
   "type": "Circolari, linee guida",
   "author": "",
@@ -100,8 +109,8 @@
 },
 {
   "date": "13/12/22",
-  "type": "Circolari, linee guida",
-  "author": "Italia",
+  "type": "Normativa e documenti europei",
+  "author": "",
   "title": "Circolare n.41 del 7.12.2022 “Piano Nazionale di Ripresa e Resilienza (PNRR) - Rendicontazione milestone/target connessi alla terza “Richiesta di pagamento” alla C.E.”",
   "path": null,
   "datetime": "2022-12-13",
@@ -109,8 +118,8 @@
 },
 {
   "date": "24/11/22",
-  "type": "Normativa e documenti europei",
-  "author": "",
+  "type": "Circolari, linee guida, Leggi, decreti legislativi e decreti-legge",
+  "author": "Italia",
   "title": "Decreto del Ragioniere generale dello Stato n.160 del 18 novembre 2022 – Assegnazione risorse del Fondo per l’avvio delle opere indifferibili",
   "path": null,
   "datetime": "2022-11-24",
@@ -118,20 +127,11 @@
 },
 {
   "date": "09/11/22",
-  "type": "Circolari, linee guida, Leggi, decreti legislativi e decreti-legge",
+  "type": "Circolari, linee guida",
   "author": "Italia",
   "title": "Circolare n.37 del 09.11.2022 “Procedura “semplificata” di cui all’articolo 7 del DPCM 28 luglio 2022 e articolo 29 del decreto-legge n. 144 del 2022: rimodulazioni e verifiche in itinere ed ex post.”",
   "path": null,
   "datetime": "2022-11-09",
-  "URL": "https://italiadomani.gov.it"
-},
-{
-  "date": "28/10/22",
-  "type": "Circolari, linee guida",
-  "author": "Italia",
-  "title": "Aggiornamento della Guida DNSH emanato ad ottobre 2022",
-  "path": null,
-  "datetime": "2022-10-28",
   "URL": "https://italiadomani.gov.it"
 },
 {
