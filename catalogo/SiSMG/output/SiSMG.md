@@ -14,8 +14,8 @@
 | [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 settembre 2020 - 27 luglio 2021](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3102_allegato.pdf) |
 | [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 gennaio 2021 - 30 novembre 2021](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3153_allegato.pdf) |
 | [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 settembre 2020 - 7 settembre 2021](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3119_allegato.pdf) |
-| [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 settembre 2020 - 15 giugno 2021](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3085_allegato.pdf) |
 | [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 settembre 2020 - 18 maggio 2021](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3066_allegato.pdf) |
+| [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 settembre 2020 - 15 giugno 2021](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3085_allegato.pdf) |
 | [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 gennaio 2021 - 24 maggio 2022](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3235_allegato.pdf) |
 | [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 gennaio 2021 - 10 maggio 2022](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3230_allegato.pdf) |
 | [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 gennaio 2021 - 26 aprile 2022](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3226_allegato.pdf) |
