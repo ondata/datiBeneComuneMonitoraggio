@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Circolari, linee guida | La Raccolta normativa PNRR</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Circolari, linee guida | Aggiornamento della Guida DNSH emanato a maggio 2024</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
@@ -105,7 +110,7 @@
       <pubDate>Fri, 23 Sep 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Altro | Circolare n.32 del 22.09.2022 “Piano Nazionale di Ripresa e Resilienza – acquisto di immobili a valere sul PNRR&quot;</title>
+      <title># | Circolare n.32 del 22.09.2022 “Piano Nazionale di Ripresa e Resilienza – acquisto di immobili a valere sul PNRR&quot;</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 GMT</pubDate>
     </item>
@@ -123,11 +128,6 @@
       <title># | Circolare n.29 del 26.07.2022 “Modalità di erogazione delle risorse PNRR e principali modalità di contabilizzazione da parte degli enti territoriali soggetti attuatori”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title># | Le domande su ReGiS: risposte per gli attori istituzionali del PNRR</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

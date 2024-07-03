@@ -1,5 +1,14 @@
 [
 {
+  "date": "03/07/24",
+  "type": "Circolari, linee guida",
+  "author": "Italia",
+  "title": "La Raccolta normativa PNRR",
+  "path": null,
+  "datetime": "2024-07-03",
+  "URL": "https://italiadomani.gov.it"
+},
+{
   "date": "14/05/24",
   "type": "Circolari, linee guida",
   "author": "Italia",
@@ -181,7 +190,7 @@
 },
 {
   "date": "23/09/22",
-  "type": "Altro",
+  "type": "",
   "author": "",
   "title": "Circolare n.32 del 22.09.2022 “Piano Nazionale di Ripresa e Resilienza – acquisto di immobili a valere sul PNRR\"",
   "path": null,
@@ -213,15 +222,6 @@
   "title": "Circolare n.29 del 26.07.2022 “Modalità di erogazione delle risorse PNRR e principali modalità di contabilizzazione da parte degli enti territoriali soggetti attuatori”",
   "path": null,
   "datetime": "2022-07-26",
-  "URL": "https://italiadomani.gov.it"
-},
-{
-  "date": "22/07/22",
-  "type": "",
-  "author": "",
-  "title": "Le domande su ReGiS: risposte per gli attori istituzionali del PNRR",
-  "path": null,
-  "datetime": "2022-07-22",
   "URL": "https://italiadomani.gov.it"
 }
 ]
