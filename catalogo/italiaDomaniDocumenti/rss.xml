@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Altro | Raccolta FAQ sul principio DNSH</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Circolari, linee guida | Quinta Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 30 Jul 2024 00:00:00 GMT</pubDate>
@@ -100,7 +105,7 @@
       <pubDate>Wed, 26 Oct 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Italia | Seconda Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza</title>
+      <title># | Seconda Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Wed, 05 Oct 2022 00:00:00 GMT</pubDate>
     </item>
@@ -123,11 +128,6 @@
       <title># | D.M. MEF 06.08.2021 “Assegnazione delle risorse finanziarie previste per l’attuazione degli interventi del Piano nazionale di ripresa e resilienza (PNRR) e s.m.i.”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title># | Circolare n.30 dell’11.08.2022 “Circolare sulle procedure di controllo e rendicontazione delle misure PNRR”</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
