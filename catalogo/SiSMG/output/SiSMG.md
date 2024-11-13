@@ -10,8 +10,8 @@
 | [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 gennaio 2021 - 26 aprile 2022](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3226_allegato.pdf) |
 | [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 gennaio 2021 - 15 marzo 2022](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3210_allegato.pdf) |
 | [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 gennaio 2021 - 29 marzo 2022](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3221_allegato.pdf) |
-| [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 settembre 2020 - 5 ottobre 2021](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3133_allegato.pdf) |
-| [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 gennaio 2021 - 22 febbraio 2022](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3199_allegato.pdf) |
+| [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 gennaio 2021 - 15 marzo 2022](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3210_allegato.pdf) |
+| [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 gennaio 2021 - 29 marzo 2022](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3221_allegato.pdf) |
 | [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 gennaio 2021 - 15 febbraio 2022](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3193_allegato.pdf) |
 | [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 settembre 2020 - 19 ottobre 2021](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3136_allegato.pdf) |
 | [Andamento della mortalità giornaliera (SiSMG) nelle città italiane in relazione all’epidemia di Covid-19 - 1 settembre 2020 - 16 novembre 2021](http://www.salute.gov.it/imgs/C_17_pubblicazioni_3147_allegato.pdf) |
