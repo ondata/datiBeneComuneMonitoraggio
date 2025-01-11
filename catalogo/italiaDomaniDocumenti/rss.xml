@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Leggi, decreti legislativi e decreti-legge | Decreto 6 dicembre 2024 - Criteri e modalità per l'attivazione dei trasferimenti di risorse PNRR</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Altro | Raccolta FAQ sul principio DNSH</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
@@ -100,7 +105,7 @@
       <pubDate>Fri, 28 Oct 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Decreti amministrativi e regolamenti | Circolare n.34 del 17 ottobre 2022 “Linee guida metodologiche per la rendicontazione degli indicatori comuni per il Piano nazionale di ripresa e resilienza”</title>
+      <title># | Circolare n.34 del 17 ottobre 2022 “Linee guida metodologiche per la rendicontazione degli indicatori comuni per il Piano nazionale di ripresa e resilienza”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 GMT</pubDate>
     </item>
@@ -123,11 +128,6 @@
       <title># | Circolare n.32 del 22.09.2022 “Piano Nazionale di Ripresa e Resilienza – acquisto di immobili a valere sul PNRR&quot;</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title># | D.M. MEF 06.08.2021 “Assegnazione delle risorse finanziarie previste per l’attuazione degli interventi del Piano nazionale di ripresa e resilienza (PNRR)&quot; e s.m.i.</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
