@@ -5,6 +5,21 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Circolari, linee guida, Leggi, decreti legislativi e decreti-legge | Circolare n. 29 del 31/05/2024</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#Circolari, linee guida, Leggi, decreti legislativi e decreti-legge | Circolare n. 33 DEL 15/07/2024 - Aggiornamento Linee guida metodologiche per la rendicontazione degli indicatori comuni per il PNRR</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#Circolari, linee guida, Leggi, decreti legislativi e decreti-legge | Circolare n. 38 del 22/11/2024</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Leggi, decreti legislativi e decreti-legge | Decreto 6 dicembre 2024 - Criteri e modalità per l'attivazione dei trasferimenti di risorse PNRR</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
@@ -90,17 +105,17 @@
       <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida | Decreto del Ragioniere generale dello Stato n.160 del 18 novembre 2022 – Assegnazione risorse del Fondo per l’avvio delle opere indifferibili</title>
+      <title># | Decreto del Ragioniere generale dello Stato n.160 del 18 novembre 2022 – Assegnazione risorse del Fondo per l’avvio delle opere indifferibili</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida | Circolare n.37 del 09.11.2022 “Procedura “semplificata” di cui all’articolo 7 del DPCM 28 luglio 2022 e articolo 29 del decreto-legge n. 144 del 2022: rimodulazioni e verifiche in itinere ed ex post.”</title>
+      <title># | Circolare n.37 del 09.11.2022 “Procedura “semplificata” di cui all’articolo 7 del DPCM 28 luglio 2022 e articolo 29 del decreto-legge n. 144 del 2022: rimodulazioni e verifiche in itinere ed ex post.”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Wed, 09 Nov 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida | Operational arrangements tra la Commissione Europea e l’Italia</title>
+      <title># | Operational arrangements tra la Commissione Europea e l’Italia</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 GMT</pubDate>
     </item>
@@ -113,21 +128,6 @@
       <title># | Seconda Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Wed, 05 Oct 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title># | Circolare n.28 del 4.07.2022 “Controllo di regolarità amministrativa e contabile dei rendiconti di contabilità ordinaria e di contabilità speciale. Controllo di regolarità amministrativa e contabile sugli atti di gestione delle risorse del PNRR - prime indicazioni operative”</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Fri, 23 Sep 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title># | Circolare n.31 del 21.09.2022 “Modalità di accesso al Fondo per l’avvio di opere indifferibili di cui all'articolo 26, commi 7 e 7-bis, del decreto-legge 17 maggio 2022, n. 50.</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Fri, 23 Sep 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title># | Circolare n.32 del 22.09.2022 “Piano Nazionale di Ripresa e Resilienza – acquisto di immobili a valere sul PNRR&quot;</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Fri, 23 Sep 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
