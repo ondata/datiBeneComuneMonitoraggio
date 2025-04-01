@@ -13,25 +13,22 @@ mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
 mkdir -p "$folder"/../output
 
-#URLBase="https://italiadomani.gov.it/it/strumenti/documenti/jcr:content/root/container/documentssearch.searchResults.html?orderby=%2540jcr%253Acontent%252Fdate&sort=desc"
-
 URLBase="https://italiadomani.gov.it/it/strumenti/documenti/archivio-documenti/jcr:content/root/container/documentssearch.searchResults.html?orderby=%40jcr%3Acontent%2Fdate&sort=desc"
 
-# controlla risposta pHTTP agina e scarica elenco dei documenti
-code=$(curl -s -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' -o "$folder"/rawdata/tmp.html -w "%{http_code}" "$URLBase")
+# controlla risposta HTTP della pagina e scarica elenco dei documenti usando Chrome headless
+rm -f "$folder"/rawdata/tmp.html 2>/dev/null || true
+google-chrome-stable --headless --disable-gpu --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" --dump-dom "$URLBase" > "$folder"/rawdata/tmp.html
 
-# se il server risponde fai partire lo script
-if [ $code -eq 200 ]; then
+# verifica se il file è stato scaricato correttamente e contiene i dati
+if [ -s "$folder"/rawdata/tmp.html ] && grep -q "documentssearch" "$folder"/rawdata/tmp.html; then
   echo "OK"
-
-# se non è raggiungibile esci
+# se non è stato scaricato correttamente, esci
 else
+  echo "Errore nel download della pagina"
   exit 1
 fi
 
-
 # estrai tipo e autore documento
-#scrape <"$folder"/rawdata/tmp.html -be "//div[@class='banner-documents']" | xq -c '.html.body.div[]|{type:.span[0]."#text",author:.span[1]."#text"}' | mlr --json cat -n >"$folder"/rawdata/tmpTypeAuthor.json
 scrape <"$folder"/rawdata/tmp.html -be "//div[@class='banner-documents']" | xq -c '.html.body.div[]|{type:(.span|if type=="array" then .[0]["#text"] else .["#text"] end),author:(.span|if type=="array" then .[1]["#text"] else "" end)}' | mlr --json cat -n >"$folder"/rawdata/tmpTypeAuthor.json
 
 
