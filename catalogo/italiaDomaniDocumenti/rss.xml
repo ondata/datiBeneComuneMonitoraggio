@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Circolari, linee guida, Leggi, decreti legislativi e decreti-legge | Sesta Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Circolari, linee guida, Leggi, decreti legislativi e decreti-legge | Circolare n. 29 del 31/05/2024</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
@@ -15,17 +20,17 @@
       <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida, Leggi, decreti legislativi e decreti-legge | Circolare n. 38 del 22/11/2024</title>
+      <title>#Leggi, decreti legislativi e decreti-legge | Circolare n. 38 del 22/11/2024</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Leggi, decreti legislativi e decreti-legge | Decreto 6 dicembre 2024 - Criteri e modalità per l'attivazione dei trasferimenti di risorse PNRR</title>
+      <title>#Altro | Decreto 6 dicembre 2024 - Criteri e modalità per l'attivazione dei trasferimenti di risorse PNRR</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Altro | Raccolta FAQ sul principio DNSH</title>
+      <title>#Circolari, linee guida | Raccolta FAQ sul principio DNSH</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
     </item>
@@ -65,12 +70,12 @@
       <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida | Circolare n. 25 del 24.07.2023 “Linee guida operative relative alle modalità di attivazione delle anticipazioni di cassa a valere sulle contabilità di tesoreria NGEU”</title>
+      <title>#Leggi, decreti legislativi e decreti-legge | Circolare n. 25 del 24.07.2023 “Linee guida operative relative alle modalità di attivazione delle anticipazioni di cassa a valere sulle contabilità di tesoreria NGEU”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Leggi, decreti legislativi e decreti-legge | Manuali tecnico-operativi delle Amministrazioni Centrali</title>
+      <title>#Circolari, linee guida | Manuali tecnico-operativi delle Amministrazioni Centrali</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
     </item>
@@ -80,27 +85,27 @@
       <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida | Circolare n. 19 del 27.04.2023 “Utilizzo del sistema ReGiS per gli adempimenti PNRR e modalità di attivazione delle anticipazioni di cassa a valere sulle contabilità di tesoreria NGEU”</title>
+      <title>#Decreti amministrativi e regolamenti | Circolare n. 19 del 27.04.2023 “Utilizzo del sistema ReGiS per gli adempimenti PNRR e modalità di attivazione delle anticipazioni di cassa a valere sulle contabilità di tesoreria NGEU”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Decreti amministrativi e regolamenti | Circolare del 13 marzo 2023, n. 10</title>
+      <title>#Circolari, linee guida | Circolare del 13 marzo 2023, n. 10</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Mon, 20 Mar 2023 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida | DECRETO-LEGGE 24 febbraio 2023, n. 13</title>
+      <title>#Normativa e documenti europei | DECRETO-LEGGE 24 febbraio 2023, n. 13</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Normativa e documenti europei | Circolare n.43 del 14.12.2022 “Interventi PNRR gestiti sul modulo finanziario del sistema ReGiS. Operazioni contabili esercizio finanziario 2022”</title>
+      <title>#Circolari, linee guida, Leggi, decreti legislativi e decreti-legge | Circolare n.43 del 14.12.2022 “Interventi PNRR gestiti sul modulo finanziario del sistema ReGiS. Operazioni contabili esercizio finanziario 2022”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida, Leggi, decreti legislativi e decreti-legge | Circolare n.41 del 7.12.2022 “Piano Nazionale di Ripresa e Resilienza (PNRR) - Rendicontazione milestone/target connessi alla terza “Richiesta di pagamento” alla C.E.”</title>
+      <title># | Circolare n.41 del 7.12.2022 “Piano Nazionale di Ripresa e Resilienza (PNRR) - Rendicontazione milestone/target connessi alla terza “Richiesta di pagamento” alla C.E.”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
     </item>
@@ -123,11 +128,6 @@
       <title># | Circolare n.34 del 17 ottobre 2022 “Linee guida metodologiche per la rendicontazione degli indicatori comuni per il Piano nazionale di ripresa e resilienza”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title># | Seconda Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Wed, 05 Oct 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

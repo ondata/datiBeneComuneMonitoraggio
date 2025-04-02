@@ -1,5 +1,14 @@
 [
 {
+  "date": "02/04/25",
+  "type": "Circolari, linee guida, Leggi, decreti legislativi e decreti-legge",
+  "author": "Italia",
+  "title": "Sesta Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza",
+  "path": "null",
+  "datetime": "2025-04-02",
+  "URL": "https://italiadomani.gov.it"
+},
+{
   "date": "28/01/25",
   "type": "Circolari, linee guida, Leggi, decreti legislativi e decreti-legge",
   "author": "Italia",
@@ -19,7 +28,7 @@
 },
 {
   "date": "28/01/25",
-  "type": "Circolari, linee guida, Leggi, decreti legislativi e decreti-legge",
+  "type": "Leggi, decreti legislativi e decreti-legge",
   "author": "Italia",
   "title": "Circolare n. 38 del 22/11/2024",
   "path": "null",
@@ -28,8 +37,8 @@
 },
 {
   "date": "11/01/25",
-  "type": "Leggi, decreti legislativi e decreti-legge",
-  "author": "Italia",
+  "type": "Altro",
+  "author": "",
   "title": "Decreto 6 dicembre 2024 - Criteri e modalità per l'attivazione dei trasferimenti di risorse PNRR",
   "path": "null",
   "datetime": "2025-01-11",
@@ -37,8 +46,8 @@
 },
 {
   "date": "30/10/24",
-  "type": "Altro",
-  "author": "",
+  "type": "Circolari, linee guida",
+  "author": "Italia",
   "title": "Raccolta FAQ sul principio DNSH",
   "path": "null",
   "datetime": "2024-10-30",
@@ -56,7 +65,7 @@
 {
   "date": "03/07/24",
   "type": "Circolari, linee guida",
-  "author": "Italia",
+  "author": "",
   "title": "La Raccolta normativa PNRR",
   "path": "null",
   "datetime": "2024-07-03",
@@ -74,7 +83,7 @@
 {
   "date": "22/02/24",
   "type": "Circolari, linee guida",
-  "author": "",
+  "author": "Italia",
   "title": "Quarta relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza",
   "path": "null",
   "datetime": "2024-02-22",
@@ -83,7 +92,7 @@
 {
   "date": "07/12/23",
   "type": "Circolari, linee guida",
-  "author": "Italia",
+  "author": "",
   "title": "Manuali operativi per i Soggetti attuatori - Missione 5",
   "path": "null",
   "datetime": "2023-12-07",
@@ -92,7 +101,7 @@
 {
   "date": "15/09/23",
   "type": "Circolari, linee guida",
-  "author": "",
+  "author": "Italia",
   "title": "Circolare del 15 settembre 2023, n. 27 - \"Integrazione delle Linee Guida per lo svolgimento delle attività di controllo e rendicontazione delle Misure PNRR di competenza delle Amministrazioni centrali e dei Soggetti Attuatori. Adozione dell’Appendice tematica Rilevazione delle titolarità effettive ex art. 22 par. 2 lett. d) Reg. (UE) 2021/241 e comunicazione alla UIF di operazioni sospette da parte della Pubblica amministrazione ex art. 10, d.lgs. 231/2007.",
   "path": "null",
   "datetime": "2023-09-15",
@@ -109,7 +118,7 @@
 },
 {
   "date": "25/07/23",
-  "type": "Circolari, linee guida",
+  "type": "Leggi, decreti legislativi e decreti-legge",
   "author": "Italia",
   "title": "Circolare n. 25 del 24.07.2023 “Linee guida operative relative alle modalità di attivazione delle anticipazioni di cassa a valere sulle contabilità di tesoreria NGEU”",
   "path": "null",
@@ -118,7 +127,7 @@
 },
 {
   "date": "22/06/23",
-  "type": "Leggi, decreti legislativi e decreti-legge",
+  "type": "Circolari, linee guida",
   "author": "Italia",
   "title": "Manuali tecnico-operativi delle Amministrazioni Centrali",
   "path": "null",
@@ -128,7 +137,7 @@
 {
   "date": "20/06/23",
   "type": "Circolari, linee guida",
-  "author": "Italia",
+  "author": "",
   "title": "Terza Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza",
   "path": "null",
   "datetime": "2023-06-20",
@@ -136,8 +145,8 @@
 },
 {
   "date": "28/04/23",
-  "type": "Circolari, linee guida",
-  "author": "",
+  "type": "Decreti amministrativi e regolamenti",
+  "author": "Italia",
   "title": "Circolare n. 19 del 27.04.2023 “Utilizzo del sistema ReGiS per gli adempimenti PNRR e modalità di attivazione delle anticipazioni di cassa a valere sulle contabilità di tesoreria NGEU”",
   "path": "null",
   "datetime": "2023-04-28",
@@ -145,7 +154,7 @@
 },
 {
   "date": "20/03/23",
-  "type": "Decreti amministrativi e regolamenti",
+  "type": "Circolari, linee guida",
   "author": "Italia",
   "title": "Circolare del 13 marzo 2023, n. 10",
   "path": "null",
@@ -154,8 +163,8 @@
 },
 {
   "date": "24/02/23",
-  "type": "Circolari, linee guida",
-  "author": "Italia",
+  "type": "Normativa e documenti europei",
+  "author": "",
   "title": "DECRETO-LEGGE 24 febbraio 2023, n. 13",
   "path": "null",
   "datetime": "2023-02-24",
@@ -163,8 +172,8 @@
 },
 {
   "date": "15/12/22",
-  "type": "Normativa e documenti europei",
-  "author": "",
+  "type": "Circolari, linee guida, Leggi, decreti legislativi e decreti-legge",
+  "author": "Italia",
   "title": "Circolare n.43 del 14.12.2022 “Interventi PNRR gestiti sul modulo finanziario del sistema ReGiS. Operazioni contabili esercizio finanziario 2022”",
   "path": "null",
   "datetime": "2022-12-15",
@@ -172,8 +181,8 @@
 },
 {
   "date": "13/12/22",
-  "type": "Circolari, linee guida, Leggi, decreti legislativi e decreti-legge",
-  "author": "Italia",
+  "type": "",
+  "author": "",
   "title": "Circolare n.41 del 7.12.2022 “Piano Nazionale di Ripresa e Resilienza (PNRR) - Rendicontazione milestone/target connessi alla terza “Richiesta di pagamento” alla C.E.”",
   "path": "null",
   "datetime": "2022-12-13",
@@ -213,15 +222,6 @@
   "title": "Circolare n.34 del 17 ottobre 2022 “Linee guida metodologiche per la rendicontazione degli indicatori comuni per il Piano nazionale di ripresa e resilienza”",
   "path": "null",
   "datetime": "2022-10-26",
-  "URL": "https://italiadomani.gov.it"
-},
-{
-  "date": "05/10/22",
-  "type": "",
-  "author": "",
-  "title": "Seconda Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza",
-  "path": "null",
-  "datetime": "2022-10-05",
   "URL": "https://italiadomani.gov.it"
 }
 ]
