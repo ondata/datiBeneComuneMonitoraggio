@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Circolari, linee guida | Raccolta normativa PNRR</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Italia | Quadri sinottici delle Misure del PNRR del Ministero del Lavoro e delle Politiche Sociali</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
@@ -88,11 +93,6 @@
       <title>#Circolari, linee guida | Quinta Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 30 Jul 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#Circolari, linee guida | Raccolta normativa PNRR</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>#Circolari, linee guida | Aggiornamento della Guida DNSH emanato a maggio 2024</title>

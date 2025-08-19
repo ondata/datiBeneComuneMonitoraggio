@@ -1,5 +1,14 @@
 [
 {
+  "date": "19/08/25",
+  "type": "Circolari, linee guida",
+  "author": "Italia",
+  "title": "Raccolta normativa PNRR",
+  "path": "null",
+  "datetime": "2025-08-19",
+  "URL": "https://italiadomani.gov.it"
+},
+{
   "date": "10/07/25",
   "type": "Italia",
   "author": "",
@@ -137,7 +146,7 @@
 {
   "date": "30/10/24",
   "type": "Circolari, linee guida",
-  "author": "Italia",
+  "author": "",
   "title": "Raccolta FAQ sul principio DNSH",
   "path": "null",
   "datetime": "2024-10-30",
@@ -150,15 +159,6 @@
   "title": "Quinta Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza",
   "path": "null",
   "datetime": "2024-07-30",
-  "URL": "https://italiadomani.gov.it"
-},
-{
-  "date": "03/07/24",
-  "type": "Circolari, linee guida",
-  "author": "",
-  "title": "Raccolta normativa PNRR",
-  "path": "null",
-  "datetime": "2024-07-03",
   "URL": "https://italiadomani.gov.it"
 },
 {
