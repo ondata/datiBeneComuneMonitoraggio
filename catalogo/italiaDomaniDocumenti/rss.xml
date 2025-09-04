@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Circolari, linee guida | VADEMECUM DNSH DI IFEL</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Circolari, linee guida | Raccolta normativa PNRR</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
@@ -100,7 +105,7 @@
       <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida | Quarta relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza</title>
+      <title># | Quarta relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
     </item>
@@ -123,11 +128,6 @@
       <title># | Circolare n. 25 del 24.07.2023 “Linee guida operative relative alle modalità di attivazione delle anticipazioni di cassa a valere sulle contabilità di tesoreria NGEU”</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title># | Manuali tecnico-operativi delle Amministrazioni Centrali</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
