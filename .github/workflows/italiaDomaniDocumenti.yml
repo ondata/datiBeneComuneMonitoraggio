@@ -28,7 +28,7 @@ jobs:
         cp bin/scrape ~/bin
         cd ~/bin
         chmod +x scrape
-        sudo pip install yq
+        sudo pip install yq==3.4.3 xmltodict==0.13.0
         sudo apt-get install gdal-bin
     - name: scarica i dati
       run: |-
