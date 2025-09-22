@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Circolari, linee guida | Circolare del 19 settembre 2025, n. 22</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Circolari, linee guida | Cumulo di aiuti e doppio finanziamento - ambito PNRR</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
@@ -123,11 +128,6 @@
       <title># | Circolare del 15 settembre 2023, n. 27 - &quot;Integrazione delle Linee Guida per lo svolgimento delle attività di controllo e rendicontazione delle Misure PNRR di competenza delle Amministrazioni centrali e dei Soggetti Attuatori. Adozione dell’Appendice tematica Rilevazione delle titolarità effettive ex art. 22 par. 2 lett. d) Reg. (UE) 2021/241 e comunicazione alla UIF di operazioni sospette da parte della Pubblica amministrazione ex art. 10, d.lgs. 231/2007.</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title># | Valutazioni positive (Preliminary assessment) della Commissione europea sulle richieste di pagamento del PNRR italiano (ENG Version)</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

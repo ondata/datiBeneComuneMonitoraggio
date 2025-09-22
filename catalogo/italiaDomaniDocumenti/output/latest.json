@@ -1,5 +1,14 @@
 [
 {
+  "date": "22/09/25",
+  "type": "Circolari, linee guida",
+  "author": "",
+  "title": "Circolare del 19 settembre 2025, n. 22",
+  "path": "null",
+  "datetime": "2025-09-22",
+  "URL": "https://italiadomani.gov.it"
+},
+{
   "date": "08/09/25",
   "type": "Circolari, linee guida",
   "author": "",
@@ -30,6 +39,15 @@
   "date": "10/07/25",
   "type": "Italia",
   "author": "",
+  "title": "Quadri sinottici delle Misure del PNRR della Presidenza del Consiglio dei Ministri - Dipartimento per lo sport",
+  "path": "null",
+  "datetime": "2025-07-10",
+  "URL": "https://italiadomani.gov.it"
+},
+{
+  "date": "10/07/25",
+  "type": "Italia",
+  "author": "",
   "title": "Quadri sinottici delle Misure del PNRR della Presidenza del Consiglio dei Ministri - Dipartimento della protezione civile",
   "path": "null",
   "datetime": "2025-07-10",
@@ -40,15 +58,6 @@
   "type": "Italia",
   "author": "",
   "title": "Quadri sinottici delle Misure del PNRR della Presidenza del Consiglio dei Ministri - Dipartimento affari regionali e autonomie",
-  "path": "null",
-  "datetime": "2025-07-10",
-  "URL": "https://italiadomani.gov.it"
-},
-{
-  "date": "10/07/25",
-  "type": "Italia",
-  "author": "",
-  "title": "Quadri sinottici delle Misure del PNRR della Presidenza del Consiglio dei Ministri - Dipartimento per lo sport",
   "path": "null",
   "datetime": "2025-07-10",
   "URL": "https://italiadomani.gov.it"
@@ -84,7 +93,7 @@
   "date": "10/07/25",
   "type": "Italia",
   "author": "",
-  "title": "Quadri sinottici delle Misure del PNRR del Ministero del Lavoro e delle Politiche Sociali",
+  "title": "Quadri sinottici delle Misure del PNRR del Ministero delle infrastrutture e dei trasporti",
   "path": "null",
   "datetime": "2025-07-10",
   "URL": "https://italiadomani.gov.it"
@@ -93,7 +102,7 @@
   "date": "10/07/25",
   "type": "Italia",
   "author": "",
-  "title": "Quadri sinottici delle Misure del PNRR del Ministero delle infrastrutture e dei trasporti",
+  "title": "Quadri sinottici delle Misure del PNRR del Ministero del Lavoro e delle Politiche Sociali",
   "path": "null",
   "datetime": "2025-07-10",
   "URL": "https://italiadomani.gov.it"
@@ -213,15 +222,6 @@
   "title": "Circolare del 15 settembre 2023, n. 27 - \"Integrazione delle Linee Guida per lo svolgimento delle attività di controllo e rendicontazione delle Misure PNRR di competenza delle Amministrazioni centrali e dei Soggetti Attuatori. Adozione dell’Appendice tematica Rilevazione delle titolarità effettive ex art. 22 par. 2 lett. d) Reg. (UE) 2021/241 e comunicazione alla UIF di operazioni sospette da parte della Pubblica amministrazione ex art. 10, d.lgs. 231/2007.",
   "path": "null",
   "datetime": "2023-09-15",
-  "URL": "https://italiadomani.gov.it"
-},
-{
-  "date": "01/08/23",
-  "type": "",
-  "author": "",
-  "title": "Valutazioni positive (Preliminary assessment) della Commissione europea sulle richieste di pagamento del PNRR italiano (ENG Version)",
-  "path": "null",
-  "datetime": "2023-08-01",
   "URL": "https://italiadomani.gov.it"
 }
 ]
