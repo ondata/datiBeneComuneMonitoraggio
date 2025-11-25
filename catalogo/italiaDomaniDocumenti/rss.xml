@@ -5,7 +5,32 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
-      <title>#Italia | Quadri sinottici delle Misure del PNRR del Ministero del Lavoro e delle Politiche Sociali</title>
+      <title>#Circolari, linee guida | DECRETO 9 settembre 2025 (GU Serie Generale n.232 del 06-10-2025)</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#Circolari, linee guida | Circolare del 19 settembre 2025, n. 22</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#Circolari, linee guida | Cumulo di aiuti e doppio finanziamento - ambito PNRR</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#Italia | VADEMECUM DNSH DI IFEL</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#Italia | Raccolta normativa PNRR</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>#Circolari, linee guida, Leggi, decreti legislativi e decreti-legge | Quadri sinottici delle Misure del PNRR del Ministero del Lavoro e delle Politiche Sociali</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
     </item>
@@ -50,57 +75,52 @@
       <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Italia | Quadro sinottico dei trasferimenti</title>
+      <title>#Circolari, linee guida, Leggi, decreti legislativi e decreti-legge | Quadro sinottico dei trasferimenti</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida, Leggi, decreti legislativi e decreti-legge | Sesta Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza</title>
+      <title>#Leggi, decreti legislativi e decreti-legge | Sesta Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida, Leggi, decreti legislativi e decreti-legge | Circolare n. 29 del 31/05/2024</title>
+      <title>#Altro | Circolare n. 29 del 31/05/2024</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Leggi, decreti legislativi e decreti-legge | Circolare n. 33 DEL 15/07/2024 - Aggiornamento Linee guida metodologiche per la rendicontazione degli indicatori comuni per il PNRR</title>
+      <title>#Circolari, linee guida | Circolare n. 33 DEL 15/07/2024 - Aggiornamento Linee guida metodologiche per la rendicontazione degli indicatori comuni per il PNRR</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Altro | Circolare n. 38 del 22/11/2024</title>
+      <title>#Circolari, linee guida | Circolare n. 38 del 22/11/2024</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida | Decreto 6 dicembre 2024 - Criteri e modalità per l'attivazione dei trasferimenti di risorse PNRR</title>
+      <title># | Decreto 6 dicembre 2024 - Criteri e modalità per l'attivazione dei trasferimenti di risorse PNRR</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida | Raccolta FAQ sul principio DNSH</title>
+      <title># | Raccolta FAQ sul principio DNSH</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida | Quinta Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza</title>
+      <title># | Quinta Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 30 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida | Raccolta normativa PNRR</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#Circolari, linee guida | Aggiornamento della Guida DNSH emanato a maggio 2024</title>
+      <title># | Aggiornamento della Guida DNSH emanato a maggio 2024</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>#Circolari, linee guida | Quarta relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza</title>
+      <title># | Quarta relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
     </item>
@@ -108,26 +128,6 @@
       <title># | Manuali operativi per i Soggetti attuatori - Missione 5</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title># | Circolare del 15 settembre 2023, n. 27 - &quot;Integrazione delle Linee Guida per lo svolgimento delle attività di controllo e rendicontazione delle Misure PNRR di competenza delle Amministrazioni centrali e dei Soggetti Attuatori. Adozione dell’Appendice tematica Rilevazione delle titolarità effettive ex art. 22 par. 2 lett. d) Reg. (UE) 2021/241 e comunicazione alla UIF di operazioni sospette da parte della Pubblica amministrazione ex art. 10, d.lgs. 231/2007.</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title># | Valutazioni positive (Preliminary assessment) della Commissione europea sulle richieste di pagamento del PNRR italiano (ENG Version)</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title># | Circolare n. 25 del 24.07.2023 “Linee guida operative relative alle modalità di attivazione delle anticipazioni di cassa a valere sulle contabilità di tesoreria NGEU”</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title># | Manuali tecnico-operativi delle Amministrazioni Centrali</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
