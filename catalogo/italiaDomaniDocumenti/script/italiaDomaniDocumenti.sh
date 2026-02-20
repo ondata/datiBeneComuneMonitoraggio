@@ -28,8 +28,8 @@ else
   exit 1
 fi
 
-# estrai tipo e autore documento
-scrape <"$folder"/rawdata/tmp.html -be "//div[@class='banner-documents']" | xq -c '.html.body.div[]|{type:(.span|if type=="array" then .[0]["#text"] else .["#text"] end),author:(.span|if type=="array" then .[1]["#text"] else "" end)}' | mlr --json cat -n >"$folder"/rawdata/tmpTypeAuthor.json
+# estrai tipo e autore documento (fallback su struttura aggiornata del sito)
+scrape <"$folder"/rawdata/tmp.html -be "//div[@data-cmp-hook-search='wrapper']" | xq -c '(.html.body.div // [])[] | {type:(.div.div[0].h4.button.span | if type=="array" then .[0] else . end),author:""}' | mlr --json cat -n >"$folder"/rawdata/tmpTypeAuthor.json
 
 
 # estrai data, titolo e path documento
@@ -46,8 +46,8 @@ mlr -I --json cat -n "$folder"/rawdata/tmp_data.json
 mlr --json join --ul -j n -f "$folder"/rawdata/tmp_data.json then unsparsify then put -S '$datetime = strftime(strptime($date, "%d/%m/%y"),"%Y-%m-%d");$URL="https://italiadomani.gov.it".$path' then sort -r datetime -f title then clean-whitespace then reorder -f date,type,author,title,path,datetime,URL "$folder"/rawdata/tmpTypeAuthor.json >"$folder"/../output/latest.json
 
 
-# estrai tag dei documenti
-scrape <"$folder"/rawdata/tmp.html -be '//div[@class="banner-documents"]' | xq '.html.body.div[]' | mlr --json cat -n then unsparsify then cut -r -f '^(n|.*div.+text.*)$' then reshape -r "div" -o i,v then filter -x -S '$v==""' then cut -x -f i then nest --implode --values --across-records -f v then rename v,tag >"$folder"/rawdata/tmpTag.json
+# estrai tag dei documenti (se assenti nella nuova struttura, produce tag vuoto per ogni record)
+mlr --json put -S '$tag=""' then cut -f n,tag "$folder"/rawdata/tmpTypeAuthor.json >"$folder"/rawdata/tmpTag.json
 
 # estrai URL documenti
 scrape <"$folder"/rawdata/tmp.html -be '//div[@class="card-body pt-0"]' | xq '.html.body.div' | mlr --json unsparsify then cut -r -f 'href' then cat -n then reshape -r ":" -o i,v then filter -x -S '$v==""' then cut -x -f "i" then rename v,URLfile then put -S '$URLfile="https://italiadomani.gov.it".$URLfile' >"$folder"/rawdata/tmpURL.json
