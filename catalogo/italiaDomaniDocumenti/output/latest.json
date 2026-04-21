@@ -1,5 +1,15 @@
 [
 {
+  "date": "21/04/26",
+  "type": "Linee guida PNRR",
+  "author": "",
+  "title": "Linee guida PNRR",
+  "path": "null",
+  "datetime": "2026-04-21",
+  "URL": "https://italiadomani.gov.it",
+  "tag": ""
+},
+{
   "date": "30/01/26",
   "type": "PCM - Dipartimento Protezione Civile",
   "author": "",
@@ -236,16 +246,6 @@
   "title": "Ministero dell’Agricoltura, della Sovranità Alimentare e delle Foreste",
   "path": "null",
   "datetime": "2026-01-30",
-  "URL": "https://italiadomani.gov.it",
-  "tag": ""
-},
-{
-  "date": "06/10/25",
-  "type": "DECRETO 9 settembre 2025 (GU Serie Generale n.232 del 06-10-2025)",
-  "author": "",
-  "title": "DECRETO 9 settembre 2025 (GU Serie Generale n.232 del 06-10-2025)",
-  "path": "null",
-  "datetime": "2025-10-06",
   "URL": "https://italiadomani.gov.it",
   "tag": ""
 }

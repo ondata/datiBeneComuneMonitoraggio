@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Linee guida PNRR | Linee guida PNRR</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Esiti della ricognizione sulle indicazioni ai soggetti attuatori sul DNSH | Esiti della ricognizione sulle indicazioni ai soggetti attuatori sul DNSH</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
@@ -123,11 +128,6 @@
       <title>#PCM Struttura di Missione PNRR | PCM Struttura di Missione PNRR</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#DECRETO 9 settembre 2025 (GU Serie Generale n.232 del 06-10-2025) | DECRETO 9 settembre 2025 (GU Serie Generale n.232 del 06-10-2025)</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
