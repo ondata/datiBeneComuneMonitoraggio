@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Quadro sinottico conseguimento Target UE | Quadro sinottico conseguimento Target UE</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Linee guida PNRR | Linee guida PNRR</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
@@ -56,11 +61,6 @@
     </item>
     <item>
       <title>#Ministero delle Infrastrutture e dei Trasporti | Ministero delle Infrastrutture e dei Trasporti</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#Ministero dell’Agricoltura, della Sovranità Alimentare e delle Foreste | Ministero dell’Agricoltura, della Sovranità Alimentare e delle Foreste</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
     </item>
