@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Settima Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza | Settima Relazione al Parlamento sullo stato di attuazione del Piano Nazionale di Ripresa e Resilienza</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Attestazioni raggiungimento target UE | Attestazioni raggiungimento target UE</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
@@ -71,11 +76,6 @@
     </item>
     <item>
       <title>#Ministero dell’Ambiente e della Sicurezza Energetica | Ministero dell’Ambiente e della Sicurezza Energetica</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#Ministero dell’Economia e delle Finanze | Ministero dell’Economia e delle Finanze</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
     </item>
