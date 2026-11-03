@@ -5,6 +5,11 @@
     <description>Il feed RSS per essere aggiornati su nuove pubblicazioni nella sezione Documenti di Italia Domani</description>
     <link>https://ondata.github.io/datiBeneComuneMonitoraggio/catalogo/italiaDomaniDocumenti/rss.xml</link>
     <item>
+      <title>#Modalità di registrazione delle “Titolarità Effettive” sul Sistema Informativo ReGiS | Modalità di registrazione delle “Titolarità Effettive” sul Sistema Informativo ReGiS</title>
+      <link>https://italiadomani.gov.it</link>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>#Linee guida Sintesi delle irregolarità su procedure/spese PNRR e del Registro Segnalazioni delle Forze di Polizia e di altri Organismi di controllo esterno | Linee guida Sintesi delle irregolarità su procedure/spese PNRR e del Registro Segnalazioni delle Forze di Polizia e di altri Organismi di controllo esterno</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
@@ -76,11 +81,6 @@
     </item>
     <item>
       <title>#Ministero delle Infrastrutture e dei Trasporti | Ministero delle Infrastrutture e dei Trasporti</title>
-      <link>https://italiadomani.gov.it</link>
-      <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>#Ministero dell’Ambiente e della Sicurezza Energetica | Ministero dell’Ambiente e della Sicurezza Energetica</title>
       <link>https://italiadomani.gov.it</link>
       <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
     </item>
