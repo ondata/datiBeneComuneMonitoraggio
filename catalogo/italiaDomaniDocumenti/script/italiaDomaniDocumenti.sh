@@ -49,13 +49,19 @@ mlr --json join --ul -j n -f "$folder"/rawdata/tmp_data.json then unsparsify the
 # estrai tag dei documenti (se assenti nella nuova struttura, produce tag vuoto per ogni record)
 mlr --json put -S '$tag=""' then cut -f n,tag "$folder"/rawdata/tmpTypeAuthor.json >"$folder"/rawdata/tmpTag.json
 
-# estrai URL documenti
-scrape <"$folder"/rawdata/tmp.html -be '//div[@class="card-body pt-0"]' | xq '.html.body.div' | mlr --json unsparsify then cut -r -f 'href' then cat -n then reshape -r ":" -o i,v then filter -x -S '$v==""' then cut -x -f "i" then rename v,URLfile then put -S '$URLfile="https://italiadomani.gov.it".$URLfile' >"$folder"/rawdata/tmpURL.json
-
-mlr --json join --ul -j n -f "$folder"/../output/latest.json then unsparsify then cut -f title,datetime,URLfile "$folder"/rawdata/tmpURL.json >"$folder"/rawdata/tmpURL_join.json
-
-# aggiorna latest sui file
-mlr --j2c cat then sort -r datetime -f title "$folder"/rawdata/tmpURL_join.json >"$folder"/../output/file_latest.csv
+# estrai una riga per allegato, con titolo e data della scheda che lo contiene
+scrape <"$folder"/rawdata/tmp.html -be "//div[@data-cmp-hook-search='wrapper']" | xq -c '
+  def items: if type == "array" then .[] else . end;
+  .html.body.div | items | .div as $card |
+  ($card.div[0].h4.button.span | items) as $title |
+  $card | .. | objects | select(."@class" == "document-download") |
+  .a | items | ."@href" | strings |
+  (if test("^https?://") then .
+   elif startswith("//") then "https:" + .
+   elif startswith("/") then "https://www.italiadomani.gov.it" + .
+   else empty end) as $url |
+  {title: $title, datetime: $card."@data-date", URLfile: $url}
+' | mlr --j2c put -S '$datetime = strftime(strptime($datetime, "%d/%m/%y"), "%Y-%m-%d")' then clean-whitespace then sort -r datetime -f title >"$folder"/../output/file_latest.csv
 
 # crea file di archivio dei file e se c'è già aggiornalo
 if [ ! -f "$folder"/../output/archive_file.csv ]; then
