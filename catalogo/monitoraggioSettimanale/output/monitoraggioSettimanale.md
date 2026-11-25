@@ -1,5 +1,173 @@
 | titoloFile | dataReport |
 | --- | --- |
+| [Abruzzo](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Abruzzo_20200526.pdf) | 20200526 |
+| [Basilicata](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Basilicata_20200526.pdf) | 20200526 |
+| [Calabria](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Calabria_20200526.pdf) | 20200526 |
+| [Campania](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Campania_20200526.pdf) | 20200526 |
+| [Emilia Romagna](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Emilia-Romagna_20200526.pdf) | 20200526 |
+| [Friuli Venezia Giulia](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Friuli-Venezia%20Giulia_20200526.pdf) | 20200526 |
+| [Lazio](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Lazio_20200526.pdf) | 20200526 |
+| [Liguria](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Liguria_20200526.pdf) | 20200526 |
+| [Lombardia](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Lombardia_20200526.pdf) | 20200526 |
+| [Marche](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Marche_20200526.pdf) | 20200526 |
+| [Molise](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Molise_20200526.pdf) | 20200526 |
+| [PA Bolzano](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/PA_Bolzano_20200526.pdf) | 20200526 |
+| [PA Trento](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/PA_Trento_20200526.pdf) | 20200526 |
+| [Piemonte](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Piemonte_20200526.pdf) | 20200526 |
+| [Puglia](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Puglia_20200526.pdf) | 20200526 |
+| [Sardegna](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Sardegna_20200526.pdf) | 20200526 |
+| [Sicilia](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Sicilia_20200526.pdf) | 20200526 |
+| [Toscana](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Toscana_20200526.pdf) | 20200526 |
+| [Umbria](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Umbria_20200526.pdf) | 20200526 |
+| [Valle D'Aosta](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/ValledAosta_20200526.pdf) | 20200526 |
+| [Veneto](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Veneto_20200526.pdf) | 20200526 |
+| [Abruzzo](https://web.archive.org/web/20201201124321id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Abruzzo_20200603.pdf) | 20200603 |
+| [Basilicata](https://web.archive.org/web/20201201123525id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Basilicata_20200603.pdf) | 20200603 |
+| [Calabria](https://web.archive.org/web/20201201112338id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Calabria_20200603.pdf) | 20200603 |
+| [Campania](https://web.archive.org/web/20201201121146id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Campania_20200603.pdf) | 20200603 |
+| [Emilia Romagna](https://web.archive.org/web/20201201124755id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Emilia-Romagna_20200603.pdf) | 20200603 |
+| [Friuli Venezia Giulia](https://web.archive.org/web/20201201120254id_/https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Friuli-Venezia_Giulia_20200603.pdf) | 20200603 |
+| [Lazio](https://web.archive.org/web/20201201120036id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Lazio_20200603.pdf) | 20200603 |
+| [Liguria](https://web.archive.org/web/20201201122454id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Liguria_20200603.pdf) | 20200603 |
+| [Lombardia](https://web.archive.org/web/20201201121337id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Lombardia_20200603.pdf) | 20200603 |
+| [Marche](https://web.archive.org/web/20201201124520id_/https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Marche_20200603.pdf) | 20200603 |
+| [Molise](https://web.archive.org/web/20201201124508id_/https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Molise_20200603.pdf) | 20200603 |
+| [PA Bolzano](https://web.archive.org/web/20201201112101id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/PA_Bolzano_20200603.pdf) | 20200603 |
+| [PA Trento](https://web.archive.org/web/20201201123623id_/https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/PA_Trento_20200603.pdf) | 20200603 |
+| [Piemonte](https://web.archive.org/web/20201201123604id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Piemonte_20200603.pdf) | 20200603 |
+| [Puglia](https://web.archive.org/web/20201201114054id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Puglia_20200603.pdf) | 20200603 |
+| [Sardegna](https://web.archive.org/web/20201201112607id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Sardegna_20200603.pdf) | 20200603 |
+| [Sicilia](https://web.archive.org/web/20201201124228id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Sicilia_20200603.pdf) | 20200603 |
+| [Toscana](https://web.archive.org/web/20201201124348id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Toscana_20200603.pdf) | 20200603 |
+| [Umbria](https://web.archive.org/web/20201201114551id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Umbria_20200603.pdf) | 20200603 |
+| [Valle D'Aosta](https://web.archive.org/web/20201201121121id_/https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/ValledAosta_20200603.pdf) | 20200603 |
+| [Veneto](https://web.archive.org/web/20201201121759id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Veneto_20200603.pdf) | 20200603 |
+| [Abruzzo](https://web.archive.org/web/20200616132229id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Abruzzo_20200609.pdf) | 20200609 |
+| [Basilicata](https://web.archive.org/web/20200616131548id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Basilicata_20200609.pdf) | 20200609 |
+| [Calabria](https://web.archive.org/web/20200616132718id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Calabria_20200609.pdf) | 20200609 |
+| [Campania](https://web.archive.org/web/20200616132405id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Campania_20200609.pdf) | 20200609 |
+| [Emilia Romagna](https://web.archive.org/web/20200616131140id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Emilia-Romagna_20200609.pdf) | 20200609 |
+| [Friuli Venezia Giulia](https://web.archive.org/web/20200616133554id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Friuli-Venezia%20Giulia_20200609.pdf) | 20200609 |
+| [Lazio](https://web.archive.org/web/20200613123426id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Lazio_20200609.pdf) | 20200609 |
+| [Liguria](https://web.archive.org/web/20200630101152id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Liguria_20200609.pdf) | 20200609 |
+| [Lombardia](https://web.archive.org/web/20200630052808id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Lombardia_20200609.pdf) | 20200609 |
+| [Marche](https://web.archive.org/web/20200630103700id_/https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Marche_20200609.pdf) | 20200609 |
+| [Molise](https://web.archive.org/web/20200630101513id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Molise_20200609.pdf) | 20200609 |
+| [PA Bolzano](https://web.archive.org/web/20200630110153id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/PA_Bolzano_20200609.pdf) | 20200609 |
+| [PA Trento](https://web.archive.org/web/20200928125808id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/PA_Trento_20200609.pdf) | 20200609 |
+| [Piemonte](https://web.archive.org/web/20200630105855id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Piemonte_20200609.pdf) | 20200609 |
+| [Puglia](https://web.archive.org/web/20200616140032id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Puglia_20200609.pdf) | 20200609 |
+| [Sardegna](https://web.archive.org/web/20200616132720id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Sardegna_20200609.pdf) | 20200609 |
+| [Sicilia](https://web.archive.org/web/20200616132412id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Sicilia_20200609.pdf) | 20200609 |
+| [Toscana](https://web.archive.org/web/20210118211127id_/https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Toscana_20200609.pdf) | 20200609 |
+| [Umbria](https://web.archive.org/web/20200630105051id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Umbria_20200609.pdf) | 20200609 |
+| [Valle D'Aosta](https://web.archive.org/web/20200630103127id_/https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/ValledAosta_20200609.pdf) | 20200609 |
+| [Veneto](https://web.archive.org/web/20200630102755id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Veneto_20200609.pdf) | 20200609 |
+| [Abruzzo](https://web.archive.org/web/20200712153022id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Abruzzo_20200616.pdf) | 20200616 |
+| [Basilicata](https://web.archive.org/web/20200830141435id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Basilicata_20200616.pdf) | 20200616 |
+| [Calabria](https://web.archive.org/web/20200706092919id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Calabria_20200616.pdf) | 20200616 |
+| [Campania](https://web.archive.org/web/20200709083334id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Campania_20200616.pdf) | 20200616 |
+| [Emilia Romagna](https://web.archive.org/web/20200706123605id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Emilia-Romagna_20200616.pdf) | 20200616 |
+| [Friuli Venezia Giulia](https://web.archive.org/web/20200708180437id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Friuli-Venezia_Giulia_20200616.pdf) | 20200616 |
+| [Lazio](https://web.archive.org/web/20200802095024id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Lazio_20200616.pdf) | 20200616 |
+| [Liguria](https://web.archive.org/web/20200818170900id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Liguria_20200616.pdf) | 20200616 |
+| [Lombardia](https://web.archive.org/web/20200722104306id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Lombardia_20200616.pdf) | 20200616 |
+| [Marche](https://web.archive.org/web/20200708235816id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Marche_20200616.pdf) | 20200616 |
+| [Molise](https://web.archive.org/web/20200724074803id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Molise_20200616.pdf) | 20200616 |
+| [PA Bolzano](https://web.archive.org/web/20200710133139id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/PA_Bolzano_20200616.pdf) | 20200616 |
+| [PA Trento](https://web.archive.org/web/20200818170908id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/PA_Trento_20200616.pdf) | 20200616 |
+| [Piemonte](https://web.archive.org/web/20200712154020id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Piemonte_20200616.pdf) | 20200616 |
+| [Puglia](https://web.archive.org/web/20200722105844id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Puglia_20200616.pdf) | 20200616 |
+| [Sardegna](https://web.archive.org/web/20200829044008id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Sardegna_20200616.pdf) | 20200616 |
+| [Sicilia](https://web.archive.org/web/20200712154033id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Sicilia_20200616.pdf) | 20200616 |
+| [Toscana](https://web.archive.org/web/20210118201123id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Toscana_20200616.pdf) | 20200616 |
+| [Umbria](https://web.archive.org/web/20200708080211id_/https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Umbria_20200616.pdf) | 20200616 |
+| [Valle D'Aosta](https://web.archive.org/web/20200620055153id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/ValledAosta_20200616.pdf) | 20200616 |
+| [Veneto](https://web.archive.org/web/20200716091534id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Veneto_20200616.pdf) | 20200616 |
+| [Abruzzo](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Abruzzo_20200623.pdf) | 20200623 |
+| [Basilicata](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Basilicata_20200623.pdf) | 20200623 |
+| [Calabria](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Calabria_20200623.pdf) | 20200623 |
+| [Campania](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Campania_20200623.pdf) | 20200623 |
+| [Emilia Romagna](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Emilia-Romagna_20200623.pdf) | 20200623 |
+| [Friuli Venezia Giulia](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Friuli-Venezia_Giulia_20200623.pdf) | 20200623 |
+| [Lazio](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Lazio_20200623.pdf) | 20200623 |
+| [Liguria](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Liguria_20200623.pdf) | 20200623 |
+| [Lombardia](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Lombardia_20200623.pdf) | 20200623 |
+| [Marche](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Marche_20200623.pdf) | 20200623 |
+| [Molise](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Molise_20200623.pdf) | 20200623 |
+| [PA Bolzano](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/PA_Bolzano_20200623.pdf) | 20200623 |
+| [PA Trento](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/PA_Trento_20200623.pdf) | 20200623 |
+| [Piemonte](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Piemonte_20200623.pdf) | 20200623 |
+| [Puglia](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Puglia_20200623.pdf) | 20200623 |
+| [Sardegna](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Sardegna_20200623.pdf) | 20200623 |
+| [Sicilia](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Sicilia_20200623.pdf) | 20200623 |
+| [Toscana](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Toscana_20200623.pdf) | 20200623 |
+| [Umbria](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Umbria_20200623.pdf) | 20200623 |
+| [Valle D'Aosta](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/ValledAosta_20200623.pdf) | 20200623 |
+| [Veneto](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Veneto_20200623.pdf) | 20200623 |
+| [Abruzzo](https://web.archive.org/web/20200715064128id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Abruzzo_20200630.pdf) | 20200630 |
+| [Basilicata](https://web.archive.org/web/20200715064205id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Basilicata_20200630.pdf) | 20200630 |
+| [Calabria](https://web.archive.org/web/20200715064041id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Calabria_20200630.pdf) | 20200630 |
+| [Campania](https://web.archive.org/web/20200715064156id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Campania_20200630.pdf) | 20200630 |
+| [Emilia Romagna](https://web.archive.org/web/20200715064026id_/https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Emilia-Romagna_20200630.pdf) | 20200630 |
+| [Friuli Venezia Giulia](https://web.archive.org/web/20200715064147id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Friuli-Venezia_Giulia_20200630.pdf) | 20200630 |
+| [Lazio](https://web.archive.org/web/20200715064119id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Lazio_20200630.pdf) | 20200630 |
+| [Liguria](https://web.archive.org/web/20200715064142id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Liguria_20200630.pdf) | 20200630 |
+| [Lombardia](https://web.archive.org/web/20200715064048id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Lombardia_20200630.pdf) | 20200630 |
+| [Marche](https://web.archive.org/web/20200715064202id_/https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Marche_20200630.pdf) | 20200630 |
+| [Molise](https://web.archive.org/web/20200715064124id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Molise_20200630.pdf) | 20200630 |
+| [PA Bolzano](https://web.archive.org/web/20200715064214id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/PA_Bolzano_20200630.pdf) | 20200630 |
+| [PA Trento](https://web.archive.org/web/20200715064024id_/https://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/PA_Trento_20200630.pdf) | 20200630 |
+| [Piemonte](https://web.archive.org/web/20200715064158id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Piemonte_20200630.pdf) | 20200630 |
+| [Puglia](https://web.archive.org/web/20200715064034id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Puglia_20200630.pdf) | 20200630 |
+| [Sardegna](https://web.archive.org/web/20200715064113id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Sardegna_20200630.pdf) | 20200630 |
+| [Sicilia](https://web.archive.org/web/20200715064152id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Sicilia_20200630.pdf) | 20200630 |
+| [Toscana](https://web.archive.org/web/20210118211103id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Toscana_20200630.pdf) | 20200630 |
+| [Umbria](https://web.archive.org/web/20200715064022id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Umbria_20200630.pdf) | 20200630 |
+| [Valle D'Aosta](https://web.archive.org/web/20200715064136id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/ValledAosta_20200630.pdf) | 20200630 |
+| [Veneto](https://web.archive.org/web/20200715064020id_/http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Veneto_20200630.pdf) | 20200630 |
+| [Abruzzo](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Abruzzo_20200707.pdf) | 20200707 |
+| [Basilicata](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Basilicata_20200707.pdf) | 20200707 |
+| [Calabria](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Calabria_20200707.pdf) | 20200707 |
+| [Campania](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Campania_20200707.pdf) | 20200707 |
+| [Emilia Romagna](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Emilia-Romagna_20200707.pdf) | 20200707 |
+| [Friuli Venezia Giulia](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Friuli-Venezia_Giulia_20200707.pdf) | 20200707 |
+| [Lazio](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Lazio_20200707.pdf) | 20200707 |
+| [Liguria](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Liguria_20200707.pdf) | 20200707 |
+| [Lombardia](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Lombardia_20200707.pdf) | 20200707 |
+| [Marche](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Marche_20200707.pdf) | 20200707 |
+| [Molise](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Molise_20200707.pdf) | 20200707 |
+| [PA Bolzano](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/PA_Bolzano_20200707.pdf) | 20200707 |
+| [PA Trento](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/PA_Trento_20200707.pdf) | 20200707 |
+| [Piemonte](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Piemonte_20200707.pdf) | 20200707 |
+| [Puglia](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Puglia_20200707.pdf) | 20200707 |
+| [Sardegna](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Sardegna_20200707.pdf) | 20200707 |
+| [Sicilia](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Sicilia_20200707.pdf) | 20200707 |
+| [Toscana](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Toscana_20200707.pdf) | 20200707 |
+| [Umbria](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Umbria_20200707.pdf) | 20200707 |
+| [Valle D'Aosta](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/ValledAosta_20200707.pdf) | 20200707 |
+| [Veneto](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Veneto_20200707.pdf) | 20200707 |
+| [Abruzzo](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Abruzzo_20200714.pdf) | 20200714 |
+| [Basilicata](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Basilicata_20200714.pdf) | 20200714 |
+| [Calabria](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Calabria_20200714.pdf) | 20200714 |
+| [Campania](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Campania_20200714.pdf) | 20200714 |
+| [Emilia Romagna](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Emilia-Romagna_20200714.pdf) | 20200714 |
+| [Friuli Venezia Giulia](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Friuli-Venezia_Giulia_20200714.pdf) | 20200714 |
+| [Lazio](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Lazio_20200714.pdf) | 20200714 |
+| [Liguria](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Liguria_20200714.pdf) | 20200714 |
+| [Lombardia](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Lombardia_20200714.pdf) | 20200714 |
+| [Marche](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Marche_20200714.pdf) | 20200714 |
+| [Molise](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Molise_20200714.pdf) | 20200714 |
+| [PA Bolzano](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/PA_Bolzano_20200714.pdf) | 20200714 |
+| [PA Trento](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/PA_Trento_20200714.pdf) | 20200714 |
+| [Piemonte](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Piemonte_20200714.pdf) | 20200714 |
+| [Puglia](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Puglia_20200714.pdf) | 20200714 |
+| [Sardegna](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Sardegna_20200714.pdf) | 20200714 |
+| [Sicilia](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Sicilia_20200714.pdf) | 20200714 |
+| [Toscana](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Toscana_20200714.pdf) | 20200714 |
+| [Umbria](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Umbria_20200714.pdf) | 20200714 |
+| [Valle D'Aosta](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/ValledAosta_20200714.pdf) | 20200714 |
+| [Veneto](https://raw.githubusercontent.com/ondata/datiBeneComuneMonitoraggio/main/catalogo/monitoraggioSettimanale/script/report/Veneto_20200714.pdf) | 20200714 |
 | [Abruzzo](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Abruzzo_20200721.pdf) | 20200721 |
 | [Basilicata](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Basilicata_20200721.pdf) | 20200721 |
 | [Calabria](http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/Calabria_20200721.pdf) | 20200721 |
